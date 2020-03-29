@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "builds":[{
+          "src": "**/*.py",
+          "use":"@now/python@canary"}],
+  "routes": [{ "src": "/*", "dest": "/" }]
+}
