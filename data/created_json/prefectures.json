@@ -1,0 +1,252 @@
+[
+  {
+    "name": "北海道",
+    "cases": 175,
+    "deaths": 7
+  },
+  {
+    "name": "青森",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "name": "岩手",
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "name": "宮城",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "name": "秋田",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "name": "山形",
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "name": "福島",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "name": "茨城",
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "name": "栃木",
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "name": "群馬",
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "name": "埼玉",
+    "cases": 84,
+    "deaths": 2
+  },
+  {
+    "name": "千葉",
+    "cases": 159,
+    "deaths": 1
+  },
+  {
+    "name": "東京",
+    "cases": 430,
+    "deaths": 8
+  },
+  {
+    "name": "神奈川",
+    "cases": 125,
+    "deaths": 5
+  },
+  {
+    "name": "新潟",
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "name": "富山",
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "name": "石川",
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "name": "福井",
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "name": "山梨",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "name": "長野",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "name": "岐阜",
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "name": "静岡",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "name": "愛知",
+    "cases": 167,
+    "deaths": 19
+  },
+  {
+    "name": "三重",
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "name": "滋賀",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "name": "京都",
+    "cases": 47,
+    "deaths": 0
+  },
+  {
+    "name": "大阪",
+    "cases": 208,
+    "deaths": 2
+  },
+  {
+    "name": "兵庫",
+    "cases": 133,
+    "deaths": 10
+  },
+  {
+    "name": "奈良",
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "name": "和歌山",
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "name": "鳥取",
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "name": "島根",
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "name": "岡山",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "name": "広島",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "name": "山口",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "name": "徳島",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "name": "香川",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "name": "愛媛",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "name": "高知",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "name": "福岡",
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "name": "佐賀",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "name": "長崎",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "name": "熊本",
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "name": "大分",
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "name": "宮崎",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "name": "鹿児島",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "name": "沖縄",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "name": "チャーター便",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "name": "検疫職員",
+    "cases": 41,
+    "deaths": 0
+  },
+  {
+    "name": "クルーズ船",
+    "cases": 712,
+    "deaths": 10
+  }
+]

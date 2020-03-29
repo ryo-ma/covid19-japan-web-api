@@ -16,9 +16,7 @@ async def all(request):
     return json({'result': 'all'})
 
 
-@apiv1.route('/prefectures')
-async def prefecture(request):
-    return json({'result': 'prefecture'})
+apiv1.static('/prefectures', './data/created_json/prefectures.json', name='prefectures')
 
 
 api = Blueprint.group(apiv1)
