@@ -7,12 +7,12 @@
 
 ## Prefectures
 
-*Endpont*: ![https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
+**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
 ```
 $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 ```
 
-*Response:*
+**Response:**
 ```
 [
   {
