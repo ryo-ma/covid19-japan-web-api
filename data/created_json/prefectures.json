@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 175,
+    "cases": 176,
     "deaths": 7
   },
   {
@@ -14,7 +14,7 @@
     "name_en": "Aomori",
     "lat": 40.78027778,
     "lng": 140.83194440000003,
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -41,7 +41,7 @@
     "name_en": "Akita",
     "lat": 39.7475,
     "lng": 140.4086111,
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 16,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 84,
+    "cases": 85,
     "deaths": 2
   },
   {
@@ -113,8 +113,8 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 430,
-    "deaths": 8
+    "cases": 443,
+    "deaths": 9
   },
   {
     "id": 14,
@@ -122,8 +122,8 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 125,
-    "deaths": 5
+    "cases": 128,
+    "deaths": 6
   },
   {
     "id": 15,
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 0,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -158,7 +158,7 @@
     "name_en": "Fukui Prefecture",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu Prefecture",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 20,
+    "cases": 22,
     "deaths": 0
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 4,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto Prefecture",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 47,
+    "cases": 51,
     "deaths": 0
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Osaka Prefecture",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 208,
+    "cases": 216,
     "deaths": 2
   },
   {
@@ -248,8 +248,8 @@
     "name_en": "Hyogo Prefecture",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 133,
-    "deaths": 10
+    "cases": 137,
+    "deaths": 11
   },
   {
     "id": 29,
@@ -266,7 +266,7 @@
     "name_en": "Wakayama Prefecture",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 17,
+    "cases": 18,
     "deaths": 1
   },
   {
@@ -293,7 +293,7 @@
     "name_en": "Okayama Prefecture",
     "lat": 34.90083333,
     "lng": 133.8152778,
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Kōchi Prefecture",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka Prefecture",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 26,
+    "cases": 28,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa Prefecture",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   }
 ]
