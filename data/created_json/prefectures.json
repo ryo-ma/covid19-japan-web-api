@@ -1,252 +1,425 @@
 [
   {
-    "name": "北海道",
-    "cases": 176,
+    "id": 1,
+    "name_ja": "北海道",
+    "name_en": "Hokkaido",
+    "lat": 43.46722222,
+    "lng": 142.8277778,
+    "cases": 175,
     "deaths": 7
   },
   {
-    "name": "青森",
+    "id": 2,
+    "name_ja": "青森",
+    "name_en": "Aomori",
+    "lat": 40.78027778,
+    "lng": 140.83194440000003,
     "cases": 7,
     "deaths": 0
   },
   {
-    "name": "岩手",
+    "id": 3,
+    "name_ja": "岩手",
+    "name_en": "Iwate",
+    "lat": 39.59138889,
+    "lng": 141.3625,
     "cases": 0,
     "deaths": 0
   },
   {
-    "name": "宮城",
-    "cases": 6,
-    "deaths": 0
-  },
-  {
-    "name": "秋田",
+    "id": 4,
+    "name_ja": "宮城",
+    "name_en": "Miyagi",
+    "lat": 38.44555556,
+    "lng": 140.9280556,
     "cases": 4,
     "deaths": 0
   },
   {
-    "name": "山形",
+    "id": 5,
+    "name_ja": "秋田",
+    "name_en": "Akita",
+    "lat": 39.7475,
+    "lng": 140.4086111,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "id": 6,
+    "name_ja": "山形",
+    "name_en": "Yamagata",
+    "lat": 38.44638889,
+    "lng": 140.1027778,
     "cases": 0,
     "deaths": 0
   },
   {
-    "name": "福島",
+    "id": 7,
+    "name_ja": "福島",
+    "name_en": "Fukushima",
+    "lat": 37.37888889,
+    "lng": 140.22527780000001,
     "cases": 2,
     "deaths": 0
   },
   {
-    "name": "茨城",
-    "cases": 20,
+    "id": 8,
+    "name_ja": "茨城",
+    "name_en": "Ibaraki",
+    "lat": 36.30638889,
+    "lng": 140.3186111,
+    "cases": 16,
     "deaths": 0
   },
   {
-    "name": "栃木",
+    "id": 9,
+    "name_ja": "栃木",
+    "name_en": "Tochigi",
+    "lat": 36.68916667,
+    "lng": 139.81916669999998,
     "cases": 12,
     "deaths": 0
   },
   {
-    "name": "群馬",
+    "id": 10,
+    "name_ja": "群馬",
+    "name_en": "Gunma",
+    "lat": 36.50388889,
+    "lng": 138.9852778,
     "cases": 18,
     "deaths": 1
   },
   {
-    "name": "埼玉",
-    "cases": 85,
+    "id": 11,
+    "name_ja": "埼玉",
+    "name_en": "Saitama",
+    "lat": 35.99666667,
+    "lng": 139.34777780000002,
+    "cases": 84,
     "deaths": 2
   },
   {
-    "name": "千葉",
+    "id": 12,
+    "name_ja": "千葉",
+    "name_en": "Chiba",
+    "lat": 35.51277778,
+    "lng": 140.2038889,
     "cases": 159,
     "deaths": 1
   },
   {
-    "name": "東京",
-    "cases": 443,
-    "deaths": 9
+    "id": 13,
+    "name_ja": "東京",
+    "name_en": "Tokyo",
+    "lat": 35.702313700000005,
+    "lng": 139.5803228,
+    "cases": 430,
+    "deaths": 8
   },
   {
-    "name": "神奈川",
-    "cases": 128,
-    "deaths": 6
+    "id": 14,
+    "name_ja": "神奈川",
+    "name_en": "Kanagawa",
+    "lat": 35.41416667,
+    "lng": 139.34027780000002,
+    "cases": 125,
+    "deaths": 5
   },
   {
-    "name": "新潟",
+    "id": 15,
+    "name_ja": "新潟",
+    "name_en": "Niigata",
+    "lat": 37.51888889,
+    "lng": 138.91722219999997,
     "cases": 31,
     "deaths": 0
   },
   {
-    "name": "富山",
-    "cases": 1,
-    "deaths": 0
-  },
-  {
-    "name": "石川",
-    "cases": 9,
-    "deaths": 0
-  },
-  {
-    "name": "福井",
-    "cases": 15,
-    "deaths": 0
-  },
-  {
-    "name": "山梨",
-    "cases": 4,
-    "deaths": 0
-  },
-  {
-    "name": "長野",
-    "cases": 8,
-    "deaths": 0
-  },
-  {
-    "name": "岐阜",
-    "cases": 22,
-    "deaths": 0
-  },
-  {
-    "name": "静岡",
-    "cases": 8,
-    "deaths": 0
-  },
-  {
-    "name": "愛知",
-    "cases": 167,
-    "deaths": 19
-  },
-  {
-    "name": "三重",
-    "cases": 9,
-    "deaths": 0
-  },
-  {
-    "name": "滋賀",
-    "cases": 6,
-    "deaths": 0
-  },
-  {
-    "name": "京都",
-    "cases": 51,
-    "deaths": 0
-  },
-  {
-    "name": "大阪",
-    "cases": 216,
-    "deaths": 2
-  },
-  {
-    "name": "兵庫",
-    "cases": 137,
-    "deaths": 11
-  },
-  {
-    "name": "奈良",
-    "cases": 11,
-    "deaths": 0
-  },
-  {
-    "name": "和歌山",
-    "cases": 18,
-    "deaths": 1
-  },
-  {
-    "name": "鳥取",
+    "id": 16,
+    "name_ja": "富山",
+    "name_en": "Toyama",
+    "lat": 36.63611111,
+    "lng": 137.2680556,
     "cases": 0,
     "deaths": 0
   },
   {
-    "name": "島根",
-    "cases": 0,
+    "id": 17,
+    "name_ja": "石川",
+    "name_en": "Ishikawa Prefecture",
+    "lat": 36.76583333,
+    "lng": 136.7713889,
+    "cases": 9,
     "deaths": 0
   },
   {
-    "name": "岡山",
-    "cases": 3,
-    "deaths": 0
-  },
-  {
-    "name": "広島",
-    "cases": 6,
-    "deaths": 0
-  },
-  {
-    "name": "山口",
-    "cases": 6,
-    "deaths": 0
-  },
-  {
-    "name": "徳島",
-    "cases": 1,
-    "deaths": 0
-  },
-  {
-    "name": "香川",
-    "cases": 1,
-    "deaths": 0
-  },
-  {
-    "name": "愛媛",
-    "cases": 4,
-    "deaths": 0
-  },
-  {
-    "name": "高知",
-    "cases": 15,
-    "deaths": 0
-  },
-  {
-    "name": "福岡",
-    "cases": 26,
-    "deaths": 0
-  },
-  {
-    "name": "佐賀",
-    "cases": 1,
-    "deaths": 0
-  },
-  {
-    "name": "長崎",
-    "cases": 2,
-    "deaths": 0
-  },
-  {
-    "name": "熊本",
+    "id": 18,
+    "name_ja": "福井",
+    "name_en": "Fukui Prefecture",
+    "lat": 35.84666667,
+    "lng": 136.22722219999997,
     "cases": 13,
     "deaths": 0
   },
   {
-    "name": "大分",
-    "cases": 28,
+    "id": 19,
+    "name_ja": "山梨",
+    "name_en": "Yamanashi",
+    "lat": 35.61222222,
+    "lng": 138.6116667,
+    "cases": 4,
     "deaths": 0
   },
   {
-    "name": "宮崎",
-    "cases": 3,
+    "id": 20,
+    "name_ja": "長野",
+    "name_en": "Nagano",
+    "lat": 36.13,
+    "lng": 138.04388889999998,
+    "cases": 8,
     "deaths": 0
   },
   {
-    "name": "鹿児島",
-    "cases": 1,
+    "id": 21,
+    "name_ja": "岐阜",
+    "name_en": "Gifu Prefecture",
+    "lat": 35.7775,
+    "lng": 137.055,
+    "cases": 20,
     "deaths": 0
   },
   {
-    "name": "沖縄",
+    "id": 22,
+    "name_ja": "静岡",
+    "name_en": "Shizuoka",
+    "lat": 35.01694444,
+    "lng": 138.33,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "id": 23,
+    "name_ja": "愛知",
+    "name_en": "Aichi",
+    "lat": 35.03444444,
+    "lng": 137.215,
+    "cases": 167,
+    "deaths": 19
+  },
+  {
+    "id": 24,
+    "name_ja": "三重",
+    "name_en": "Mie Prefecture",
+    "lat": 34.51361111,
+    "lng": 136.3813889,
     "cases": 9,
     "deaths": 0
   },
   {
-    "name": "チャーター便",
+    "id": 25,
+    "name_ja": "滋賀",
+    "name_en": "Shiga",
+    "lat": 35.21527778,
+    "lng": 136.13805559999997,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "id": 26,
+    "name_ja": "京都",
+    "name_en": "Kyoto Prefecture",
+    "lat": 35.25194444,
+    "lng": 135.4458333,
+    "cases": 47,
+    "deaths": 0
+  },
+  {
+    "id": 27,
+    "name_ja": "大阪",
+    "name_en": "Osaka Prefecture",
+    "lat": 34.62277778,
+    "lng": 135.5111111,
+    "cases": 208,
+    "deaths": 2
+  },
+  {
+    "id": 28,
+    "name_ja": "兵庫",
+    "name_en": "Hyogo Prefecture",
+    "lat": 35.03694444,
+    "lng": 134.8286111,
+    "cases": 133,
+    "deaths": 10
+  },
+  {
+    "id": 29,
+    "name_ja": "奈良",
+    "name_en": "Nara Prefecture",
+    "lat": 34.31555556,
+    "lng": 135.8713889,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "id": 30,
+    "name_ja": "和歌山",
+    "name_en": "Wakayama Prefecture",
+    "lat": 33.90944444,
+    "lng": 135.5133333,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "id": 31,
+    "name_ja": "鳥取",
+    "name_en": "Tottori Prefecture",
+    "lat": 35.36055556,
+    "lng": 133.8516667,
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "id": 32,
+    "name_ja": "島根",
+    "name_en": "Shimane",
+    "lat": 35.07305556,
+    "lng": 132.55944440000002,
+    "cases": 0,
+    "deaths": 0
+  },
+  {
+    "id": 33,
+    "name_ja": "岡山",
+    "name_en": "Okayama Prefecture",
+    "lat": 34.90083333,
+    "lng": 133.8152778,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "id": 34,
+    "name_ja": "広島",
+    "name_en": "Hiroshima",
+    "lat": 34.60361111,
+    "lng": 132.7875,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "id": 35,
+    "name_ja": "山口",
+    "name_en": "Yamaguchi",
+    "lat": 34.19861111,
+    "lng": 131.575,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "id": 36,
+    "name_ja": "徳島",
+    "name_en": "Tokushima Prefecture",
+    "lat": 33.91805556,
+    "lng": 134.2430556,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "id": 37,
+    "name_ja": "香川",
+    "name_en": "Kagawa Prefecture",
+    "lat": 34.24305556,
+    "lng": 133.99666670000002,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "id": 38,
+    "name_ja": "愛媛",
+    "name_en": "Ehime Prefecture",
+    "lat": 33.62194444,
+    "lng": 132.8558333,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "id": 39,
+    "name_ja": "高知",
+    "name_en": "Kōchi Prefecture",
+    "lat": 33.42111111,
+    "lng": 133.36666670000002,
     "cases": 14,
     "deaths": 0
   },
   {
-    "name": "検疫職員",
-    "cases": 41,
+    "id": 40,
+    "name_ja": "福岡",
+    "name_en": "Fukuoka Prefecture",
+    "lat": 33.5225,
+    "lng": 130.66805559999997,
+    "cases": 26,
     "deaths": 0
   },
   {
-    "name": "クルーズ船",
-    "cases": 712,
-    "deaths": 11
+    "id": 41,
+    "name_ja": "佐賀",
+    "name_en": "Saga Prefecture",
+    "lat": 33.28527778,
+    "lng": 130.11694440000002,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "id": 42,
+    "name_ja": "長崎",
+    "name_en": "Nagasaki Prefecture",
+    "lat": 33.2275,
+    "lng": 129.61416670000003,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "id": 43,
+    "name_ja": "熊本",
+    "name_en": "Kumamoto",
+    "lat": 32.615,
+    "lng": 130.7563889,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "id": 44,
+    "name_ja": "大分",
+    "name_en": "Oita",
+    "lat": 33.19916667,
+    "lng": 131.43416670000002,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "id": 45,
+    "name_ja": "宮崎",
+    "name_en": "Miyazaki Prefecture",
+    "lat": 32.19083333,
+    "lng": 131.3005556,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "id": 46,
+    "name_ja": "鹿児島",
+    "name_en": "Kagoshima Prefecture",
+    "lat": 31.01277778,
+    "lng": 130.4241667,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "id": 47,
+    "name_ja": "沖縄",
+    "name_en": "Okinawa Prefecture",
+    "lat": 25.77111111,
+    "lng": 126.64,
+    "cases": 8,
+    "deaths": 0
   }
 ]
