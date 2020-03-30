@@ -1,7 +1,7 @@
 [
   {
     "name": "北海道",
-    "cases": 175,
+    "cases": 176,
     "deaths": 7
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "name": "宮城",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "茨城",
-    "cases": 16,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "name": "埼玉",
-    "cases": 84,
+    "cases": 85,
     "deaths": 2
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "name": "東京",
-    "cases": 430,
-    "deaths": 8
+    "cases": 443,
+    "deaths": 9
   },
   {
     "name": "神奈川",
-    "cases": 125,
-    "deaths": 5
+    "cases": 128,
+    "deaths": 6
   },
   {
     "name": "新潟",
@@ -76,7 +76,7 @@
   },
   {
     "name": "富山",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "福井",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "name": "岐阜",
-    "cases": 20,
+    "cases": 22,
     "deaths": 0
   },
   {
     "name": "静岡",
-    "cases": 4,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -126,18 +126,18 @@
   },
   {
     "name": "京都",
-    "cases": 47,
+    "cases": 51,
     "deaths": 0
   },
   {
     "name": "大阪",
-    "cases": 208,
+    "cases": 216,
     "deaths": 2
   },
   {
     "name": "兵庫",
-    "cases": 133,
-    "deaths": 10
+    "cases": 137,
+    "deaths": 11
   },
   {
     "name": "奈良",
@@ -146,7 +146,7 @@
   },
   {
     "name": "和歌山",
-    "cases": 17,
+    "cases": 18,
     "deaths": 1
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "name": "高知",
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "name": "熊本",
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "name": "沖縄",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -247,6 +247,6 @@
   {
     "name": "クルーズ船",
     "cases": 712,
-    "deaths": 10
+    "deaths": 11
   }
 ]
