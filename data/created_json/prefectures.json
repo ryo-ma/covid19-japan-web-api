@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 128,
+    "cases": 131,
     "deaths": 6
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -365,7 +365,7 @@
     "name_en": "Saga Prefecture",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
