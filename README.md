@@ -44,7 +44,7 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 ...
 ```
 
-## Today Total
+## Total
 
 **Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
 ```bash
