@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 443,
+    "cases": 521,
     "deaths": 9
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 131,
+    "cases": 132,
     "deaths": 6
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu Prefecture",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 22,
+    "cases": 24,
     "deaths": 0
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 170,
+    "cases": 172,
     "deaths": 19
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Kōchi Prefecture",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
