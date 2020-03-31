@@ -2,6 +2,7 @@ from sanic import Blueprint, Sanic, response
 from sanic.response import json
 
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
+TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
 
 app = Sanic()
 
@@ -14,8 +15,8 @@ async def index(request):
 
 
 @apiv1.route('/total')
-async def all(request):
-    return json({'result': 'total'})
+async def total(request):
+    return await response.file(TODAY_TOTAL_JSON_PATH)
 
 
 @apiv1.route('/prefectures')

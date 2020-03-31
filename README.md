@@ -16,12 +16,12 @@
 ## Prefectures
 
 **Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
-```
+```bash
 $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 ```
 
 **Response:**
-```
+```json
 [
   {
     "id": 1,
@@ -42,4 +42,30 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
     "deaths": 0
   },
 ...
+```
+
+## Today Total
+
+**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
+```bash
+$ curl https://covid19-japan-web-api.now.sh/api/v1/total
+```
+
+**Response:**
+```json
+{
+  "date": 20200329,
+  "pcr": 26401,
+  "positive": 1647,
+  "symptom": 1352,
+  "symptomless": 162,
+  "symtomConfirming": 133,
+  "hospitalize": 1187,
+  "mild": 659,
+  "severe": 59,
+  "confirming": 323,
+  "waiting": 13,
+  "discharge": 408,
+  "death": 52
+}
 ```
