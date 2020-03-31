@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 85,
+    "cases": 86,
     "deaths": 2
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 166,
+    "cases": 170,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 132,
+    "cases": 141,
     "deaths": 6
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa Prefecture",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto Prefecture",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 56,
+    "cases": 58,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo Prefecture",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 137,
+    "cases": 139,
     "deaths": 11
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka Prefecture",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 29,
+    "cases": 35,
     "deaths": 0
   },
   {
