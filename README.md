@@ -5,6 +5,12 @@
 
 🦠 Web API to get COVID-19(coronavirus) information of each prefecture in Japan
 
+# Features
+
+* 🔁 Update data every 2 hours
+* 🚀 Provide REST API
+* 🇯🇵 Get info of each prefecture in Japan
+
 # Usage
 
 ## Prefectures
