@@ -10,6 +10,7 @@ OUTPUT_JSON_PATH= 'data/created_json/prefectures.json'
 def create_json_file():
     prefectures = []
     prefectures_df = pd.read_csv(PREFECTURES_DATA_PATH, index_col=1, na_values='0', encoding='utf-8')
+    prefectures_df['name-en'] = prefectures_df['name-en'].replace(' Prefecture', '', regex=True)
     cases_df = pd.read_csv(CASES_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
     deaths_df = pd.read_csv(DEATHS_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
     cases_df_sum = cases_df.sum().astype('int32')
