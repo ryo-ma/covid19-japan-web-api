@@ -68,8 +68,8 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 24,
-    "deaths": 0
+    "cases": 42,
+    "deaths": 2
   },
   {
     "id": 9,
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 19,
+    "cases": 20,
     "deaths": 1
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 101,
+    "cases": 104,
     "deaths": 3
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 27,
+    "cases": 31,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 180,
+    "cases": 183,
     "deaths": 19
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 72,
+    "cases": 73,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 73,
+    "cases": 78,
     "deaths": 0
   },
   {
