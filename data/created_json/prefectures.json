@@ -41,7 +41,7 @@
     "name_en": "Akita",
     "lat": 39.7475,
     "lng": 140.4086111,
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 176,
+    "cases": 186,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 150,
+    "cases": 161,
     "deaths": 6
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 178,
+    "cases": 180,
     "deaths": 19
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Osaka Prefecture",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 244,
+    "cases": 278,
     "deaths": 2
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo Prefecture",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 153,
+    "cases": 155,
     "deaths": 11
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka Prefecture",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 51,
+    "cases": 73,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
