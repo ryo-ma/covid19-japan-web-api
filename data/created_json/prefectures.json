@@ -77,7 +77,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
-    "cases": 16,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name_ja": "石川",
-    "name_en": "Ishikawa Prefecture",
+    "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
     "cases": 13,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name_ja": "福井",
-    "name_en": "Fukui Prefecture",
+    "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
     "cases": 21,
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "name_ja": "岐阜",
-    "name_en": "Gifu Prefecture",
+    "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
     "cases": 27,
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "name_ja": "三重",
-    "name_en": "Mie Prefecture",
+    "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
     "cases": 11,
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "name_ja": "京都",
-    "name_en": "Kyoto Prefecture",
+    "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
     "cases": 72,
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "name_ja": "大阪",
-    "name_en": "Osaka Prefecture",
+    "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
     "cases": 278,
@@ -245,16 +245,16 @@
   {
     "id": 28,
     "name_ja": "兵庫",
-    "name_en": "Hyogo Prefecture",
+    "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 155,
+    "cases": 162,
     "deaths": 11
   },
   {
     "id": 29,
     "name_ja": "奈良",
-    "name_en": "Nara Prefecture",
+    "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
     "cases": 15,
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "name_ja": "和歌山",
-    "name_en": "Wakayama Prefecture",
+    "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
     "cases": 19,
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "name_ja": "鳥取",
-    "name_en": "Tottori Prefecture",
+    "name_en": "Tottori",
     "lat": 35.36055556,
     "lng": 133.8516667,
     "cases": 0,
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "name_ja": "岡山",
-    "name_en": "Okayama Prefecture",
+    "name_en": "Okayama",
     "lat": 34.90083333,
     "lng": 133.8152778,
     "cases": 5,
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "name_ja": "徳島",
-    "name_en": "Tokushima Prefecture",
+    "name_en": "Tokushima",
     "lat": 33.91805556,
     "lng": 134.2430556,
     "cases": 3,
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "name_ja": "香川",
-    "name_en": "Kagawa Prefecture",
+    "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
     "cases": 2,
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "name_ja": "愛媛",
-    "name_en": "Ehime Prefecture",
+    "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
     "cases": 9,
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "name_ja": "高知",
-    "name_en": "Kōchi Prefecture",
+    "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
     "cases": 20,
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "name_ja": "福岡",
-    "name_en": "Fukuoka Prefecture",
+    "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
     "cases": 73,
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "name_ja": "佐賀",
-    "name_en": "Saga Prefecture",
+    "name_en": "Saga",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
     "cases": 3,
@@ -371,7 +371,7 @@
   {
     "id": 42,
     "name_ja": "長崎",
-    "name_en": "Nagasaki Prefecture",
+    "name_en": "Nagasaki",
     "lat": 33.2275,
     "lng": 129.61416670000003,
     "cases": 4,
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "name_ja": "宮崎",
-    "name_en": "Miyazaki Prefecture",
+    "name_en": "Miyazaki",
     "lat": 32.19083333,
     "lng": 131.3005556,
     "cases": 3,
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "name_ja": "鹿児島",
-    "name_en": "Kagoshima Prefecture",
+    "name_en": "Kagoshima",
     "lat": 31.01277778,
     "lng": 130.4241667,
     "cases": 2,
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "name_ja": "沖縄",
-    "name_en": "Okinawa Prefecture",
+    "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
     "cases": 9,
