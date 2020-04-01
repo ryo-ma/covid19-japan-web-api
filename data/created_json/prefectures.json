@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -158,7 +158,7 @@
     "name_en": "Fukui Prefecture",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 20,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama Prefecture",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 18,
+    "cases": 19,
     "deaths": 1
   },
   {
@@ -374,7 +374,7 @@
     "name_en": "Nagasaki Prefecture",
     "lat": 33.2275,
     "lng": 129.61416670000003,
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
