@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 181,
+    "cases": 180,
     "deaths": 7
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -77,7 +77,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
-    "cases": 14,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -95,8 +95,8 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 100,
-    "deaths": 2
+    "cases": 101,
+    "deaths": 3
   },
   {
     "id": 12,
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 175,
+    "cases": 176,
     "deaths": 1
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 581,
+    "cases": 587,
     "deaths": 16
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu Prefecture",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 26,
+    "cases": 27,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo Prefecture",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 149,
+    "cases": 153,
     "deaths": 11
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara Prefecture",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -293,7 +293,7 @@
     "name_en": "Okayama Prefecture",
     "lat": 34.90083333,
     "lng": 133.8152778,
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Kōchi Prefecture",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 17,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka Prefecture",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 46,
+    "cases": 51,
     "deaths": 0
   },
   {
@@ -365,7 +365,7 @@
     "name_en": "Saga Prefecture",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -374,7 +374,7 @@
     "name_en": "Nagasaki Prefecture",
     "lat": 33.2275,
     "lng": 129.61416670000003,
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -410,7 +410,7 @@
     "name_en": "Kagoshima Prefecture",
     "lat": 31.01277778,
     "lng": 130.4241667,
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
