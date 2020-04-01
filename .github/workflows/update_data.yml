@@ -21,8 +21,6 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
     - name: Run a one-line script
       run: |
         auth_header="$(git config --local --get http.https://github.com/.extraheader)"
@@ -39,7 +37,7 @@ jobs:
       run: |
         python ./script/create_prefectures.py
         python ./script/create_today_total.py
-    # Runs a set of commands using the runners shell
+        python ./script/create_positive_detail.py
     - name: Commit data files
       run: |
         git config --local user.email "action@github.com"
