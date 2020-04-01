@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 176,
+    "cases": 181,
     "deaths": 7
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 172,
+    "cases": 175,
     "deaths": 1
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 521,
+    "cases": 581,
     "deaths": 16
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto Prefecture",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 69,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara Prefecture",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 11,
+    "cases": 14,
     "deaths": 0
   },
   {
