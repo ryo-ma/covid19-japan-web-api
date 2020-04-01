@@ -69,3 +69,52 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total
   "death": 52
 }
 ```
+
+## Positives
+
+**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/positives](https://covid19-japan-web-api.now.sh/api/v1/positives)
+```bash
+$ curl https://covid19-japan-web-api.now.sh/api/v1/positives
+```
+
+**Response:**
+```json
+[
+  {
+    "prefecture": "北海道",
+    "residence_prefecture": "国外（武漢市）",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "来日観光客",
+    "prefecture_number": "北海道1",
+    "travel_or_contact": "渡航歴",
+    "detail": "中国（武漢）",
+    "src": "https://www.mhlw.go.jp/stf/newpage_09158.html",
+    "onset": "1月26日",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+  {
+    "prefecture": "北海道",
+    "residence_prefecture": "札幌市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "来日観光客",
+    "prefecture_number": "北海道2",
+    "travel_or_contact": "",
+    "detail": "",
+    "src": "http://www.pref.hokkaido.lg.jp/hf/kth/kak/hasseijoukyou.htm",
+    "onset": "1月31日",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+...
+```
