@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 42,
+    "cases": 43,
     "deaths": 2
   },
   {
@@ -158,8 +158,8 @@
     "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 21,
-    "deaths": 0
+    "cases": 30,
+    "deaths": 1
   },
   {
     "id": 19,
@@ -293,7 +293,7 @@
     "name_en": "Okayama",
     "lat": 34.90083333,
     "lng": 133.8152778,
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
