@@ -6,7 +6,7 @@
     "lat": 43.46722222,
     "lng": 142.8277778,
     "cases": 180,
-    "deaths": 7
+    "deaths": 8
   },
   {
     "id": 2,
@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 161,
+    "cases": 170,
     "deaths": 6
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 5,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 19,
+    "cases": 21,
     "deaths": 1
   },
   {
