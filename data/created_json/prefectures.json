@@ -14,7 +14,7 @@
     "name_en": "Aomori",
     "lat": 40.78027778,
     "lng": 140.83194440000003,
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 43,
+    "cases": 44,
     "deaths": 2
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 104,
+    "cases": 118,
     "deaths": 3
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 15,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 34,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 184,
+    "cases": 189,
     "deaths": 19
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 81,
+    "cases": 88,
     "deaths": 0
   },
   {
@@ -239,8 +239,8 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 278,
-    "deaths": 2
+    "cases": 311,
+    "deaths": 3
   },
   {
     "id": 28,
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 165,
+    "cases": 169,
     "deaths": 11
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -374,7 +374,7 @@
     "name_en": "Nagasaki",
     "lat": 33.2275,
     "lng": 129.61416670000003,
-    "cases": 5,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -410,7 +410,7 @@
     "name_en": "Kagoshima",
     "lat": 31.01277778,
     "lng": 130.4241667,
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
