@@ -41,7 +41,7 @@
     "name_en": "Akita",
     "lat": 39.7475,
     "lng": 140.4086111,
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 20,
+    "cases": 21,
     "deaths": 1
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -221,7 +221,7 @@
     "name_en": "Shiga",
     "lat": 35.21527778,
     "lng": 136.13805559999997,
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 90,
+    "cases": 100,
     "deaths": 0
   },
   {
@@ -392,7 +392,7 @@
     "name_en": "Oita",
     "lat": 33.19916667,
     "lng": 131.43416670000002,
-    "cases": 29,
+    "cases": 30,
     "deaths": 0
   },
   {
