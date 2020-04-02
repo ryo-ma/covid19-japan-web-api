@@ -11,6 +11,12 @@
 * 🚀 Provide REST API
 * 🇯🇵 Get info of each prefecture in Japan
 
+
+# Project using this API
+
+if your project is not listed here, let us know!
+
+
 # Usage
 
 ## Prefectures
