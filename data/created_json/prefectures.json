@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 33,
+    "cases": 35,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 15,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -401,7 +401,7 @@
     "name_en": "Miyazaki",
     "lat": 32.19083333,
     "lng": 131.3005556,
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
