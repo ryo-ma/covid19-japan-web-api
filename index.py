@@ -1,9 +1,6 @@
 from sanic import Blueprint, Sanic, response
 from sanic.response import json
 
-from sanic_openapi import swagger_blueprint
-from sanic_cors import CORS
-from swagger_settings import set_config
 
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
 TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
@@ -11,10 +8,7 @@ POSITIVE_DETAIL_JSON_PATH = './data/created_json/positive_detail.json'
 
 app = Sanic()
 
-app.blueprint(swagger_blueprint)
-set_config(app)
 apiv1 = Blueprint('apiv1', url_prefix='/api/v1')
-CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 
 @app.route('/')

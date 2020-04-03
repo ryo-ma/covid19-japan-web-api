@@ -5,10 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 pandas = "*"
+sanic-openapi = "==0.6.0"
 
 [packages]
 sanic = "*"
-sanic-openapi = "==0.6.0"
 sanic-cors = "*"
 
 [requires]
