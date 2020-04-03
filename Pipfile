@@ -8,6 +8,8 @@ pandas = "*"
 
 [packages]
 sanic = "*"
+sanic-openapi = "==0.6.0"
+sanic-cors = "*"
 
 [requires]
 python_version = "3.6"
