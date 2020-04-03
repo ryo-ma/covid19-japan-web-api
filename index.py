@@ -1,5 +1,6 @@
 from sanic import Blueprint, Sanic, response
 from sanic.response import json
+from sanic_cors import cross_origin
 
 
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
@@ -17,16 +18,19 @@ async def index(request):
 
 
 @apiv1.route('/total')
+@cross_origin(apiv1)
 async def total(request):
     return await response.file(TODAY_TOTAL_JSON_PATH)
 
 
 @apiv1.route('/prefectures')
+@cross_origin(apiv1)
 async def prefectures(request):
     return await response.file(PREFECTURES_JSON_PATH)
 
 
 @apiv1.route('/positives')
+@cross_origin(apiv1)
 async def positives(request):
     return await response.file(POSITIVE_DETAIL_JSON_PATH)
 
