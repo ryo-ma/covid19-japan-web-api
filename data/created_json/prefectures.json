@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 109,
+    "cases": 116,
     "deaths": 0
   },
   {
@@ -239,8 +239,8 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 346,
-    "deaths": 3
+    "cases": 387,
+    "deaths": 4
   },
   {
     "id": 28,
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
