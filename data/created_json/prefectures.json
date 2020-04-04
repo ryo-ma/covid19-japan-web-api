@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 54,
+    "cases": 59,
     "deaths": 2
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 136,
+    "cases": 160,
     "deaths": 3
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 222,
+    "cases": 236,
     "deaths": 1
   },
   {
@@ -114,7 +114,7 @@
     "lat": 35.702313700000005,
     "lng": 139.5803228,
     "cases": 891,
-    "deaths": 18
+    "deaths": 23
   },
   {
     "id": 14,
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 234,
+    "cases": 238,
     "deaths": 7
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 24,
+    "cases": 32,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 40,
+    "cases": 47,
     "deaths": 1
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 16,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 202,
+    "cases": 220,
     "deaths": 19
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 188,
+    "cases": 190,
     "deaths": 11
   },
   {
@@ -293,7 +293,7 @@
     "name_en": "Okayama",
     "lat": 34.90083333,
     "lng": 133.8152778,
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -311,7 +311,7 @@
     "name_en": "Yamaguchi",
     "lat": 34.19861111,
     "lng": 131.575,
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -374,7 +374,7 @@
     "name_en": "Nagasaki",
     "lat": 33.2275,
     "lng": 129.61416670000003,
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 18,
+    "cases": 19,
     "deaths": 0
   },
   {
@@ -392,7 +392,7 @@
     "name_en": "Oita",
     "lat": 33.19916667,
     "lng": 131.43416670000002,
-    "cases": 31,
+    "cases": 32,
     "deaths": 0
   },
   {
@@ -401,7 +401,7 @@
     "name_en": "Miyazaki",
     "lat": 32.19083333,
     "lng": 131.3005556,
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
