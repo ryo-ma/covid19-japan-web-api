@@ -11,7 +11,7 @@ def create_json_file():
               'age', 'gender', 'attribute', 'prefecture_number',
               'travel_or_contact', 'detail', 'src', 'onset', 'symptom',
               'death_or_discharge_date', 'comment1', 'outcome', 'outcome_src', 'comment2')
-    positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, index_col=0, names=header,  encoding='utf-8')
+    positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, names=header,  encoding='utf-8')
 
     with open(OUTPUT_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(positive_detail_df.drop(positive_detail_df.index[0]).fillna('').to_dict(orient='records'), f, indent=2, ensure_ascii=False)
