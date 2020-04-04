@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 18,
+    "cases": 19,
     "deaths": 0
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -186,7 +186,7 @@
     "lat": 35.7775,
     "lng": 137.055,
     "cases": 40,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "id": 22,
