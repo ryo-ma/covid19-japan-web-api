@@ -87,6 +87,9 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ```json
 [
   {
+    "id": "ID01001",
+    "announcement_date": "2020/01/28",
+    "diagnosis_date": "",
     "prefecture": "北海道",
     "residence_prefecture": "国外（武漢市）",
     "age": "40代",
@@ -95,8 +98,9 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
     "prefecture_number": "北海道1",
     "travel_or_contact": "渡航歴",
     "detail": "中国（武漢）",
+    "cluster": "",
     "src": "https://www.mhlw.go.jp/stf/newpage_09158.html",
-    "onset": "1月26日",
+    "onset": "2020/01/26",
     "symptom": "1",
     "death_or_discharge_date": "",
     "comment1": "",
@@ -105,6 +109,9 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
     "comment2": ""
   },
   {
+    "id": "ID01002",
+    "announcement_date": "2020/02/14",
+    "diagnosis_date": "",
     "prefecture": "北海道",
     "residence_prefecture": "札幌市",
     "age": "50代",
@@ -113,8 +120,9 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
     "prefecture_number": "北海道2",
     "travel_or_contact": "",
     "detail": "",
+    "cluster": "",
     "src": "http://www.pref.hokkaido.lg.jp/hf/kth/kak/hasseijoukyou.htm",
-    "onset": "1月31日",
+    "onset": "2020/01/31",
     "symptom": "1",
     "death_or_discharge_date": "",
     "comment1": "",
