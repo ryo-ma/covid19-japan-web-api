@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 20,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 236,
+    "cases": 237,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 239,
+    "cases": 244,
     "deaths": 7
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 22,
+    "cases": 23,
     "deaths": 1
   },
   {
