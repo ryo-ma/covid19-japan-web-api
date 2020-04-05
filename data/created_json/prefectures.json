@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 160,
+    "cases": 165,
     "deaths": 3
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 247,
+    "cases": 261,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 244,
+    "cases": 256,
     "deaths": 7
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 47,
+    "cases": 50,
     "deaths": 1
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 202,
+    "cases": 203,
     "deaths": 11
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 24,
+    "cases": 25,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 146,
+    "cases": 162,
     "deaths": 1
   },
   {
