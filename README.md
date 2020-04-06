@@ -139,5 +139,6 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ```
 
 # Data Sources
+This data was collected by volunteers and may be incorrect. Please refer to the reports of public organizations.
 
 * [swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)
