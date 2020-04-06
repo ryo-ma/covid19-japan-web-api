@@ -17,6 +17,7 @@
 if your project is not listed here, let us know!
 
 * https://github.com/yakuri/covid19
+* https://github.com/yuto51942/COVID-19-notice
 
 # Usage
 
