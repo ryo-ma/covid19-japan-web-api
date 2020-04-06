@@ -96,7 +96,7 @@
     "lat": 35.99666667,
     "lng": 139.34777780000002,
     "cases": 185,
-    "deaths": 3
+    "deaths": 4
   },
   {
     "id": 12,
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -158,7 +158,7 @@
     "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 53,
+    "cases": 59,
     "deaths": 2
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 16,
+    "cases": 22,
     "deaths": 0
   }
 ]
