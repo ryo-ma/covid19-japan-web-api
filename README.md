@@ -18,8 +18,11 @@ if your project is not listed here, let us know!
 
 * https://github.com/yakuri/covid19
 * https://github.com/yuto51942/COVID-19-notice
+* https://github.com/postmanlabs/covid-19-apis
 
 # Usage
+
+You can see the documentation of this API and/or import it as a Postman collection [using this link](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest).
 
 ## Prefectures
 
