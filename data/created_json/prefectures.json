@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 23,
+    "cases": 24,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -311,7 +311,7 @@
     "name_en": "Yamaguchi",
     "lat": 34.19861111,
     "lng": 131.575,
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
