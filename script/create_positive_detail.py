@@ -2,11 +2,10 @@ import pandas as pd
 import json
 
 POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/Data/positiveDetail.csv'
-OUTPUT_JSON_PATH= 'data/created_json/positive_detail.json'
+OUTPUT_JSON_PATH = 'data/created_json/positive_detail.json'
 
 
 def create_json_file():
-    prefectures = []
     header = ('id', 'announcement_date', 'diagnosis_date', 'prefecture', 'residence_prefecture',
               'age', 'gender', 'attribute', 'prefecture_number',
               'travel_or_contact', 'detail', 'cluster', 'src', 'onset', 'symptom',
@@ -14,7 +13,10 @@ def create_json_file():
     positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, names=header,  encoding='utf-8')
 
     with open(OUTPUT_JSON_PATH, 'w', encoding='utf-8') as f:
-        json.dump(positive_detail_df.drop(positive_detail_df.index[0]).fillna('').to_dict(orient='records'), f, indent=2, ensure_ascii=False)
+        json.dump(positive_detail_df.drop(positive_detail_df.index[0]).fillna('').to_dict(orient='records'),
+                  f,
+                  indent=2,
+                  ensure_ascii=False)
 
 
 if __name__ == '__main__':

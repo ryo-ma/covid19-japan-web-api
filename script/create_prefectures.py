@@ -4,7 +4,7 @@ import json
 PREFECTURES_DATA_PATH = 'data/2019-ncov-japan/Data/prefectures.csv'
 CASES_DATA_PATH = 'data/2019-ncov-japan/Data/byDate.csv'
 DEATHS_DATA_PATH = 'data/2019-ncov-japan/Data/death.csv'
-OUTPUT_JSON_PATH= 'data/created_json/prefectures.json'
+OUTPUT_JSON_PATH = 'data/created_json/prefectures.json'
 
 
 def create_json_file():

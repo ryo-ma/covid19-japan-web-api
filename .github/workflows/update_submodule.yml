@@ -32,7 +32,9 @@ jobs:
       with:
         python-version: "3.6"
     - name: Install Python dependencies
-      run: pip install pandas
+      run: pip install pandas flake8
+    - name: Check the lint
+      run: flake8 ./
     - name: Generate json file
       run: |
         python ./script/create_prefectures.py

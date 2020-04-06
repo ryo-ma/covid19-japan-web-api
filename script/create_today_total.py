@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 DOMESTIC_DAILY_REPORT = 'data/2019-ncov-japan/Data/domesticDailyReport.csv'
-OUTPUT_JSON_PATH= 'data/created_json/today_total.json'
+OUTPUT_JSON_PATH = 'data/created_json/today_total.json'
 
 
 def create_json_file():

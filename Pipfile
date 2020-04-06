@@ -6,6 +6,7 @@ verify_ssl = true
 [dev-packages]
 pandas = "*"
 sanic-openapi = "==0.6.0"
+flake8 = "*"
 
 [packages]
 sanic = "*"
