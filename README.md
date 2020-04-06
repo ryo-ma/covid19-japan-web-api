@@ -21,6 +21,8 @@ if your project is not listed here, let us know!
 
 # Usage
 
+You can see the documentation of this API and/or import it as a Postman collection [using this link](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest)
+
 ## Prefectures
 
 **Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
