@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 185,
+    "cases": 199,
     "deaths": 4
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 267,
+    "cases": 271,
     "deaths": 7
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 227,
+    "cases": 228,
     "deaths": 20
   },
   {
@@ -221,7 +221,7 @@
     "name_en": "Shiga",
     "lat": 35.21527778,
     "lng": 136.13805559999997,
-    "cases": 19,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 408,
+    "cases": 428,
     "deaths": 4
   },
   {
@@ -248,8 +248,8 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 203,
-    "deaths": 11
+    "cases": 209,
+    "deaths": 12
   },
   {
     "id": 29,
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 26,
+    "cases": 29,
     "deaths": 1
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 167,
+    "cases": 176,
     "deaths": 1
   },
   {
