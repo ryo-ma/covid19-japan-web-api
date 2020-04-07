@@ -65,7 +65,7 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total
   "positive": 1647,
   "symptom": 1352,
   "symptomless": 162,
-  "symtomConfirming": 133,
+  "symptomConfirming": 133,
   "hospitalize": 1187,
   "mild": 659,
   "severe": 59,
