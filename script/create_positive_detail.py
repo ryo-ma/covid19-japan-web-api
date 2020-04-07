@@ -6,10 +6,10 @@ OUTPUT_JSON_PATH = 'data/created_json/positive_detail.json'
 
 
 def create_json_file():
-    header = ('id', 'announcement_date', 'diagnosis_date', 'prefecture', 'residence_prefecture',
+    header = ('code', 'announcement_date', 'src', 'prefecture', 'residence_prefecture',
               'age', 'gender', 'attribute', 'prefecture_number',
-              'travel_or_contact', 'detail', 'cluster', 'src', 'onset', 'symptom',
-              'death_or_discharge_date', 'comment1', 'outcome', 'outcome_src', 'comment2')
+              'travel_or_contact', 'detail', 'id', 'diagnosis_date', 'onset', 'symptom',
+              'death_or_discharge_date', 'comment1', 'outcome', 'outcome_src', 'comment2', 'estimated_infection_date')
     positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, names=header,  encoding='utf-8')
 
     with open(OUTPUT_JSON_PATH, 'w', encoding='utf-8') as f:
