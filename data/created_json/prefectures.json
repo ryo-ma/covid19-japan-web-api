@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 20,
+    "cases": 24,
     "deaths": 0
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 26,
+    "cases": 29,
     "deaths": 1
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 281,
+    "cases": 288,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 278,
+    "cases": 280,
     "deaths": 7
   },
   {
@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 37,
+    "cases": 38,
     "deaths": 0
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 45,
+    "cases": 55,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 19,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 59,
+    "cases": 69,
     "deaths": 1
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 133,
+    "cases": 145,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 213,
+    "cases": 217,
     "deaths": 12
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 27,
+    "cases": 28,
     "deaths": 0
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 29,
+    "cases": 31,
     "deaths": 1
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 16,
+    "cases": 19,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 176,
+    "cases": 183,
     "deaths": 1
   },
   {
