@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 26,
+    "cases": 27,
     "deaths": 0
   },
   {
@@ -77,7 +77,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
-    "cases": 17,
+    "cases": 19,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 273,
+    "cases": 275,
     "deaths": 7
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 20,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 209,
+    "cases": 213,
     "deaths": 12
   },
   {
@@ -365,7 +365,7 @@
     "name_en": "Saga",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 22,
+    "cases": 34,
     "deaths": 0
   }
 ]
