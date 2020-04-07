@@ -20,6 +20,7 @@ if your project is not listed here, let us know!
 * https://github.com/yuto51942/COVID-19-notice
 * https://github.com/postmanlabs/covid-19-apis
 * https://github.com/InumberX/covid-19
+* https://github.com/miya/covid19-jp-linebot
 
 # Usage
 
