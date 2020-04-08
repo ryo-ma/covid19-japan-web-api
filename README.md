@@ -28,7 +28,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 ## Prefectures
 
-**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
 ```bash
 $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 ```
@@ -59,7 +59,7 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 
 ## Total
 
-**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
 ```bash
 $ curl https://covid19-japan-web-api.now.sh/api/v1/total
 ```
@@ -85,7 +85,7 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total
 
 ## Positives
 
-**Endpont**: [https://covid19-japan-web-api.now.sh/api/v1/positives](https://covid19-japan-web-api.now.sh/api/v1/positives)
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives](https://covid19-japan-web-api.now.sh/api/v1/positives)
 ```bash
 $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ```
