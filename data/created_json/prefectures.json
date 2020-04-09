@@ -5,8 +5,8 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 205,
-    "deaths": 9
+    "cases": 222,
+    "deaths": 10
   },
   {
     "id": 2,
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 325,
+    "cases": 328,
     "deaths": 1
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 1338,
+    "cases": 1519,
     "deaths": 35
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 371,
+    "cases": 375,
     "deaths": 7
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
-    "cases": 19,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 266,
+    "cases": 267,
     "deaths": 12
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 39,
+    "cases": 42,
     "deaths": 0
   }
 ]
