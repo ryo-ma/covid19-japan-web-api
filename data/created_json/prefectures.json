@@ -14,7 +14,7 @@
     "name_en": "Aomori",
     "lat": 40.78027778,
     "lng": 140.83194440000003,
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 34,
+    "cases": 35,
     "deaths": 0
   },
   {
@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 22,
+    "cases": 27,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 356,
+    "cases": 371,
     "deaths": 7
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 248,
+    "cases": 266,
     "deaths": 12
   },
   {
@@ -293,7 +293,7 @@
     "name_en": "Okayama",
     "lat": 34.90083333,
     "lng": 133.8152778,
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 25,
+    "cases": 26,
     "deaths": 1
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 39,
+    "cases": 49,
     "deaths": 0
   },
   {
