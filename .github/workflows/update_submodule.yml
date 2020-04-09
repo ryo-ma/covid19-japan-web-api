@@ -35,6 +35,8 @@ jobs:
       run: pip install pandas flake8
     - name: Check the lint
       run: flake8 ./
+    - name: Test source data format
+      run: python ./script/test_source_data_format.py
     - name: Generate json file
       run: |
         python ./script/create_prefectures.py
