@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 222,
+    "cases": 223,
     "deaths": 10
   },
   {
@@ -14,7 +14,7 @@
     "name_en": "Aomori",
     "lat": 40.78027778,
     "lng": 140.83194440000003,
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 35,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 29,
+    "cases": 33,
     "deaths": 0
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 77,
+    "cases": 81,
     "deaths": 2
   },
   {
@@ -77,7 +77,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
-    "cases": 26,
+    "cases": 31,
     "deaths": 0
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 29,
+    "cases": 33,
     "deaths": 1
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 250,
+    "cases": 254,
     "deaths": 5
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 328,
+    "cases": 355,
     "deaths": 1
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 375,
+    "cases": 376,
     "deaths": 7
   },
   {
@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 39,
+    "cases": 41,
     "deaths": 0
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 66,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 25,
+    "cases": 27,
     "deaths": 0
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 32,
+    "cases": 33,
     "deaths": 0
   },
   {
@@ -221,7 +221,7 @@
     "name_en": "Shiga",
     "lat": 35.21527778,
     "lng": 136.13805559999997,
-    "cases": 26,
+    "cases": 33,
     "deaths": 0
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 155,
+    "cases": 165,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 267,
+    "cases": 286,
     "deaths": 12
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 30,
+    "cases": 34,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 224,
+    "cases": 236,
     "deaths": 1
   },
   {
