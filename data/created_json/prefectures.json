@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 81,
+    "cases": 82,
     "deaths": 2
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 254,
+    "cases": 262,
     "deaths": 5
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 376,
+    "cases": 383,
     "deaths": 7
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 16,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 77,
+    "cases": 86,
     "deaths": 1
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 279,
+    "cases": 282,
     "deaths": 21
   },
   {
@@ -231,7 +231,7 @@
     "lat": 35.25194444,
     "lng": 135.4458333,
     "cases": 165,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "id": 27,
@@ -239,7 +239,7 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 524,
+    "cases": 616,
     "deaths": 6
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 34,
+    "cases": 37,
     "deaths": 1
   },
   {
@@ -284,7 +284,7 @@
     "name_en": "Shimane",
     "lat": 35.07305556,
     "lng": 132.55944440000002,
-    "cases": 0,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 24,
+    "cases": 25,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 236,
+    "cases": 250,
     "deaths": 1
   },
   {
@@ -365,7 +365,7 @@
     "name_en": "Saga",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 22,
+    "cases": 23,
     "deaths": 0
   },
   {
