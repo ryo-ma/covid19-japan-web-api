@@ -36,7 +36,7 @@ jobs:
     - name: Check the lint
       run: flake8 ./
     - name: Test source data format
-      run: python ./script/test_source_data_format.py
+      run: python -m unittest
     - name: Generate json file
       run: |
         python ./script/create_prefectures.py
