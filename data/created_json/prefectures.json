@@ -41,7 +41,7 @@
     "name_en": "Akita",
     "lat": 39.7475,
     "lng": 140.4086111,
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 35,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 33,
+    "cases": 42,
     "deaths": 1
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 285,
+    "cases": 296,
     "deaths": 5
   },
   {
@@ -104,8 +104,8 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 387,
-    "deaths": 1
+    "cases": 395,
+    "deaths": 2
   },
   {
     "id": 13,
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 421,
+    "cases": 439,
     "deaths": 7
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
-    "cases": 26,
+    "cases": 28,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 86,
+    "cases": 91,
     "deaths": 1
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 37,
+    "cases": 38,
     "deaths": 1
   },
   {
@@ -275,7 +275,7 @@
     "name_en": "Tottori",
     "lat": 35.36055556,
     "lng": 133.8516667,
-    "cases": 0,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 252,
+    "cases": 289,
     "deaths": 1
   },
   {
@@ -392,7 +392,7 @@
     "name_en": "Oita",
     "lat": 33.19916667,
     "lng": 131.43416670000002,
-    "cases": 41,
+    "cases": 42,
     "deaths": 0
   },
   {
