@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 27,
+    "cases": 32,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 383,
+    "cases": 385,
     "deaths": 7
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 33,
+    "cases": 34,
     "deaths": 0
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 26,
+    "cases": 28,
     "deaths": 1
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 250,
+    "cases": 251,
     "deaths": 1
   },
   {
