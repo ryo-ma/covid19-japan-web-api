@@ -210,6 +210,13 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 * Please don't add **/data** directory to your commit
 * Please PullRequest to master because gitflow is not currently used
 
+## Contributers
+<a href="https://github.com/ryo-ma/covid19-japan-web-api/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ryo-ma/covid19-japan-web-api" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
+
 # Data Sources
 This data was collected by volunteers and may be incorrect. Please refer to the reports of public organizations correctly.
 
