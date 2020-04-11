@@ -191,8 +191,8 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ```
 
 # Contribution Guide
-* Please use flake8 as Lint
-* Please don't add /data directory to your commit
+* Please use **flake8** as Lint
+* Please don't add **/data** directory to your commit
 * Please PullRequest to master because gitflow is not currently used
 
 # Data Sources
