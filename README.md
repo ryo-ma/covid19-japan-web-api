@@ -21,7 +21,7 @@ I created this API to help disseminate information about the Japanese COVID-19. 
 * 🔁 Update data every 2 hours
 * 🚀 Provide REST API
 * 🇯🇵 Get info of each prefecture in Japan
-* ☕️ Simple to use
+* ☕️ Simple data and simple to use
 
 
 # Project using this API
