@@ -5,7 +5,7 @@
 
 🦠 Web API to get COVID-19(coronavirus) information of each prefecture in Japan
 
-I created this API to help disseminate information about the Japanese COVID-19. I am updating this API from time to time, so if you have an API you want to add, please let me know!
+I created this API to help disseminate about the Japanese COVID-19 information. I am updating this API from time to time, so if you have an API you want to add, please let me know!
 
 
 ## Table of Contents
@@ -15,6 +15,7 @@ I created this API to help disseminate information about the Japanese COVID-19. 
 - [Usage](#usage)
 - [Contribution Guide](#contribution-guide)
 - [Data Sources](#data-sources)
+- [LICENSE](#license)
 
 # Features
 
