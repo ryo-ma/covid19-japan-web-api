@@ -5,6 +5,7 @@ from sanic_cors import cross_origin
 
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
 TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
+HISTORY_TOTAL_JSON_PATH = './data/created_json/history_total.json'
 POSITIVE_DETAIL_JSON_PATH = './data/created_json/positive_detail.json'
 
 app = Sanic()
@@ -19,7 +20,9 @@ async def index(request):
 
 @apiv1.route('/total')
 @cross_origin(apiv1)
-async def total(request):
+async def today_total(request):
+    if 'history' in request.raw_args and request.raw_args['history'] == 'true':
+        return await response.file(HISTORY_TOTAL_JSON_PATH)
     return await response.file(TODAY_TOTAL_JSON_PATH)
 
 

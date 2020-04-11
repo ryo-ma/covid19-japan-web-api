@@ -26,6 +26,7 @@ if your project is not listed here, let us know!
 
 You can see the documentation of this API and/or import it as a Postman collection [using this link](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest).
 
+
 ## Prefectures
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
@@ -81,6 +82,49 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total
   "discharge": 408,
   "death": 52
 }
+```
+
+## Total History
+
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
+```bash
+$ curl https://covid19-japan-web-api.now.sh/api/v1/total?history=true
+```
+
+**Response:**
+```json
+[
+  {
+    "date": 20200206,
+    "pcr": 132,
+    "positive": 16,
+    "symptom": 16,
+    "symptomless": 0,
+    "symptomConfirming": 0,
+    "hospitalize": 9,
+    "mild": 0,
+    "severe": 0,
+    "confirming": 3,
+    "waiting": 0,
+    "discharge": 4,
+    "death": 0
+  },
+  {
+    "date": 20200207,
+    "pcr": 151,
+    "positive": 16,
+    "symptom": 16,
+    "symptomless": 0,
+    "symptomConfirming": 0,
+    "hospitalize": 12,
+    "mild": 0,
+    "severe": 0,
+    "confirming": 0,
+    "waiting": 0,
+    "discharge": 4,
+    "death": 0
+  },
+...
 ```
 
 ## Positives
