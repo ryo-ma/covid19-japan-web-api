@@ -5,22 +5,34 @@
 
 🦠 Web API to get COVID-19(coronavirus) information of each prefecture in Japan
 
+I created this API to help disseminate information about the Japanese COVID-19. I am updating this API from time to time, so if you have an API you want to add, please let me know!
+
+
+## Table of Contents
+
+- [Features](#features)
+- [Project using this API](#project-using-this-api)
+- [Usage](#usage)
+- [Contribution Guide](#contribution-guide)
+- [Data Sources](#data-sources)
+
 # Features
 
 * 🔁 Update data every 2 hours
 * 🚀 Provide REST API
 * 🇯🇵 Get info of each prefecture in Japan
+* ☕️ Simple to use
 
 
 # Project using this API
 
 if your project is not listed here, let us know!
 
-* https://github.com/yakuri/covid19
-* https://github.com/yuto51942/COVID-19-notice
-* https://github.com/postmanlabs/covid-19-apis
-* https://github.com/InumberX/covid-19
-* https://github.com/miya/covid19-jp-linebot
+* **https://github.com/yakuri/covid19**
+* **https://github.com/yuto51942/COVID-19-notice**
+* **https://github.com/postmanlabs/covid-19-apis**
+* **https://github.com/InumberX/covid-19**
+* **https://github.com/miya/covid19-jp-linebot**
 
 # Usage
 
@@ -30,6 +42,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 * [Total](#total)
 * [Total History](#total-history)
 * [Positives](#positives)
+
 
 ## Prefectures
 
@@ -199,3 +212,6 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 This data was collected by volunteers and may be incorrect. Please refer to the reports of public organizations correctly.
 
 * [swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)
+
+# LICENSE
+[MIT LICENSE](./LICENSE)
