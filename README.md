@@ -8,7 +8,7 @@
 I created this API to help disseminate about the Japanese COVID-19 information. I am updating this API from time to time, so if you have an API you want to add, please let me know!
 
 
-## Table of Contents
+# Table of Contents
 
 - [Features](#features)
 - [Project using this API](#project-using-this-api)
