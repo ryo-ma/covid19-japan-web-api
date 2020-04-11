@@ -973,5 +973,20 @@
     "waiting": 50,
     "discharge": 697,
     "death": 88
+  },
+  {
+    "date": 20200411,
+    "pcr": 61991,
+    "positive": 5902,
+    "symptom": 3874,
+    "symptomless": 387,
+    "symptomConfirming": 1641,
+    "hospitalize": 5063,
+    "mild": 2678,
+    "severe": 122,
+    "confirming": 558,
+    "waiting": 64,
+    "discharge": 745,
+    "death": 94
   }
 ]
