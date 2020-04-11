@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 101,
+    "cases": 103,
     "deaths": 5
   },
   {
@@ -87,7 +87,7 @@
     "lat": 36.50388889,
     "lng": 138.9852778,
     "cases": 79,
-    "deaths": 1
+    "deaths": 2
   },
   {
     "id": 11,
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 364,
+    "cases": 375,
     "deaths": 6
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 514,
+    "cases": 513,
     "deaths": 11
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 100,
+    "cases": 106,
     "deaths": 1
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 319,
+    "cases": 347,
     "deaths": 23
   },
   {
@@ -231,7 +231,7 @@
     "lat": 35.25194444,
     "lng": 135.4458333,
     "cases": 181,
-    "deaths": 1
+    "deaths": 3
   },
   {
     "id": 27,
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 33,
+    "cases": 56,
     "deaths": 0
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 24,
+    "cases": 25,
     "deaths": 1
   },
   {
