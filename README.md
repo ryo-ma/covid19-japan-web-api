@@ -29,6 +29,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 * [Prefectures](#prefectures)
 * [Total](#total)
 * [Total History](#total-history)
+* [Positives](#positives)
 
 ## Prefectures
 
