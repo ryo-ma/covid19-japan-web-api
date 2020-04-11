@@ -26,6 +26,9 @@ if your project is not listed here, let us know!
 
 You can see the documentation of this API and/or import it as a Postman collection [using this link](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest).
 
+* [Prefectures](#prefectures)
+* [Total](#total)
+* [Total History](#total-history)
 
 ## Prefectures
 
@@ -185,6 +188,11 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
   },
 ...
 ```
+
+# Contribution Guide
+* Please use flake8 as Lint
+* Please don't add /data directory to your commit
+* Please PullRequest to master because gitflow is not currently used
 
 # Data Sources
 This data was collected by volunteers and may be incorrect. Please refer to the reports of public organizations correctly.
