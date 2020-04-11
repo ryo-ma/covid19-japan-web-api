@@ -104,8 +104,8 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 395,
-    "deaths": 2
+    "cases": 387,
+    "deaths": 3
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 1708,
+    "cases": 1705,
     "deaths": 40
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 439,
+    "cases": 441,
     "deaths": 10
   },
   {
@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 41,
+    "cases": 42,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 30,
+    "cases": 31,
     "deaths": 0
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
-    "cases": 15,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 330,
+    "cases": 339,
     "deaths": 12
   },
   {
