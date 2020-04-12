@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 79,
+    "cases": 87,
     "deaths": 2
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 376,
+    "cases": 379,
     "deaths": 6
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 468,
+    "cases": 467,
     "deaths": 5
   },
   {
@@ -114,7 +114,7 @@
     "lat": 35.702313700000005,
     "lng": 139.5803228,
     "cases": 2068,
-    "deaths": 40
+    "deaths": 42
   },
   {
     "id": 14,
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 40,
+    "cases": 44,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 34,
+    "cases": 35,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 106,
+    "cases": 112,
     "deaths": 1
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 766,
+    "cases": 811,
     "deaths": 6
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 56,
+    "cases": 59,
     "deaths": 0
   },
   {
