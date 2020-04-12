@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 262,
+    "cases": 264,
     "deaths": 11
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 37,
+    "cases": 38,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 515,
+    "cases": 516,
     "deaths": 11
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 30,
+    "cases": 40,
     "deaths": 0
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
-    "cases": 28,
+    "cases": 29,
     "deaths": 0
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 39,
+    "cases": 41,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 366,
+    "cases": 375,
     "deaths": 13
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 39,
+    "cases": 41,
     "deaths": 0
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
-    "cases": 38,
+    "cases": 39,
     "deaths": 1
   },
   {
@@ -329,7 +329,7 @@
     "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 54,
+    "cases": 60,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 339,
+    "cases": 347,
     "deaths": 1
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 25,
+    "cases": 26,
     "deaths": 1
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 56,
+    "cases": 65,
     "deaths": 0
   }
 ]
