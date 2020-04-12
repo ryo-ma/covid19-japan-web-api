@@ -46,6 +46,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 * [Positives](#positives)
 * [Positives Statistics](#positives-statistics)
 
+---
 
 ## Prefectures
 
@@ -79,6 +80,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 </details>
 
+---
+
 ## Total
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
@@ -105,6 +108,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 ```
 
 </details>
+
+---
 
 ## Total History
 
@@ -150,6 +155,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 </details>
 
+---
 
 ## Positives
 
@@ -210,6 +216,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 ```
 
 </details>
+
+---
 
 ## Positives Statistics
 This is a statistic of the **positives API** and does not include data that is not publicly available.
@@ -281,6 +289,8 @@ This is a statistic of the **positives API** and does not include data that is n
 ```
 
 </details>
+
+---
 
 # Contribution Guide
 * Please use **flake8** as Lint
