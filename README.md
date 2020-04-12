@@ -50,11 +50,10 @@ You can see the documentation of this API and/or import it as a Postman collecti
 ## Prefectures
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
-```bash
-$ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
-```
 
-**Response:**
+<details>
+<summary><b>Response</b></summary>
+
 ```json
 [
   {
@@ -78,14 +77,15 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/prefectures
 ...
 ```
 
+</details>
+
 ## Total
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
-```bash
-$ curl https://covid19-japan-web-api.now.sh/api/v1/total
-```
 
-**Response:**
+<details>
+<summary><b>Response</b></summary>
+  
 ```json
 {
   "date": 20200329,
@@ -104,14 +104,15 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total
 }
 ```
 
+</details>
+
 ## Total History
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
-```bash
-$ curl https://covid19-japan-web-api.now.sh/api/v1/total?history=true
-```
 
-**Response:**
+<details>
+<summary><b>Response</b></summary>
+
 ```json
 [
   {
@@ -147,14 +148,16 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/total?history=true
 ...
 ```
 
+</details>
+
+
 ## Positives
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives](https://covid19-japan-web-api.now.sh/api/v1/positives)
-```bash
-$ curl https://covid19-japan-web-api.now.sh/api/v1/positives
-```
 
-**Response:**
+<details>
+<summary><b>Response</b></summary>
+
 ```json
 [
   {
@@ -206,15 +209,16 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ...
 ```
 
+</details>
+
 ## Positives Statistics
 This is a statistic of the **positives API** and does not include data that is not publicly available.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/statistics](https://covid19-japan-web-api.now.sh/api/v1/statistics)
-```bash
-$ curl https://covid19-japan-web-api.now.sh/api/v1/statistics
-```
 
-**Response:**
+<details>
+<summary><b>Response</b></summary>
+
 ```json
 [
   {
@@ -275,6 +279,8 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/statistics
   },
 ...
 ```
+
+</details>
 
 # Contribution Guide
 * Please use **flake8** as Lint
