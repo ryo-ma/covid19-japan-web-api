@@ -1,7 +1,4 @@
 .now
 .idea
-<<<<<<< HEAD
 __pycache__
 data
-=======
->>>>>>> Remove .venv from .gitignore
