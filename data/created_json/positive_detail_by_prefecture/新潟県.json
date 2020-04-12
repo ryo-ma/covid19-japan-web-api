@@ -549,7 +549,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/11"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -572,7 +572,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/13"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -595,7 +595,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -618,7 +618,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -641,7 +641,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -664,7 +664,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/07"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -687,7 +687,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/14"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -710,7 +710,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/15"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -733,7 +733,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -756,7 +756,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/04"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -779,7 +779,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "310-401-407",
@@ -802,7 +802,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/16"
+    "estimated_infection_date": ""
   },
   {
     "code": "220-331-407",
@@ -825,7 +825,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/14"
+    "estimated_infection_date": ""
   },
   {
     "code": "220-???-408",
@@ -848,7 +848,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/15"
+    "estimated_infection_date": ""
   },
   {
     "code": "320-403-408",
@@ -871,7 +871,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "421-000-409",
@@ -894,7 +894,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "211-408-409",
@@ -912,6 +912,29 @@
     "diagnosis_date": "2020/04/09",
     "onset": "2020/04/08",
     "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "310-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/coronavirus.files/press4.11.pdf",
+    "prefecture": "新潟県",
+    "residence_prefecture": "新潟市東区",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "新潟県42",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID150042",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
     "death_or_discharge_date": "",
     "comment1": "",
     "outcome": "",

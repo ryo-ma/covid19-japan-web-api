@@ -135,7 +135,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/28"
+    "estimated_infection_date": "2020/03/19"
   },
   {
     "code": "",
@@ -158,7 +158,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/22"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -181,7 +181,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/17"
+    "estimated_infection_date": "2020/03/23"
   },
   {
     "code": "",
@@ -204,7 +204,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/15"
+    "estimated_infection_date": "2020/03/21"
   },
   {
     "code": "",
@@ -227,7 +227,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/25"
+    "estimated_infection_date": "2020/02/27"
   },
   {
     "code": "410-329-407",
@@ -250,7 +250,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/02"
   },
   {
     "code": "820-402-409",
@@ -273,7 +273,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/02/26"
   },
   {
     "code": "511-330-409",
@@ -296,7 +296,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/13"
   },
   {
     "code": "521-000-410",
@@ -319,7 +319,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/04"
   },
   {
     "code": "321-000-410",
@@ -342,7 +342,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/09"
   },
   {
     "code": "321-000-410",
@@ -358,6 +358,121 @@
     "detail": "",
     "id": "ID020017",
     "diagnosis_date": "2020/04/10",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": "2020/03/15"
+  },
+  {
+    "code": "921-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200411press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "十和田市",
+    "age": "90代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "青森県18",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020018",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "821-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200411press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "十和田市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "青森県19",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020019",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": "2020/03/02"
+  },
+  {
+    "code": "821-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200411press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "十和田市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "青森県20",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020020",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": "2020/03/12"
+  },
+  {
+    "code": "821-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200411press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "十和田市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "青森県21",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020021",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "921-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200411press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "十和田市",
+    "age": "90代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "青森県22",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020022",
+    "diagnosis_date": "2020/04/11",
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",

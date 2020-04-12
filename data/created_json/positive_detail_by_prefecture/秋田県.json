@@ -20,7 +20,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/12"
   },
   {
     "code": "",
@@ -43,7 +43,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/11"
   },
   {
     "code": "",
@@ -66,7 +66,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/12"
   },
   {
     "code": "",
@@ -89,7 +89,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/06"
   },
   {
     "code": "",
@@ -112,7 +112,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/23"
+    "estimated_infection_date": "2020/03/08"
   },
   {
     "code": "",
@@ -158,7 +158,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/14"
   },
   {
     "code": "",
@@ -181,7 +181,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": ""
+    "estimated_infection_date": "2020/03/12"
   },
   {
     "code": "",
@@ -204,7 +204,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/28"
+    "estimated_infection_date": "2020/03/18"
   },
   {
     "code": "511-403-404",
@@ -227,7 +227,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/23"
+    "estimated_infection_date": "2020/03/19"
   },
   {
     "code": "420-405-410",
@@ -250,14 +250,14 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/26"
+    "estimated_infection_date": "2020/03/23"
   },
   {
     "code": "510-404-410",
     "announcement_date": "2020-04-10",
     "src": "https://www.pref.akita.lg.jp/uploads/public/archive_0000047957_00/R02.04.10%E3%80%80%E5%A0%B1%E9%81%93%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%EF%BC%8813%E4%BE%8B%E7%9B%AE%EF%BC%89.pdf",
     "prefecture": "秋田県",
-    "residence_prefecture": "大洗管内",
+    "residence_prefecture": "大仙管内",
     "age": "50代",
     "gender": "男性",
     "attribute": "",
@@ -274,5 +274,51 @@
     "outcome_src": "",
     "comment2": "",
     "estimated_infection_date": "2020/03/19"
+  },
+  {
+    "code": "121-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.city.akita.lg.jp/_res/projects/default_project/_page_/001/024/151/akitasi_5reime.6reime_4.11.pdf",
+    "prefecture": "秋田県",
+    "residence_prefecture": "秋田市",
+    "age": "10代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "秋田県14",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID050014",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": "2020/03/22"
+  },
+  {
+    "code": "111-000-411",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.city.akita.lg.jp/_res/projects/default_project/_page_/001/024/151/akitasi_5reime.6reime_4.11.pdf",
+    "prefecture": "秋田県",
+    "residence_prefecture": "秋田市",
+    "age": "10代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "秋田県15",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID050015",
+    "diagnosis_date": "2020/04/11",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
   }
 ]

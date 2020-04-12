@@ -20,7 +20,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/23"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -43,7 +43,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -66,7 +66,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/10"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -89,7 +89,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/15"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -112,7 +112,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/15"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -135,7 +135,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/17"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -158,7 +158,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "221-327-404",
@@ -181,7 +181,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "510-324-402",
@@ -204,7 +204,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/21"
+    "estimated_infection_date": ""
   },
   {
     "code": "421-403-405",
@@ -227,7 +227,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/22"
+    "estimated_infection_date": ""
   },
   {
     "code": "211-327-406",
@@ -250,7 +250,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/09"
+    "estimated_infection_date": ""
   },
   {
     "code": "111-000-407",
@@ -273,7 +273,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/20"
+    "estimated_infection_date": ""
   },
   {
     "code": "310-406-408",
@@ -296,7 +296,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/18"
+    "estimated_infection_date": ""
   },
   {
     "code": "321-330-408",
@@ -319,7 +319,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "220-402-409",
@@ -342,7 +342,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/21"
+    "estimated_infection_date": ""
   },
   {
     "code": "721-406-409",
@@ -365,7 +365,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/20"
+    "estimated_infection_date": ""
   },
   {
     "code": "420-331-409",
@@ -388,7 +388,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/21"
+    "estimated_infection_date": ""
   },
   {
     "code": "520-402-409",
@@ -411,7 +411,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "410-403-409",
@@ -434,7 +434,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/18"
+    "estimated_infection_date": ""
   },
   {
     "code": "610-405-409",
@@ -457,7 +457,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/14"
+    "estimated_infection_date": ""
   },
   {
     "code": "520-405-410",
@@ -480,6 +480,190 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/25"
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "120-328-410",
+    "announcement_date": "2020-04-11",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383001.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "朝日町",
+    "age": "10代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県23",
+    "travel_or_contact": "",
+    "detail": "東京都から帰省",
+    "id": "ID160023",
+    "diagnosis_date": "2020/04/10",
+    "onset": "2020/03/28",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "610-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県24",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160024",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "011-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "00代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県25",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID160025",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "420-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県26",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160026",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "310-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県27",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160027",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "420-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県28",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160028",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "720-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "70代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県29",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160029",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "320-???-411",
+    "announcement_date": "2020-04-11",
+    "src": "",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "30代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県30",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160030",
+    "diagnosis_date": "2020/04/11",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
   }
 ]

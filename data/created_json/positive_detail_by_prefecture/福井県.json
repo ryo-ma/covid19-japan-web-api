@@ -20,7 +20,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/14"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -43,7 +43,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/14"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -66,7 +66,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -89,7 +89,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/19"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -112,7 +112,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/20"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -135,7 +135,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/16"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -147,8 +147,8 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県8",
-    "travel_or_contact": "",
-    "detail": "",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180008",
     "diagnosis_date": "",
     "onset": "2020/03/22",
@@ -170,8 +170,8 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県9",
-    "travel_or_contact": "",
-    "detail": "",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180009",
     "diagnosis_date": "",
     "onset": "2020/03/22",
@@ -181,7 +181,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/23"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -193,8 +193,8 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県10",
-    "travel_or_contact": "接触歴",
-    "detail": "福井県8",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180010",
     "diagnosis_date": "",
     "onset": "2020/03/21",
@@ -216,8 +216,8 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県11",
-    "travel_or_contact": "接触歴",
-    "detail": "福井県7,福井県9",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180011",
     "diagnosis_date": "",
     "onset": "2020/03/22",
@@ -227,7 +227,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/20"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -239,7 +239,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県12",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180012",
     "diagnosis_date": "",
@@ -250,7 +250,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/21"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -273,7 +273,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/18"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -285,7 +285,7 @@
     "gender": "男性",
     "attribute": "会社役員",
     "prefecture_number": "福井県14",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180014",
     "diagnosis_date": "",
@@ -296,7 +296,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/29"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -319,7 +319,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/29"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -331,8 +331,8 @@
     "gender": "女性",
     "attribute": "飲食店従業員/歯科助手",
     "prefecture_number": "福井県16",
-    "travel_or_contact": "接触歴",
-    "detail": "福井県7,福井県8,福井県9,福井県10,福井県11",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180016",
     "diagnosis_date": "",
     "onset": "2020/03/18",
@@ -457,7 +457,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/12"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -469,7 +469,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県22",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180022",
     "diagnosis_date": "",
@@ -492,8 +492,8 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県23",
-    "travel_or_contact": "",
-    "detail": "",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180023",
     "diagnosis_date": "",
     "onset": "2020/03/26",
@@ -561,8 +561,8 @@
     "gender": "女性",
     "attribute": "",
     "prefecture_number": "福井県26",
-    "travel_or_contact": "",
-    "detail": "",
+    "travel_or_contact": "クラスター",
+    "detail": "飲食店A",
     "id": "ID180026",
     "diagnosis_date": "",
     "onset": "2020/03/24",
@@ -584,7 +584,7 @@
     "gender": "女性",
     "attribute": "",
     "prefecture_number": "福井県27",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180027",
     "diagnosis_date": "",
@@ -630,7 +630,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県29",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180029",
     "diagnosis_date": "",
@@ -676,15 +676,15 @@
     "gender": "女性",
     "attribute": "",
     "prefecture_number": "福井県31",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180031",
     "diagnosis_date": "",
     "onset": "不明",
     "symptom": "不明",
-    "death_or_discharge_date": "",
+    "death_or_discharge_date": "2020-04-05",
     "comment1": "",
-    "outcome": "",
+    "outcome": "2",
     "outcome_src": "",
     "comment2": "",
     "estimated_infection_date": ""
@@ -756,7 +756,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/13"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -848,7 +848,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/05"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -871,7 +871,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/10"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -894,7 +894,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/22"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -917,7 +917,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/16"
+    "estimated_infection_date": ""
   },
   {
     "code": "",
@@ -940,7 +940,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/22"
+    "estimated_infection_date": ""
   },
   {
     "code": "820-330-403",
@@ -963,7 +963,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/22"
+    "estimated_infection_date": ""
   },
   {
     "code": "320-401-404",
@@ -975,7 +975,7 @@
     "gender": "女性",
     "attribute": "",
     "prefecture_number": "福井県44",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180044",
     "diagnosis_date": "2020/04/04",
@@ -986,7 +986,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/25"
+    "estimated_infection_date": ""
   },
   {
     "code": "311-329-404",
@@ -1009,7 +1009,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/07"
+    "estimated_infection_date": ""
   },
   {
     "code": "413-324-404",
@@ -1032,7 +1032,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/02/28"
+    "estimated_infection_date": ""
   },
   {
     "code": "211-403-404",
@@ -1044,7 +1044,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県47",
-    "travel_or_contact": "接触歴",
+    "travel_or_contact": "",
     "detail": "",
     "id": "ID180047",
     "diagnosis_date": "2020/04/04",
@@ -1055,7 +1055,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/18"
+    "estimated_infection_date": ""
   },
   {
     "code": "510-402-404",
@@ -1067,7 +1067,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県48",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180048",
     "diagnosis_date": "2020/04/04",
@@ -1078,7 +1078,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/27"
+    "estimated_infection_date": ""
   },
   {
     "code": "710-402-404",
@@ -1101,7 +1101,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/25"
+    "estimated_infection_date": ""
   },
   {
     "code": "521-324-404",
@@ -1124,7 +1124,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/24"
+    "estimated_infection_date": ""
   },
   {
     "code": "510-///-404",
@@ -1147,7 +1147,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/16"
+    "estimated_infection_date": ""
   },
   {
     "code": "410-401-404",
@@ -1170,7 +1170,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/20"
+    "estimated_infection_date": ""
   },
   {
     "code": "720-326-404",
@@ -1216,7 +1216,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/01/31"
+    "estimated_infection_date": ""
   },
   {
     "code": "521-330-405",
@@ -1239,7 +1239,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/01/30"
+    "estimated_infection_date": ""
   },
   {
     "code": "511-331-405",
@@ -1262,7 +1262,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/01/28"
+    "estimated_infection_date": ""
   },
   {
     "code": "413-///-405",
@@ -1285,7 +1285,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/11"
+    "estimated_infection_date": ""
   },
   {
     "code": "510-401-405",
@@ -1297,7 +1297,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県58",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID180058",
     "diagnosis_date": "2020/04/05",
@@ -1308,7 +1308,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/09"
+    "estimated_infection_date": ""
   },
   {
     "code": "520-322-405",
@@ -1320,7 +1320,7 @@
     "gender": "女性",
     "attribute": "",
     "prefecture_number": "福井県59",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "デイサービスひかり",
     "id": "ID180059",
     "diagnosis_date": "2020/04/05",
@@ -1331,7 +1331,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/09"
+    "estimated_infection_date": ""
   },
   {
     "code": "421-402-406",
@@ -1389,7 +1389,7 @@
     "gender": "男性",
     "attribute": "",
     "prefecture_number": "福井県62",
-    "travel_or_contact": "",
+    "travel_or_contact": "接触歴",
     "detail": "福島泌尿器科医院",
     "id": "ID180062",
     "diagnosis_date": "2020/04/06",
@@ -1791,7 +1791,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/13"
+    "estimated_infection_date": ""
   },
   {
     "code": "511-404-409",
@@ -1814,7 +1814,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/21"
+    "estimated_infection_date": ""
   },
   {
     "code": "823-405-409",
@@ -1837,7 +1837,7 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/18"
+    "estimated_infection_date": ""
   },
   {
     "code": "613-000-409",
@@ -1860,6 +1860,98 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": "",
-    "estimated_infection_date": "2020/03/23"
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "520-402-410",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200411.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "福井市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福井県83",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID180083",
+    "diagnosis_date": "2020/04/10",
+    "onset": "2020/04/02",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "720-409-410",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200411.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "福井市",
+    "age": "70代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福井県84",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID180084",
+    "diagnosis_date": "2020/04/10",
+    "onset": "2020/04/09",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "611-327-410",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200411.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "福井市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "福井県85",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID180085",
+    "diagnosis_date": "2020/04/10",
+    "onset": "2020/03/27",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
+  },
+  {
+    "code": "420-407-410",
+    "announcement_date": "2020-04-11",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200411.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "福井市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福井県86",
+    "travel_or_contact": "",
+    "detail": "富山県に滞在",
+    "id": "ID180086",
+    "diagnosis_date": "2020/04/10",
+    "onset": "2020/04/07",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": "",
+    "estimated_infection_date": ""
   }
 ]
