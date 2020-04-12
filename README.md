@@ -44,6 +44,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 * [Total](#total)
 * [Total History](#total-history)
 * [Positives](#positives)
+* [Positives Statistics](#positives-statistics)
 
 
 ## Prefectures
@@ -201,6 +202,75 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
     "outcome_src": "",
     "comment2": "",
     "estimated_infection_date": "2020/01/24"
+  },
+...
+```
+
+## Positives Statistics
+
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/statistics](https://covid19-japan-web-api.now.sh/api/v1/statistics)
+```bash
+$ curl https://covid19-japan-web-api.now.sh/api/v1/statistics
+```
+
+**Response:**
+```json
+[
+  {
+    "name_ja": "北海道",
+    "name_en": "Hokkaido",
+    "total_count": 239,
+    "male": {
+      "count": 137,
+      "generations_count": {
+        "00s": 6,
+        "10s": 1,
+        "20s": 5,
+        "30s": 8,
+        "40s": 19,
+        "50s": 35,
+        "60s": 27,
+        "70s": 19,
+        "80s": 14,
+        "90s": 2,
+        "100s": 0,
+        "unknown": 1
+      }
+    },
+    "female": {
+      "count": 100,
+      "generations_count": {
+        "00s": 1,
+        "10s": 1,
+        "20s": 14,
+        "30s": 10,
+        "40s": 12,
+        "50s": 17,
+        "60s": 15,
+        "70s": 16,
+        "80s": 8,
+        "90s": 4,
+        "100s": 0,
+        "unknown": 2
+      }
+    },
+    "unkown_gender": {
+      "count": 2,
+      "generations_count": {
+        "00s": 0,
+        "10s": 0,
+        "20s": 0,
+        "30s": 0,
+        "40s": 0,
+        "50s": 0,
+        "60s": 0,
+        "70s": 0,
+        "80s": 0,
+        "90s": 0,
+        "100s": 0,
+        "unknown": 2
+      }
+    }
   },
 ...
 ```

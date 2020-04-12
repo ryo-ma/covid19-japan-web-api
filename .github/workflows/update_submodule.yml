@@ -42,13 +42,13 @@ jobs:
         python ./script/create_prefectures.py
         python ./script/create_total.py
         python ./script/create_positive_detail.py
+        python ./script/create_statistics_positives.py
     - name: Commit data files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git status
         git add -f ./data
-        git add .
         git commit -m "Update data" || echo "Nothing to commit"
     - name: Push changes
       uses: ad-m/github-push-action@master
