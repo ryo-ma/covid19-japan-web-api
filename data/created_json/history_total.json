@@ -988,5 +988,20 @@
     "waiting": 64,
     "discharge": 745,
     "death": 94
+  },
+  {
+    "date": 20200412,
+    "pcr": 63132,
+    "positive": 6616,
+    "symptom": 4257,
+    "symptomless": 420,
+    "symptomConfirming": 1939,
+    "hospitalize": 5751,
+    "mild": 3030,
+    "severe": 129,
+    "confirming": 576,
+    "waiting": 77,
+    "discharge": 767,
+    "death": 98
   }
 ]

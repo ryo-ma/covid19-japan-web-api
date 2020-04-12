@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 45,
+    "cases": 51,
     "deaths": 0
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
-    "cases": 103,
+    "cases": 109,
     "deaths": 5
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 375,
+    "cases": 376,
     "deaths": 6
   },
   {
@@ -104,8 +104,8 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 424,
-    "deaths": 4
+    "cases": 468,
+    "deaths": 5
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 1902,
+    "cases": 2068,
     "deaths": 40
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 525,
+    "cases": 545,
     "deaths": 12
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
-    "cases": 104,
+    "cases": 113,
     "deaths": 0
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 33,
+    "cases": 34,
     "deaths": 0
   },
   {
@@ -203,8 +203,8 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 348,
-    "deaths": 23
+    "cases": 350,
+    "deaths": 25
   },
   {
     "id": 24,
@@ -230,7 +230,7 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
-    "cases": 181,
+    "cases": 193,
     "deaths": 3
   },
   {
@@ -311,7 +311,7 @@
     "name_en": "Yamaguchi",
     "lat": 34.19861111,
     "lng": 131.575,
-    "cases": 19,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 347,
+    "cases": 362,
     "deaths": 1
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 26,
+    "cases": 27,
     "deaths": 1
   },
   {
