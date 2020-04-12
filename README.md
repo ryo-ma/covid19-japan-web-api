@@ -207,6 +207,7 @@ $ curl https://covid19-japan-web-api.now.sh/api/v1/positives
 ```
 
 ## Positives Statistics
+This is a statistic of the **positives API** and does not include data that is not publicly available.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/statistics](https://covid19-japan-web-api.now.sh/api/v1/statistics)
 ```bash
