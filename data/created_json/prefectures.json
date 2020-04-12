@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 87,
+    "cases": 90,
     "deaths": 2
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 379,
+    "cases": 415,
     "deaths": 6
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 59,
+    "cases": 62,
     "deaths": 0
   },
   {
@@ -329,7 +329,7 @@
     "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
