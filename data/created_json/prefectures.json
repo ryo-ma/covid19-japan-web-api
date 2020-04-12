@@ -5,8 +5,8 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 252,
-    "deaths": 10
+    "cases": 262,
+    "deaths": 11
   },
   {
     "id": 2,
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 423,
+    "cases": 424,
     "deaths": 4
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 514,
+    "cases": 515,
     "deaths": 11
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 358,
+    "cases": 366,
     "deaths": 13
   },
   {
