@@ -161,6 +161,8 @@ This API does not include FLIGHT data and SHIPMENT data.
 
 </details>
 
+---
+
 ## Total Prediction
 
 Predict  for the next 30 days about the positive and the death.
