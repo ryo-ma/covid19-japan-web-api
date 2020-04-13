@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 35,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 333,
+    "cases": 335,
     "deaths": 24
   },
   {
@@ -329,7 +329,7 @@
     "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
-    "cases": 8,
+    "cases": 16,
     "deaths": 0
   },
   {
