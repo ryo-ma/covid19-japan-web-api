@@ -165,9 +165,9 @@ This API does not include FLIGHT data and SHIPMENT data.
 
 ## Total Prediction
 
-Predict  for the next 30 days about the positive and the death.
+Predict  for the next 30 days about the positive total and the death total.
 
-This API does not include FLIGHT data and SHIPMENT data.
+This API does not include the FLIGHT data and the SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?predict=true](https://covid19-japan-web-api.now.sh/api/v1/total?predict=true)
 
