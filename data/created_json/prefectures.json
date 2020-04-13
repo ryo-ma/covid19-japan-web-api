@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 38,
+    "cases": 39,
     "deaths": 0
   },
   {
@@ -248,8 +248,8 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 375,
-    "deaths": 13
+    "cases": 379,
+    "deaths": 15
   },
   {
     "id": 29,
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 362,
+    "cases": 365,
     "deaths": 1
   },
   {
