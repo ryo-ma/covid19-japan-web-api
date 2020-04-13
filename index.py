@@ -8,6 +8,7 @@ import textwrap
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
 TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
 HISTORY_TOTAL_JSON_PATH = './data/created_json/history_total.json'
+PREDICTION_TOTAL_JSON_PATH = './data/created_json/prediction_total.json'
 POSITIVE_DETAIL_JSON_PATH = './data/created_json/positive_detail.json'
 POSITIVE_DETAIL_JSON_PATH_FORMAT = './data/created_json/positive_detail_by_prefecture/{0}.json'
 STATISTICS_JSON_PATH = './data/created_json/statistics_positive_detail.json'
@@ -29,9 +30,11 @@ async def index(request):
 
 @apiv1.route('/total')
 @cross_origin(apiv1)
-async def today_total(request):
+async def total(request):
     if 'history' in request.raw_args and request.raw_args['history'] == 'true':
         return await response.file(HISTORY_TOTAL_JSON_PATH)
+    elif 'predict' in request.raw_args and request.raw_args['predict'] == 'true':
+        return await response.file(PREDICTION_TOTAL_JSON_PATH)
     return await response.file(TODAY_TOTAL_JSON_PATH)
 
 

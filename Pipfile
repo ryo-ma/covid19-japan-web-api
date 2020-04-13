@@ -7,6 +7,7 @@ verify_ssl = true
 pandas = "*"
 sanic-openapi = "==0.6.0"
 flake8 = "*"
+scipy = "*"
 
 [packages]
 sanic = "*"
