@@ -19,8 +19,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -42,8 +41,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -65,8 +63,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -88,8 +85,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -111,8 +107,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -134,8 +129,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -157,8 +151,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -180,8 +173,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -203,8 +195,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -226,8 +217,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -249,8 +239,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -272,8 +261,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -295,8 +283,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -318,8 +305,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -341,8 +327,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -364,8 +349,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -387,8 +371,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "420-401-404",
@@ -410,8 +393,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "521-401-405",
@@ -433,8 +415,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "510-329-407",
@@ -456,8 +437,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "521-407-407",
@@ -479,8 +459,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "310-409-409",
@@ -502,8 +481,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "210-403-410",
@@ -525,8 +503,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "710-410-411",
@@ -548,7 +525,50 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
+  },
+  {
+    "code": "72-1408412",
+    "announcement_date": "2020-04-12",
+    "src": "http://www.city.kumamoto.jp/common/UploadFileDsp.aspx?c_id=5&id=26562&sub_id=253&flid=202409",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市東区",
+    "age": "70代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "熊本県26",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID430026",
+    "diagnosis_date": "2020/04/12",
+    "onset": "2020/04/08",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+  {
+    "code": "21-0406412",
+    "announcement_date": "2020-04-12",
+    "src": "https://www.pref.kumamoto.jp/common/UploadFileOutput.ashx?c_id=3&id=32300&sub_id=4&flid=231478",
+    "prefecture": "熊本県",
+    "residence_prefecture": "有明管内",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "熊本県27",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID430027",
+    "diagnosis_date": "2020/04/12",
+    "onset": "2020/04/06",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]

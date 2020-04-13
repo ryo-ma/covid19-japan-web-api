@@ -1,15 +1,15 @@
 {
-  "date": 20200412,
+  "date": 20200413,
   "pcr": 63132,
-  "positive": 6616,
-  "symptom": 4257,
-  "symptomless": 420,
-  "symptomConfirming": 1939,
-  "hospitalize": 5751,
-  "mild": 3030,
-  "severe": 129,
-  "confirming": 576,
-  "waiting": 77,
-  "discharge": 767,
-  "death": 98
+  "positive": 7123,
+  "symptom": 4507,
+  "symptomless": 444,
+  "symptomConfirming": 2172,
+  "hospitalize": 6239,
+  "mild": 3161,
+  "severe": 135,
+  "confirming": 623,
+  "waiting": 148,
+  "discharge": 782,
+  "death": 102
 }

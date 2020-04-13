@@ -19,8 +19,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -42,8 +41,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -65,8 +63,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -88,8 +85,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -111,8 +107,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "",
@@ -134,8 +129,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "410-329-404",
@@ -157,8 +151,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "411-329-405",
@@ -180,8 +173,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "411-327-405",
@@ -203,8 +195,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "411-401-405",
@@ -226,8 +217,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "521-331-405",
@@ -249,8 +239,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "221-000-406",
@@ -272,8 +261,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "411-000-407",
@@ -295,8 +283,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "211-406-407",
@@ -318,8 +305,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "611-000-407",
@@ -341,8 +327,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "621-000-408",
@@ -364,8 +349,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "511-407-410",
@@ -387,8 +371,7 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
   },
   {
     "code": "110-410-411-県外（福岡県）",
@@ -410,7 +393,94 @@
     "comment1": "",
     "outcome": "",
     "outcome_src": "",
-    "comment2": "",
-    "estimated_infection_date": ""
+    "comment2": ""
+  },
+  {
+    "code": "32-1000412岩国市",
+    "announcement_date": "2020-04-12",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "岩国市",
+    "age": "30代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山口県20",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID350020",
+    "diagnosis_date": "2020/04/12",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+  {
+    "code": "12-1000412岩国市",
+    "announcement_date": "2020-04-12",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "岩国市",
+    "age": "10代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山口県21",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID350021",
+    "diagnosis_date": "2020/04/12",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+  {
+    "code": "71-0407412下関市",
+    "announcement_date": "2020-04-12",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "下関市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山口県22",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID350022",
+    "diagnosis_date": "2020/04/12",
+    "onset": "2020/04/07",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
+  },
+  {
+    "code": "31-0411412山口市",
+    "announcement_date": "2020-04-12",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "山口市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山口県23",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID350023",
+    "diagnosis_date": "2020/04/12",
+    "onset": "2020/04/11",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]

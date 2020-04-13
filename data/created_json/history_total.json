@@ -1003,5 +1003,20 @@
     "waiting": 77,
     "discharge": 767,
     "death": 98
+  },
+  {
+    "date": 20200413,
+    "pcr": 63132,
+    "positive": 7123,
+    "symptom": 4507,
+    "symptomless": 444,
+    "symptomConfirming": 2172,
+    "hospitalize": 6239,
+    "mild": 3161,
+    "severe": 135,
+    "confirming": 623,
+    "waiting": 148,
+    "discharge": 782,
+    "death": 102
   }
 ]
