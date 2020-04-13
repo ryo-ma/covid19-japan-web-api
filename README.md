@@ -24,6 +24,7 @@ I created this API to help disseminate about the Japanese COVID-19 information. 
 * 🚀 Provide REST API
 * 🇯🇵 Get info of each prefecture in Japan
 * ☕️ Simple data and simple to use
+* 📈 Predict for the next 30 days
 
 
 # Project using this API
@@ -43,6 +44,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 * [Prefectures](#prefectures)
 * [Total](#total)
 * [Total History](#total-history)
+* [Total Prediction](#total-prediction)
 * [Positives](#positives)
 * [Positives Statistics](#positives-statistics)
 
@@ -84,11 +86,13 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 ## Total
 
+This API does not include FLIGHT data and SHIPMENT data.
+
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
 
 <details>
 <summary><b>Response</b></summary>
-  
+
 ```json
 {
   "date": 20200329,
@@ -112,6 +116,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 ---
 
 ## Total History
+
+This API does not include FLIGHT data and SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
 
@@ -149,6 +155,64 @@ You can see the documentation of this API and/or import it as a Postman collecti
     "waiting": 0,
     "discharge": 4,
     "death": 0
+  },
+...
+```
+
+</details>
+
+## Total Prediction
+
+Predict  for the next 30 days about the positive and the death.
+
+This API does not include FLIGHT data and SHIPMENT data.
+
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?predict=true](https://covid19-japan-web-api.now.sh/api/v1/total?predict=true)
+
+<details>
+<summary><b>Response</b></summary>
+
+```json
+[
+  {
+    "date": 20200413,
+    "positive": 6960.103502394343,
+    "death": 102.8839324261669
+  },
+  {
+    "date": 20200414,
+    "positive": 7652.287257933034,
+    "death": 107.84568822992809
+  },
+  {
+    "date": 20200415,
+    "positive": 8413.308833378682,
+    "death": 113.04673329952118
+  },
+  {
+    "date": 20200416,
+    "positive": 9250.01416438296,
+    "death": 118.49860777416443
+  },
+  {
+    "date": 20200417,
+    "positive": 10169.930016336322,
+    "death": 124.21340833627379
+  },
+  {
+    "date": 20200418,
+    "positive": 11181.33169302858,
+    "death": 130.2038150517223
+  },
+  {
+    "date": 20200419,
+    "positive": 12293.317478949984,
+    "death": 136.4831195045177
+  },
+  {
+    "date": 20200420,
+    "positive": 13515.89048489476,
+    "death": 143.06525428832322
   },
 ...
 ```
