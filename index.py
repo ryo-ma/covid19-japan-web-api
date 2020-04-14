@@ -1,5 +1,6 @@
 import textwrap
-from flask import Flask, Blueprint, jsonify, request
+import json
+from flask import abort, Flask, Blueprint, jsonify, request
 from flask_cors import cross_origin
 
 
@@ -8,7 +9,6 @@ TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
 HISTORY_TOTAL_JSON_PATH = './data/created_json/history_total.json'
 PREDICTION_TOTAL_JSON_PATH = './data/created_json/prediction_total.json'
 POSITIVE_DETAIL_JSON_PATH = './data/created_json/positive_detail.json'
-POSITIVE_DETAIL_JSON_PATH_FORMAT = './data/created_json/positive_detail_by_prefecture/{0}.json'
 STATISTICS_JSON_PATH = './data/created_json/statistics_positive_detail.json'
 PREFECTURES = textwrap.dedent('''\
 北海道,青森県,岩手県,宮城県,秋田県,山形県,福島県,茨城県,栃木県,群馬県,埼玉県,千葉県,東京都,神奈川県,新潟県,富山県,\
@@ -16,12 +16,12 @@ PREFECTURES = textwrap.dedent('''\
 岡山県,広島県,山口県,徳島県,香川県,愛媛県,高知県,福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県\
 ''').split(',')
 
-prefectures_json = {}
-history_total_json = {}
-today_total_json = {}
-prediction_total_json = {}
-positive_detail_json = {}
-statistics_json = {}
+prefectures_json = ''
+history_total_json = ''
+today_total_json = ''
+prediction_total_json = ''
+positive_detail_json = ''
+statistics_json = ''
 with open(PREFECTURES_JSON_PATH) as f:
     prefectures_json = f.read()
 with open(HISTORY_TOTAL_JSON_PATH) as f:
@@ -64,14 +64,14 @@ def prefectures():
 @apiv1.route('/positives')
 @cross_origin(apiv1)
 def positives():
-    # if 'prefecture' in request.raw_args:
-    #     prefecture = request.raw_args['prefecture']
-    #     if prefecture in PREFECTURES:
-    #         return await response.file(POSITIVE_DETAIL_JSON_PATH_FORMAT.format(prefecture))
-    #     else:
-    #         raise NotFound('Data not found for the specified prefecture.')
-    # else:
-    #     return await response.file(POSITIVE_DETAIL_JSON_PATH)
+    if 'prefecture' in request.args:
+        prefecture = request.args['prefecture']
+        if prefecture in PREFECTURES:
+            json_response = [x for x in json.loads(positive_detail_json) if x['prefecture'] == prefecture]
+            dumped_response = json.dumps(json_response, indent=2, ensure_ascii=False)
+            return dumped_response, 200, {'Content-Type': 'application/json; charset=utf-8'}
+        else:
+            return abort(404, {'prefecture': f'Does not find {prefecture}'})
     return positive_detail_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
