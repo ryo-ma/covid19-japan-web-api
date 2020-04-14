@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 39,
+    "cases": 43,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 560,
+    "cases": 562,
     "deaths": 14
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 65,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 37,
+    "cases": 39,
     "deaths": 2
   },
   {
@@ -356,8 +356,8 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 373,
-    "deaths": 2
+    "cases": 374,
+    "deaths": 4
   },
   {
     "id": 41,
