@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/6661165/78037051-fc6cac80-73a5-11ea-91fe-10509d2b03ed.png)
+![logo](https://github.com/ryo-ma/covid19-japan-web-api/blob/master/.github/logo_img.png)
 
 # COVID-19 Japan Web API
 ![UpdateData](https://github.com/ryo-ma/covid19-japan-web-api/workflows/UpdateData/badge.svg)
