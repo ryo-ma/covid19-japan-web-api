@@ -746,5 +746,27 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": ""
+  },
+  {
+    "code": "321-410-413",
+    "announcement_date": "2020-04-13",
+    "src": "http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/r1houdoukansentantou/documents/kisyakaikennsiryou_1.pdf",
+    "prefecture": "栃木県",
+    "residence_prefecture": "栃木市",
+    "age": "30代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "栃木県36",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID090036",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/10",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]

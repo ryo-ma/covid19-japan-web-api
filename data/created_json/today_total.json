@@ -1,15 +1,15 @@
 {
-  "date": 20200413,
-  "pcr": 63132,
-  "positive": 7123,
-  "symptom": 4507,
-  "symptomless": 444,
-  "symptomConfirming": 2172,
-  "hospitalize": 6239,
-  "mild": 3161,
-  "severe": 135,
-  "confirming": 623,
-  "waiting": 148,
-  "discharge": 782,
-  "death": 102
+  "date": 20200414,
+  "pcr": 72801,
+  "positive": 7509,
+  "symptom": 4749,
+  "symptomless": 470,
+  "symptomConfirming": 2290,
+  "hospitalize": 6564,
+  "mild": 3352,
+  "severe": 152,
+  "confirming": 617,
+  "waiting": 153,
+  "discharge": 836,
+  "death": 109
 }

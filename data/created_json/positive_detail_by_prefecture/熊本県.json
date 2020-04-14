@@ -570,5 +570,27 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": ""
+  },
+  {
+    "code": "220-???-413熊本市西区",
+    "announcement_date": "2020-04-13",
+    "src": "https://www.city.kumamoto.jp/common/UploadFileDsp.aspx?c_id=5&id=26562&sub_id=252&flid=202399",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市西区",
+    "age": "20代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "熊本県28",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID430028",
+    "diagnosis_date": "2020/04/13",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]

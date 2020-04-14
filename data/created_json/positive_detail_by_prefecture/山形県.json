@@ -812,5 +812,27 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": ""
+  },
+  {
+    "code": "421-406-413",
+    "announcement_date": "2020-04-13",
+    "src": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/39reime.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "大蔵村",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山形県39",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID060039",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/06",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]

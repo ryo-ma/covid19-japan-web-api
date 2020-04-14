@@ -746,5 +746,27 @@
     "outcome": "",
     "outcome_src": "",
     "comment2": ""
+  },
+  {
+    "code": "410-406-413甲府市",
+    "announcement_date": "2020-04-13",
+    "src": "https://www.pref.yamanashi.jp/koucho/coronavirus/documents/200413case36.pdf",
+    "prefecture": "山梨県",
+    "residence_prefecture": "甲府市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山梨県36",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID190036",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/06",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment1": "",
+    "outcome": "",
+    "outcome_src": "",
+    "comment2": ""
   }
 ]
