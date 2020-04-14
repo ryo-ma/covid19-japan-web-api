@@ -1,8 +1,6 @@
-from sanic import Blueprint, Sanic, response
-from sanic.response import json
-from sanic_cors import cross_origin
-from sanic.exceptions import NotFound
 import textwrap
+from flask import Flask, Blueprint, jsonify, request
+from flask_cors import cross_origin
 
 
 PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
@@ -18,51 +16,69 @@ PREFECTURES = textwrap.dedent('''\
 岡山県,広島県,山口県,徳島県,香川県,愛媛県,高知県,福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県\
 ''').split(',')
 
-app = Sanic()
+prefectures_json = {}
+history_total_json = {}
+today_total_json = {}
+prediction_total_json = {}
+positive_detail_json = {}
+statistics_json = {}
+with open(PREFECTURES_JSON_PATH) as f:
+    prefectures_json = f.read()
+with open(HISTORY_TOTAL_JSON_PATH) as f:
+    history_total_json = f.read()
+with open(TODAY_TOTAL_JSON_PATH) as f:
+    today_total_json = f.read()
+with open(PREDICTION_TOTAL_JSON_PATH) as f:
+    prediction_total_json = f.read()
+with open(POSITIVE_DETAIL_JSON_PATH) as f:
+    positive_detail_json = f.read()
+with open(STATISTICS_JSON_PATH) as f:
+    statistics_json = f.read()
 
-apiv1 = Blueprint('apiv1', url_prefix='/api/v1')
+app = Flask(__name__)
+
+apiv1 = Blueprint('apiv1', __name__, url_prefix='/api/v1')
 
 
 @app.route('/')
-async def index(request):
-    return json({'message': 'Web API to get COVID-19(coronavirus) information of each prefecture in Japan.'})
+def index():
+    return jsonify({'message': 'Web API to get COVID-19(coronavirus) information of each prefecture in Japan.'})
 
 
 @apiv1.route('/total')
 @cross_origin(apiv1)
-async def total(request):
-    if 'history' in request.raw_args and request.raw_args['history'] == 'true':
-        return await response.file(HISTORY_TOTAL_JSON_PATH)
-    elif 'predict' in request.raw_args and request.raw_args['predict'] == 'true':
-        return await response.file(PREDICTION_TOTAL_JSON_PATH)
-    return await response.file(TODAY_TOTAL_JSON_PATH)
+def total():
+    if 'history' in request.args and request.args['history'] == 'true':
+        return history_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    elif 'predict' in request.args and request.args['predict'] == 'true':
+        return prediction_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    return today_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/prefectures')
 @cross_origin(apiv1)
-async def prefectures(request):
-    return await response.file(PREFECTURES_JSON_PATH)
+def prefectures():
+    return prefectures_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/positives')
 @cross_origin(apiv1)
-async def positives(request):
-
-    if 'prefecture' in request.raw_args:
-        prefecture = request.raw_args['prefecture']
-        if prefecture in PREFECTURES:
-            return await response.file(POSITIVE_DETAIL_JSON_PATH_FORMAT.format(prefecture))
-        else:
-            raise NotFound('Data not found for the specified prefecture.')
-    else:
-        return await response.file(POSITIVE_DETAIL_JSON_PATH)
+def positives():
+    # if 'prefecture' in request.raw_args:
+    #     prefecture = request.raw_args['prefecture']
+    #     if prefecture in PREFECTURES:
+    #         return await response.file(POSITIVE_DETAIL_JSON_PATH_FORMAT.format(prefecture))
+    #     else:
+    #         raise NotFound('Data not found for the specified prefecture.')
+    # else:
+    #     return await response.file(POSITIVE_DETAIL_JSON_PATH)
+    return positive_detail_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/statistics')
 @cross_origin(apiv1)
-async def statistics(request):
-    return await response.file(STATISTICS_JSON_PATH)
+def statistics():
+    return statistics_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
-api = Blueprint.group(apiv1)
-app.blueprint(api)
+app.register_blueprint(apiv1)

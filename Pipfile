@@ -12,6 +12,8 @@ scipy = "*"
 [packages]
 sanic = "*"
 sanic-cors = "*"
+flask = "*"
+flask-cors = "*"
 
 [requires]
 python_version = "3.6"
