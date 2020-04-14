@@ -45,8 +45,8 @@ def output_total(json_path, data_dict):
 
 
 def predict(array_data):
-    array_x = np.array(range(1, DAY_RANGE + 1))
-    array_y = np.array(array_data[len(array_data) - DAY_RANGE: len(array_data)])
+    array_x = range(1, DAY_RANGE + 1)
+    array_y = array_data[len(array_data) - DAY_RANGE: len(array_data)]
     return curve_fit(nonlinear_func, array_x, array_y)
 
 
