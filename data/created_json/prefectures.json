@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 56,
+    "cases": 64,
     "deaths": 0
   },
   {
@@ -95,8 +95,8 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 435,
-    "deaths": 7
+    "cases": 461,
+    "deaths": 9
   },
   {
     "id": 12,
@@ -114,7 +114,7 @@
     "lat": 35.702313700000005,
     "lng": 139.5803228,
     "cases": 2319,
-    "deaths": 42
+    "deaths": 47
   },
   {
     "id": 14,
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 49,
+    "cases": 55,
     "deaths": 0
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 119,
+    "cases": 127,
     "deaths": 1
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 335,
+    "cases": 342,
     "deaths": 24
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 835,
+    "cases": 894,
     "deaths": 6
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 402,
+    "cases": 403,
     "deaths": 15
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 87,
+    "cases": 89,
     "deaths": 0
   },
   {
@@ -311,7 +311,7 @@
     "name_en": "Yamaguchi",
     "lat": 34.19861111,
     "lng": 131.575,
-    "cases": 24,
+    "cases": 25,
     "deaths": 0
   },
   {
@@ -329,7 +329,7 @@
     "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
-    "cases": 16,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 389,
+    "cases": 406,
     "deaths": 4
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 30,
+    "cases": 31,
     "deaths": 1
   },
   {
@@ -392,7 +392,7 @@
     "name_en": "Oita",
     "lat": 33.19916667,
     "lng": 131.43416670000002,
-    "cases": 43,
+    "cases": 45,
     "deaths": 0
   },
   {
