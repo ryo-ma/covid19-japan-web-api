@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 43,
+    "cases": 49,
     "deaths": 0
   },
   {
@@ -77,7 +77,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
-    "cases": 37,
+    "cases": 38,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 579,
+    "cases": 582,
     "deaths": 14
   },
   {
@@ -158,8 +158,8 @@
     "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 92,
-    "deaths": 3
+    "cases": 100,
+    "deaths": 4
   },
   {
     "id": 19,
@@ -221,8 +221,8 @@
     "name_en": "Shiga",
     "lat": 35.21527778,
     "lng": 136.13805559999997,
-    "cases": 51,
-    "deaths": 0
+    "cases": 52,
+    "deaths": 1
   },
   {
     "id": 26,
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 403,
+    "cases": 404,
     "deaths": 15
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 405,
+    "cases": 408,
     "deaths": 4
   },
   {
