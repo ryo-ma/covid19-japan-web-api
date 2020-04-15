@@ -1033,5 +1033,20 @@
     "waiting": 153,
     "discharge": 836,
     "death": 109
+  },
+  {
+    "date": 20200415,
+    "pcr": 76425,
+    "positive": 7964,
+    "symptom": 4991,
+    "symptomless": 490,
+    "symptomConfirming": 2483,
+    "hospitalize": 6961,
+    "mild": 3567,
+    "severe": 168,
+    "confirming": 583,
+    "waiting": 160,
+    "discharge": 884,
+    "death": 119
   }
 ]
