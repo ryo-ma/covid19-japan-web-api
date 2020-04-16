@@ -48,6 +48,19 @@ def index():
 @apiv1.route('/total')
 @cross_origin(apiv1)
 def total():
+    """ Get the total number of infected people and deaths in Japan
+    ---
+    parameters:
+      - in: query
+        name: history
+        type: boolean
+      - in: query
+        name: predict
+        type: boolean
+    responses:
+      200:
+        description: Success to get total
+    """
     if 'history' in request.args and request.args['history'] == 'true':
         return history_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
     elif 'predict' in request.args and request.args['predict'] == 'true':
@@ -58,12 +71,34 @@ def total():
 @apiv1.route('/prefectures')
 @cross_origin(apiv1)
 def prefectures():
+    """Get the COVID-19(coronavirus) information of each prefecture in Japan
+    ---
+    responses:
+      200:
+        description: Success to get the information of each prefecture
+    """
     return prefectures_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/positives')
 @cross_origin(apiv1)
 def positives():
+    """ Get the total number of infected people and deaths in Japan
+    ---
+    parameters:
+      - in: query
+        name: prefecture
+        description: Specify the Japanese name. ex- 千葉県
+        type: string
+        required: true
+    responses:
+      200:
+        description: Success to get positives
+      400:
+        description: The prefecture parameter is required
+      404:
+        description: Does not find the prefecture
+    """
     if 'prefecture' in request.args:
         prefecture = request.args['prefecture']
         if prefecture in PREFECTURES:
@@ -81,6 +116,12 @@ def positives():
 @apiv1.route('/statistics')
 @cross_origin(apiv1)
 def statistics():
+    """Get the COVID-19(coronavirus) statistics of each prefecture in Japan
+    ---
+    responses:
+      200:
+        description: Success to get the statistics of each prefecture
+    """
     return statistics_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
