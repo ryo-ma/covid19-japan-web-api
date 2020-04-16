@@ -228,11 +228,11 @@ This API does not include the FLIGHT data and the SHIPMENT data.
 
 ## Positives
 
-**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives](https://covid19-japan-web-api.now.sh/api/v1/positives)
+**Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都](https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都)
 
 **Query parameter**
 
-* prefecture=東京都 : Filter by prefecture using jp_name
+* **required**: prefecture=(jp_name) : Filter by prefecture using jp_name
 
 <details>
 <summary><b>Response</b></summary>
