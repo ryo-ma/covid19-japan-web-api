@@ -72,7 +72,10 @@ def positives():
             return dumped_response, 200, {'Content-Type': 'application/json; charset=utf-8'}
         else:
             return abort(404, {'prefecture': f'Does not find {prefecture}'})
-    return positive_detail_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    message = 'The prefecture parameter is required.\
+    ex: https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都'
+    response_json = json.dumps({'message': message}, ensure_ascii=False)
+    return response_json, 400, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/statistics')
