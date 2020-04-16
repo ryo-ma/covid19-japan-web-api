@@ -397,5 +397,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "021-408-415高松市",
+    "announcement_date": "2020-04-15",
+    "src": "https://www.pref.kagawa.lg.jp/content/etc/web/upfiles/wnnw4z200416175041_f01.pdf",
+    "prefecture": "香川県",
+    "residence_prefecture": "高松市",
+    "age": "00代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "香川県21",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID370021",
+    "diagnosis_date": "2020/04/15",
+    "onset": "2020/04/08",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

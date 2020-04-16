@@ -796,5 +796,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "511-410-415本宮市",
+    "announcement_date": "2020-04-15",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/381702.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "本宮市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "福島県40",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID070040",
+    "diagnosis_date": "2020/04/15",
+    "onset": "2020/04/10",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -376,5 +376,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "520-404-415東員町",
+    "announcement_date": "2020-04-15",
+    "src": "https://www.pref.mie.lg.jp/YAKUMUS/HP/m0068000071_00046.htm",
+    "prefecture": "三重県",
+    "residence_prefecture": "東員町",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "医療従事者,ハート歯科",
+    "prefecture_number": "三重県20",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID240020",
+    "diagnosis_date": "2020/04/15",
+    "onset": "2020/04/04",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

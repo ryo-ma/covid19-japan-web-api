@@ -1321,5 +1321,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "620-408-415仙台市",
+    "announcement_date": "2020-04-15",
+    "src": "https://www.city.sendai.jp/kenkoanzen-kansen/shise/koho/kisha/r2/0415corona.html",
+    "prefecture": "宮城県",
+    "residence_prefecture": "仙台市",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "宮城県65",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID040065",
+    "diagnosis_date": "2020/04/15",
+    "onset": "2020/04/08",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
