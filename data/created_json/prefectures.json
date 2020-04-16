@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 537,
+    "cases": 539,
     "deaths": 7
   },
   {
@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 46,
+    "cases": 47,
     "deaths": 0
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 63,
+    "cases": 64,
     "deaths": 0
   },
   {
@@ -248,8 +248,8 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 423,
-    "deaths": 15
+    "cases": 441,
+    "deaths": 16
   },
   {
     "id": 29,
