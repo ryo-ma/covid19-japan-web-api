@@ -16,10 +16,9 @@
     "onset": "2020/03/18",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -38,10 +37,9 @@
     "onset": "2020/03/23",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -60,10 +58,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -82,10 +79,9 @@
     "onset": "2020/03/26",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -104,10 +100,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -126,10 +121,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -148,10 +142,9 @@
     "onset": "2020/03/23",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -170,10 +163,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-331-404",
@@ -192,10 +184,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-331-404",
@@ -214,10 +205,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "811-000-406",
@@ -236,10 +226,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "310-328-407",
@@ -258,10 +247,9 @@
     "onset": "2020/03/28",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "210-402-407",
@@ -280,10 +268,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "220-331-408",
@@ -302,9 +289,29 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
+  },
+  {
+    "code": "710-407-414岡山市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.pref.okayama.jp/uploaded/attachment/270148.pdf",
+    "prefecture": "岡山県",
+    "residence_prefecture": "岡山市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "岡山県16",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID330016",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/07",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -16,10 +16,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-404-408",
@@ -38,10 +37,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "710-404-410",
@@ -60,10 +58,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "22-0408412高松市",
@@ -82,10 +79,9 @@
     "onset": "2020/04/08",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "42-0410412高松市",
@@ -104,10 +100,9 @@
     "onset": "2020/04/10",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "52-0404412高松市",
@@ -126,10 +121,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "62-1000412さぬき市",
@@ -148,10 +142,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "42",
@@ -170,10 +163,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "42",
@@ -192,10 +184,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "62",
@@ -214,10 +205,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "62",
@@ -236,10 +226,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "42",
@@ -258,10 +247,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "32",
@@ -280,10 +268,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "22",
@@ -302,10 +289,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "62",
@@ -324,10 +310,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "813-",
@@ -346,10 +331,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "723-",
@@ -368,10 +352,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "820-",
@@ -390,9 +373,29 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
+  },
+  {
+    "code": "110-412-414高松市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.pref.kagawa.lg.jp/content/dir1/dir1_6/dir1_6_1/wxbbr9200414231653.shtml",
+    "prefecture": "香川県",
+    "residence_prefecture": "高松市",
+    "age": "10代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "香川県20",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID370020",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

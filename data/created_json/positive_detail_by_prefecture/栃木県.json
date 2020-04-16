@@ -16,10 +16,9 @@
     "onset": "2020/02/25",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -38,10 +37,9 @@
     "onset": "2020/03/15",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -60,10 +58,9 @@
     "onset": "2020/03/17",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -82,10 +79,9 @@
     "onset": "2020/03/18",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -104,10 +100,9 @@
     "onset": "2020/03/14",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -126,10 +121,9 @@
     "onset": "2020/03/17",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -148,10 +142,9 @@
     "onset": "2020/03/22",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -170,10 +163,9 @@
     "onset": "2020/03/20",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -192,10 +184,9 @@
     "onset": "2020/03/22",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -214,10 +205,9 @@
     "onset": "2020/03/23",
     "symptom": "3",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -236,10 +226,9 @@
     "onset": "2020/03/23",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "接待を伴う飲食店",
+    "comment": "接待を伴う飲食店",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -258,10 +247,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -280,10 +268,9 @@
     "onset": "2020/03/28",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -302,10 +289,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -324,10 +310,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -346,10 +331,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "310-401-406",
@@ -368,10 +352,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "310-402-407",
@@ -390,10 +373,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "210-403-407",
@@ -412,10 +394,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "320-329-407",
@@ -434,10 +415,9 @@
     "onset": "2020/03/29",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-403-407",
@@ -456,10 +436,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-402-408",
@@ -478,10 +457,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "121-402-408",
@@ -500,10 +478,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "211-327-408",
@@ -522,10 +499,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "311-403-408",
@@ -544,10 +520,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "621-406-409",
@@ -566,10 +541,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "321-403-408",
@@ -588,10 +562,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-401-409",
@@ -610,10 +583,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "710-328-409",
@@ -632,10 +604,9 @@
     "onset": "2020/03/28",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "720-401-409",
@@ -654,10 +625,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "221-408-410",
@@ -676,10 +646,9 @@
     "onset": "2020/04/08",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "711-409-411-那須塩原市",
@@ -698,10 +667,9 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "610-406-411-県南管内",
@@ -720,10 +688,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-404-411-県南管内",
@@ -742,10 +709,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "321-410-413",
@@ -764,9 +730,29 @@
     "onset": "2020/04/10",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
+  },
+  {
+    "code": "610-409-414",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/r1houdoukansentantou/documents/kisyakaikensiryou.pdf",
+    "prefecture": "栃木県",
+    "residence_prefecture": "栃木市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "栃木県37",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID090037",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/09",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

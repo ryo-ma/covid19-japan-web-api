@@ -16,10 +16,9 @@
     "onset": "2020/03/17",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -38,10 +37,9 @@
     "onset": "2020/03/21",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -60,10 +58,9 @@
     "onset": "2020/03/19",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -82,10 +79,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -104,10 +100,9 @@
     "onset": "2020/03/21",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -126,10 +121,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -148,10 +142,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -170,10 +163,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -192,10 +184,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -214,10 +205,9 @@
     "onset": "2020/03/26",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -236,10 +226,9 @@
     "onset": "2020/03/23",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -258,10 +247,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "230-///-404",
@@ -280,10 +268,9 @@
     "onset": "不詳",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-330-404",
@@ -302,10 +289,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "320-331-406",
@@ -324,10 +310,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "??0-330-406",
@@ -346,10 +331,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-330-406",
@@ -368,10 +352,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "320-401-406",
@@ -390,10 +373,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "/11-401-407",
@@ -412,10 +394,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-402-408",
@@ -434,10 +415,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "820-328-408",
@@ -456,10 +436,9 @@
     "onset": "2020/03/28",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-401-408",
@@ -478,10 +457,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-331-408",
@@ -500,10 +478,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "820-403-409",
@@ -522,10 +499,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "210-401-410",
@@ -544,10 +520,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "511-403-410",
@@ -566,10 +541,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "411-408-410",
@@ -588,10 +562,9 @@
     "onset": "2020/04/08",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "511-408-410",
@@ -610,10 +583,9 @@
     "onset": "2020/04/08",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "521-331-410",
@@ -632,10 +604,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "211-404-411",
@@ -654,10 +625,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "421-404-411",
@@ -676,10 +646,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "411-405-411-福山市",
@@ -698,10 +667,9 @@
     "onset": "2020/04/05",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -720,10 +688,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -742,10 +709,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -764,10 +730,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -786,10 +751,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -808,10 +772,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -830,10 +793,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -852,10 +814,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -874,10 +835,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -896,10 +856,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -918,10 +877,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -940,10 +898,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -962,10 +919,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -984,10 +940,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -1006,10 +961,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -1028,10 +982,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -1050,10 +1003,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -1072,10 +1024,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "721-406-411",
@@ -1094,10 +1045,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "?23-407-411",
@@ -1116,10 +1066,9 @@
     "onset": "2020/04/07",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "423-???-411",
@@ -1138,10 +1087,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "121-402-411",
@@ -1160,10 +1108,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "121-401-411",
@@ -1182,10 +1129,9 @@
     "onset": "2020/04/01",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "??1-000-411",
@@ -1204,10 +1150,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "41-1407412福山市",
@@ -1226,10 +1171,9 @@
     "onset": "2020/04/07",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "11-1409412福山市",
@@ -1248,10 +1192,9 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "21-0405412福山市",
@@ -1270,10 +1213,9 @@
     "onset": "2020/04/05",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "81-3???412三次市",
@@ -1292,10 +1234,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "82-3???412三次市",
@@ -1314,10 +1255,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "82-3???412三次市",
@@ -1336,10 +1276,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "411-403-413福山市",
@@ -1358,10 +1297,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "511-409-412尾道市",
@@ -1380,10 +1318,9 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "511-000-412三次市",
@@ -1402,9 +1339,533 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
+  },
+  {
+    "code": "221-403-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113095.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "20代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "広島県66",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID340066",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/03",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "313-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県67",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340067",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "213-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県68",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340068",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "213-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県69",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340069",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "313-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県70",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340070",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "413-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県71",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340071",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "313-412-413広島市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113083.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "広島県72",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340072",
+    "diagnosis_date": "2020/04/13",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "721-///-413三次市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/386627.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "三次市",
+    "age": "70代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "広島県73",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID340073",
+    "diagnosis_date": "2020/04/13",
+    "onset": "不詳",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "821-///-414三次市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/386627.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "三次市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "広島県74",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID340074",
+    "diagnosis_date": "2020/04/14",
+    "onset": "不詳",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "320-407-414福山市",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.fukuyama.hiroshima.jp/soshiki/hokenyobo/184490.html",
+    "prefecture": "広島県",
+    "residence_prefecture": "福山市",
+    "age": "30代",
+    "gender": "女性",
+    "attribute": "医療事務員",
+    "prefecture_number": "広島県75",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340075",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/07",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県76",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340076",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県77",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340077",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県78",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340078",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県79",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340079",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県80",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340080",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県81",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340081",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県82",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340082",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県83",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340083",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県84",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340084",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県85",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340085",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県86",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340086",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県87",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340087",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県88",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340088",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県89",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340089",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "//0-???-///",
+    "announcement_date": "2020-04-14",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/113084.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "広島県90",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340090",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

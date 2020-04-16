@@ -16,10 +16,9 @@
     "onset": "未",
     "symptom": "未",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -38,10 +37,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -60,10 +58,9 @@
     "onset": "2020/03/28",
     "symptom": "3",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -82,10 +79,9 @@
     "onset": "未",
     "symptom": "未",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -104,10 +100,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -126,10 +121,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "",
@@ -148,10 +142,9 @@
     "onset": "未",
     "symptom": "未",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "221-327-404",
@@ -170,10 +163,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "510-324-402",
@@ -192,10 +184,9 @@
     "onset": "2020/03/24",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "421-403-405",
@@ -214,10 +205,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "211-327-406",
@@ -236,10 +226,9 @@
     "onset": "2020/03/27",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "111-000-407",
@@ -258,10 +247,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "310-406-408",
@@ -280,10 +268,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "321-330-408",
@@ -302,10 +289,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "220-402-409",
@@ -324,10 +310,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "721-406-409",
@@ -346,10 +331,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "420-331-409",
@@ -368,10 +352,9 @@
     "onset": "2020/03/31",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "520-402-409",
@@ -390,10 +373,9 @@
     "onset": "2020/04/02",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "410-403-409",
@@ -412,10 +394,9 @@
     "onset": "2020/04/03",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "610-405-409",
@@ -434,10 +415,9 @@
     "onset": "2020/04/05",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "520-405-410",
@@ -456,10 +436,9 @@
     "onset": "2020/04/05",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "120-328-410",
@@ -478,10 +457,9 @@
     "onset": "2020/03/28",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "610-???-411",
@@ -500,10 +478,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "011-???-411",
@@ -522,10 +499,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "420-???-411",
@@ -544,10 +520,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "310-???-411",
@@ -566,10 +541,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "420-???-411",
@@ -588,10 +562,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "720-???-411",
@@ -610,10 +583,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "320-???-411",
@@ -632,10 +604,9 @@
     "onset": "不明",
     "symptom": "不明",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "32-3411412",
@@ -643,21 +614,20 @@
     "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
     "prefecture": "富山県",
     "residence_prefecture": "富山市",
-    "age": "30代",
-    "gender": "女性",
+    "age": "20代",
+    "gender": "男性",
     "attribute": "医療従事者",
     "prefecture_number": "富山県31",
     "travel_or_contact": "クラスター",
     "detail": "医療機関（富山市民病院）",
     "id": "ID160031",
     "diagnosis_date": "2020/04/12",
-    "onset": "2020/04/11",
+    "onset": "2020/04/07",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "22-3409412",
@@ -676,10 +646,9 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "21-3408412",
@@ -687,21 +656,20 @@
     "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
     "prefecture": "富山県",
     "residence_prefecture": "富山市",
-    "age": "20代",
-    "gender": "男性",
+    "age": "30代",
+    "gender": "女性",
     "attribute": "医療従事者",
     "prefecture_number": "富山県33",
     "travel_or_contact": "クラスター",
     "detail": "医療機関（富山市民病院）",
     "id": "ID160033",
     "diagnosis_date": "2020/04/12",
-    "onset": "2020/04/08",
+    "onset": "2020/04/10",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "92-3326412",
@@ -720,10 +688,9 @@
     "onset": "2020/03/26",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "82-3406412",
@@ -742,10 +709,9 @@
     "onset": "2020/04/06",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "82-3329412",
@@ -764,10 +730,9 @@
     "onset": "2020/03/29",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "72-3409412",
@@ -786,10 +751,9 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "72-3330412",
@@ -808,10 +772,9 @@
     "onset": "2020/03/30",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "62-3000412",
@@ -830,10 +793,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "41-3000412",
@@ -852,10 +814,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "52-0408412",
@@ -874,54 +835,9 @@
     "onset": "2020/04/08",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
-  },
-  {
-    "code": "41-3000412",
-    "announcement_date": "2020-04-12",
-    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
-    "prefecture": "富山県",
-    "residence_prefecture": "県外（石川県）",
-    "age": "40代",
-    "gender": "男性",
-    "attribute": "医療従事者",
-    "prefecture_number": "富山県42",
-    "travel_or_contact": "クラスター",
-    "detail": "医療機関（富山市民病院）",
-    "id": "ID160042",
-    "diagnosis_date": "2020/04/12",
-    "onset": "",
-    "symptom": "0",
-    "death_or_discharge_date": "",
-    "comment1": "",
-    "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
-  },
-  {
-    "code": "31-3000412",
-    "announcement_date": "2020-04-12",
-    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
-    "prefecture": "富山県",
-    "residence_prefecture": "県外（石川県）",
-    "age": "30代",
-    "gender": "男性",
-    "attribute": "医療従事者",
-    "prefecture_number": "富山県43",
-    "travel_or_contact": "クラスター",
-    "detail": "医療機関（富山市民病院）",
-    "id": "ID160043",
-    "diagnosis_date": "2020/04/12",
-    "onset": "",
-    "symptom": "0",
-    "death_or_discharge_date": "",
-    "comment1": "",
-    "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "72-3408412",
@@ -932,18 +848,59 @@
     "age": "70代",
     "gender": "女性",
     "attribute": "",
+    "prefecture_number": "富山県42",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160042",
+    "diagnosis_date": "2020/04/12",
+    "onset": "2020/04/08",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "41-3000412",
+    "announcement_date": "2020-04-12",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "県外（石川県）",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "医療従事者",
+    "prefecture_number": "富山県43",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160043",
+    "diagnosis_date": "2020/04/12",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "31-3000412",
+    "announcement_date": "2020-04-12",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01383193.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "県外（石川県）",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "医療従事者",
     "prefecture_number": "富山県44",
     "travel_or_contact": "クラスター",
     "detail": "医療機関（富山市民病院）",
     "id": "ID160044",
     "diagnosis_date": "2020/04/12",
-    "onset": "2020/04/08",
-    "symptom": "1",
+    "onset": "",
+    "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "511-404-413朝日町",
@@ -962,10 +919,9 @@
     "onset": "2020/04/04",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "711-000-413氷見市",
@@ -984,10 +940,9 @@
     "onset": "",
     "symptom": "0",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "721-413-413氷見市",
@@ -1006,10 +961,9 @@
     "onset": "2020/04/13",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "313-410-413射水市",
@@ -1028,10 +982,9 @@
     "onset": "2020/04/10",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
   },
   {
     "code": "320-409-413高岡市",
@@ -1050,9 +1003,134 @@
     "onset": "2020/04/09",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment1": "",
+    "comment": "",
     "outcome": "",
-    "outcome_src": "",
-    "comment2": ""
+    "outcome_src": ""
+  },
+  {
+    "code": "413-000-414高岡市",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385228.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "高岡市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "医療従事者",
+    "prefecture_number": "富山県50",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160050",
+    "diagnosis_date": "2020/04/14",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "710-327-414富山市",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385229.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県51",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160051",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/03/27",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "610-405-414富山市",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385229.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県52",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID160052",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/05",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "523-413-414立山町",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385230.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "立山町",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県53",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160053",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/13",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "523-412-414富山市",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385230.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "富山県54",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160054",
+    "diagnosis_date": "2020/04/14",
+    "onset": "2020/04/12",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
+  },
+  {
+    "code": "713-???-414富山市",
+    "announcement_date": "2020-04-14",
+    "src": "http://www.pref.toyama.jp/cms_pfile/00021798/01385230.pdf",
+    "prefecture": "富山県",
+    "residence_prefecture": "富山市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "富山県55",
+    "travel_or_contact": "クラスター",
+    "detail": "医療機関（富山市民病院）",
+    "id": "ID160055",
+    "diagnosis_date": "2020/04/14",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
