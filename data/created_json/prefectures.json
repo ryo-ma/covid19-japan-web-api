@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 310,
+    "cases": 331,
     "deaths": 14
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 106,
+    "cases": 107,
     "deaths": 4
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 513,
+    "cases": 518,
     "deaths": 10
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 539,
+    "cases": 547,
     "deaths": 7
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 2446,
+    "cases": 2595,
     "deaths": 53
   },
   {
@@ -122,8 +122,8 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 619,
-    "deaths": 14
+    "cases": 635,
+    "deaths": 15
   },
   {
     "id": 15,
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 64,
+    "cases": 65,
     "deaths": 0
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
-    "cases": 21,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 441,
+    "cases": 453,
     "deaths": 16
   },
   {
@@ -284,7 +284,7 @@
     "name_en": "Shimane",
     "lat": 35.07305556,
     "lng": 132.55944440000002,
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 40,
+    "cases": 41,
     "deaths": 2
   },
   {
@@ -393,7 +393,7 @@
     "lat": 33.19916667,
     "lng": 131.43416670000002,
     "cases": 50,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "id": 45,
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 86,
+    "cases": 94,
     "deaths": 1
   }
 ]
