@@ -1048,5 +1048,20 @@
     "waiting": 160,
     "discharge": 884,
     "death": 119
+  },
+  {
+    "date": 20200416,
+    "pcr": 81825,
+    "positive": 8442,
+    "symptom": 5309,
+    "symptomless": 513,
+    "symptomConfirming": 2620,
+    "hospitalize": 7388,
+    "mild": 3848,
+    "severe": 193,
+    "confirming": 550,
+    "waiting": 177,
+    "discharge": 918,
+    "death": 136
   }
 ]
