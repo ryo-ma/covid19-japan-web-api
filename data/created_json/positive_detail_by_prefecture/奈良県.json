@@ -1090,5 +1090,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "620-407-415生駒市",
+    "announcement_date": "2020-04-16",
+    "src": "http://www.pref.nara.jp/secure/226878/0416houdou.pdf",
+    "prefecture": "奈良県",
+    "residence_prefecture": "生駒市",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "奈良県54",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID290054",
+    "diagnosis_date": "2020/04/15",
+    "onset": "2020/04/07",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

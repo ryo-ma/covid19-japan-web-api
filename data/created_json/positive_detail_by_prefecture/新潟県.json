@@ -943,5 +943,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-???-///新潟市東区",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/coronavirus.files/press4.16.pdf",
+    "prefecture": "新潟県",
+    "residence_prefecture": "新潟市東区",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "新潟県47",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID150047",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

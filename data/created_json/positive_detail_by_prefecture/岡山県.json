@@ -313,5 +313,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "510-411-416岡山市",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.pref.okayama.jp/uploaded/attachment/270240.pdf",
+    "prefecture": "岡山県",
+    "residence_prefecture": "岡山市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "岡山県17",
+    "travel_or_contact": "",
+    "detail": "東京都,兵庫県,北海道に滞在",
+    "id": "ID330017",
+    "diagnosis_date": "2020/04/16",
+    "onset": "2020/04/11",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

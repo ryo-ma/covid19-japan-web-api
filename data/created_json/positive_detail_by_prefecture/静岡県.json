@@ -985,5 +985,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-411-416静岡県清水区",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.city.shizuoka.lg.jp/601_000261.html",
+    "prefecture": "静岡県",
+    "residence_prefecture": "静岡市清水区",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "静岡県49",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID220049",
+    "diagnosis_date": "2020/04/16",
+    "onset": "2020/04/11",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -817,5 +817,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "311-///-415松山市",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.pref.ehime.jp/h25500/kansen/documents/020416press.pdf",
+    "prefecture": "愛媛県",
+    "residence_prefecture": "松山市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "愛媛県41",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID380041",
+    "diagnosis_date": "2020/04/15",
+    "onset": "不詳",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

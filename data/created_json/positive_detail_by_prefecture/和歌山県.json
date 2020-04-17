@@ -859,5 +859,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "021-000-416和歌山市",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.pref.wakayama.lg.jp/prefg/041200/d00203387.html",
+    "prefecture": "和歌山県",
+    "residence_prefecture": "和歌山市",
+    "age": "00代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "和歌山県43",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID300043",
+    "diagnosis_date": "2020/04/16",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

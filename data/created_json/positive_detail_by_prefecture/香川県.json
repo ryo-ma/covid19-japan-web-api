@@ -418,5 +418,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "023-000-416高松市",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.pref.kagawa.lg.jp/content/etc/web/upfiles/w1eg8e200416231015_f01.pdf",
+    "prefecture": "香川県",
+    "residence_prefecture": "高松市",
+    "age": "00代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "香川県22",
+    "travel_or_contact": "クラスター",
+    "detail": "",
+    "id": "ID370022",
+    "diagnosis_date": "2020/04/16",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

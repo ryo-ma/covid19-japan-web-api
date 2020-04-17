@@ -565,5 +565,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "211-000-416",
+    "announcement_date": "2020-04-16",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "県外（東京都）",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山口県29",
+    "travel_or_contact": "接触歴",
+    "detail": "東京都から帰省",
+    "id": "ID350029",
+    "diagnosis_date": "2020/04/16",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
