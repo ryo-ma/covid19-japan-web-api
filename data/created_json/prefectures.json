@@ -5,8 +5,8 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 332,
-    "deaths": 14
+    "cases": 365,
+    "deaths": 16
   },
   {
     "id": 2,
@@ -59,7 +59,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
-    "cases": 49,
+    "cases": 51,
     "deaths": 0
   },
   {
@@ -105,7 +105,7 @@
     "lat": 35.51277778,
     "lng": 140.2038889,
     "cases": 598,
-    "deaths": 7
+    "deaths": 8
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 2595,
+    "cases": 2796,
     "deaths": 56
   },
   {
@@ -122,8 +122,8 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 678,
-    "deaths": 15
+    "cases": 687,
+    "deaths": 16
   },
   {
     "id": 15,
@@ -194,7 +194,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
-    "cases": 49,
+    "cases": 50,
     "deaths": 0
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 465,
+    "cases": 480,
     "deaths": 17
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 33,
+    "cases": 34,
     "deaths": 1
   },
   {
