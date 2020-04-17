@@ -1063,5 +1063,20 @@
     "waiting": 177,
     "discharge": 918,
     "death": 136
+  },
+  {
+    "date": 20200417,
+    "pcr": 86800,
+    "positive": 9027,
+    "symptom": 5693,
+    "symptomless": 539,
+    "symptomConfirming": 2795,
+    "hospitalize": 7884,
+    "mild": 4103,
+    "severe": 207,
+    "confirming": 560,
+    "waiting": 219,
+    "discharge": 995,
+    "death": 148
   }
 ]
