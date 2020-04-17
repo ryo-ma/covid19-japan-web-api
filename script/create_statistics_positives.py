@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/Data/positiveDetail.csv'
+POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/50_Data/positiveDetail.csv'
 PREFECTURE_DATA_PATH = 'data/created_json/prefectures.json'
 OUTPUT_JSON_PATH = 'data/created_json/statistics_positive_detail.json'
 

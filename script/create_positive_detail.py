@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import textwrap
 
-POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/Data/positiveDetail.csv'
+POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/50_Data/positiveDetail.csv'
 OUTPUT_JSON_PATH = 'data/created_json/positive_detail.json'
 OUTPUT_JSON_PATH_FORMAT = 'data/created_json/positive_detail_by_prefecture/{0}.json'
 PREFECTURES = textwrap.dedent('''\

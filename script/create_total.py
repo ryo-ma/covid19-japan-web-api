@@ -5,7 +5,7 @@ import json
 import datetime
 
 
-DOMESTIC_DAILY_REPORT = 'data/2019-ncov-japan/Data/domesticDailyReport.csv'
+DOMESTIC_DAILY_REPORT = 'data/2019-ncov-japan/50_Data/domesticDailyReport.csv'
 TODAY_OUTPUT_JSON_PATH = 'data/created_json/today_total.json'
 HISTORY_OUTPUT_JSON_PATH = 'data/created_json/history_total.json'
 PREDICTION_OUTPUT_JSON_PATH = 'data/created_json/prediction_total.json'
