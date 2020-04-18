@@ -1078,5 +1078,20 @@
     "waiting": 219,
     "discharge": 995,
     "death": 148
+  },
+  {
+    "date": 20200418,
+    "pcr": 91050,
+    "positive": 9654,
+    "symptom": 6011,
+    "symptomless": 564,
+    "symptomConfirming": 3079,
+    "hospitalize": 8448,
+    "mild": 4323,
+    "severe": 211,
+    "confirming": 597,
+    "waiting": 238,
+    "discharge": 1052,
+    "death": 154
   }
 ]
