@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 82,
+    "cases": 83,
     "deaths": 0
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
-    "cases": 594,
+    "cases": 623,
     "deaths": 13
   },
   {
@@ -104,8 +104,8 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 638,
-    "deaths": 8
+    "cases": 663,
+    "deaths": 10
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "lat": 35.702313700000005,
     "lng": 139.5803228,
     "cases": 2975,
-    "deaths": 63
+    "deaths": 68
   },
   {
     "id": 14,
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 744,
+    "cases": 752,
     "deaths": 17
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 81,
+    "cases": 91,
     "deaths": 1
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
-    "cases": 136,
+    "cases": 137,
     "deaths": 2
   },
   {
@@ -203,8 +203,8 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
-    "cases": 380,
-    "deaths": 24
+    "cases": 397,
+    "deaths": 25
   },
   {
     "id": 24,
@@ -239,7 +239,7 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
-    "cases": 1075,
+    "cases": 1163,
     "deaths": 9
   },
   {
@@ -275,7 +275,7 @@
     "name_en": "Tottori",
     "lat": 35.36055556,
     "lng": 133.8516667,
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 124,
+    "cases": 130,
     "deaths": 0
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 489,
+    "cases": 502,
     "deaths": 10
   },
   {
@@ -410,7 +410,7 @@
     "name_en": "Kagoshima",
     "lat": 31.01277778,
     "lng": 130.4241667,
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
