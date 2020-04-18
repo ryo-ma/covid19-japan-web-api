@@ -50,7 +50,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
-    "cases": 58,
+    "cases": 60,
     "deaths": 0
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 709,
+    "cases": 708,
     "deaths": 16
   },
   {
@@ -158,8 +158,8 @@
     "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
-    "cases": 104,
-    "deaths": 4
+    "cases": 106,
+    "deaths": 5
   },
   {
     "id": 19,
@@ -356,7 +356,7 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
-    "cases": 478,
+    "cases": 479,
     "deaths": 9
   },
   {
