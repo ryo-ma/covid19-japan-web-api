@@ -1,10 +1,6 @@
 import pandas as pd
 import json
-
-PREFECTURES_DATA_PATH = 'data/2019-ncov-japan/50_Data/prefectures.csv'
-CASES_DATA_PATH = 'data/2019-ncov-japan/50_Data/byDate.csv'
-DEATHS_DATA_PATH = 'data/2019-ncov-japan/50_Data/death.csv'
-OUTPUT_JSON_PATH = 'data/created_json/prefectures.json'
+from ..const import (PREFECTURES_JSON_PATH, PREFECTURES_DATA_PATH, CASES_DATA_PATH, DEATHS_DATA_PATH)
 
 
 def create_json_file():
@@ -26,9 +22,5 @@ def create_json_file():
                                 'cases': int(cases_df_sum[prefecture]),
                                 'deaths': int(deaths_df_sum[prefecture])})
 
-    with open(OUTPUT_JSON_PATH, 'w', encoding='utf-8') as f:
+    with open(PREFECTURES_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(prefectures, f, indent=2, ensure_ascii=False)
-
-
-if __name__ == '__main__':
-    create_json_file()

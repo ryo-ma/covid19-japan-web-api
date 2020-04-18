@@ -1,9 +1,7 @@
 import pandas as pd
 import json
+from ..const import (POSITIVE_DETAIL_DATA_PATH, PREFECTURES_JSON_PATH, STATISTICS_JSON_PATH)
 
-POSITIVE_DETAIL_DATA_PATH = 'data/2019-ncov-japan/50_Data/positiveDetail.csv'
-PREFECTURE_DATA_PATH = 'data/created_json/prefectures.json'
-OUTPUT_JSON_PATH = 'data/created_json/statistics_positive_detail.json'
 
 GENERATIONS = ('00代', '10代', '20代', '30代', '40代', '50代', '60代', '70代', '80代', '90代', '100代', '不明')
 
@@ -11,7 +9,7 @@ GENERATIONS = ('00代', '10代', '20代', '30代', '40代', '50代', '60代', '7
 def create_json_file():
     positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, encoding='utf-8')
     analytics = []
-    with open(PREFECTURE_DATA_PATH, 'r', encoding='utf-8') as f:
+    with open(PREFECTURES_JSON_PATH, 'r', encoding='utf-8') as f:
         prefectures = json.load(f)
     for prefecture in prefectures:
         name = prefecture['name_ja']
@@ -44,7 +42,7 @@ def create_json_file():
         }
         analytics.append(prefecture)
 
-    with open(OUTPUT_JSON_PATH, 'w', encoding='utf-8') as f:
+    with open(STATISTICS_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(analytics,
                   f,
                   indent=2,
@@ -57,7 +55,3 @@ def get_generations_count(df):
         label = generation_str.replace('代', 's').replace('不明', 'unknown')
         generations_count[label] = len(df.query(f'年齢=="{generation_str}"'))
     return generations_count
-
-
-if __name__ == '__main__':
-    create_json_file()

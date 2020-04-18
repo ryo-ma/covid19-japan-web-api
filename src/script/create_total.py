@@ -3,19 +3,16 @@ import numpy as np
 from scipy.optimize import curve_fit
 import json
 import datetime
+from ..const import (DOMESTIC_DAILY_REPORT_DATA_PATH, TODAY_TOTAL_JSON_PATH,
+                     HISTORY_TOTAL_JSON_PATH, PREDICTION_TOTAL_JSON_PATH)
 
-
-DOMESTIC_DAILY_REPORT = 'data/2019-ncov-japan/50_Data/domesticDailyReport.csv'
-TODAY_OUTPUT_JSON_PATH = 'data/created_json/today_total.json'
-HISTORY_OUTPUT_JSON_PATH = 'data/created_json/history_total.json'
-PREDICTION_OUTPUT_JSON_PATH = 'data/created_json/prediction_total.json'
 # Incubation period + Onset period
 DAY_RANGE = 28
 PREDICTION_DAYS = 30
 
 
 def create_json_file():
-    total_df = pd.read_csv(DOMESTIC_DAILY_REPORT, na_values='0', encoding='utf-8')
+    total_df = pd.read_csv(DOMESTIC_DAILY_REPORT_DATA_PATH, na_values='0', encoding='utf-8')
     today_total = total_df.iloc[-1].fillna(0).astype(int).to_dict()
     history_total_df = total_df.fillna(0).astype(int)
 
@@ -34,9 +31,9 @@ def create_json_file():
             'death': death_prediction,
         })
 
-    output_total(TODAY_OUTPUT_JSON_PATH, today_total)
-    output_total(HISTORY_OUTPUT_JSON_PATH, history_total_df.to_dict(orient='records'))
-    output_total(PREDICTION_OUTPUT_JSON_PATH, predicted_totals)
+    output_total(TODAY_TOTAL_JSON_PATH, today_total)
+    output_total(HISTORY_TOTAL_JSON_PATH, history_total_df.to_dict(orient='records'))
+    output_total(PREDICTION_TOTAL_JSON_PATH, predicted_totals)
 
 
 def output_total(json_path, data_dict):
@@ -52,7 +49,3 @@ def predict(array_data):
 
 def nonlinear_func(x, a, b):
     return b * np.exp(a*x)
-
-
-if __name__ == '__main__':
-    create_json_file()

@@ -1,39 +1,11 @@
-import textwrap
 import json
 from flask import abort, Flask, Blueprint, jsonify, request
 from flask_cors import cross_origin
+from src.data_manager import DataManager
+from src.const import PREFECTURES
 
 
-PREFECTURES_JSON_PATH = './data/created_json/prefectures.json'
-TODAY_TOTAL_JSON_PATH = './data/created_json/today_total.json'
-HISTORY_TOTAL_JSON_PATH = './data/created_json/history_total.json'
-PREDICTION_TOTAL_JSON_PATH = './data/created_json/prediction_total.json'
-POSITIVE_DETAIL_JSON_PATH = './data/created_json/positive_detail.json'
-STATISTICS_JSON_PATH = './data/created_json/statistics_positive_detail.json'
-PREFECTURES = textwrap.dedent('''\
-北海道,青森県,岩手県,宮城県,秋田県,山形県,福島県,茨城県,栃木県,群馬県,埼玉県,千葉県,東京都,神奈川県,新潟県,富山県,\
-石川県,福井県,山梨県,長野県,岐阜県,静岡県,愛知県,三重県,滋賀県,京都府,大阪府,兵庫県,奈良県,和歌山県,鳥取県,島根県,\
-岡山県,広島県,山口県,徳島県,香川県,愛媛県,高知県,福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県\
-''').split(',')
-
-prefectures_json = ''
-history_total_json = ''
-today_total_json = ''
-prediction_total_json = ''
-positive_detail_json = ''
-statistics_json = ''
-with open(PREFECTURES_JSON_PATH) as f:
-    prefectures_json = f.read()
-with open(HISTORY_TOTAL_JSON_PATH) as f:
-    history_total_json = f.read()
-with open(TODAY_TOTAL_JSON_PATH) as f:
-    today_total_json = f.read()
-with open(PREDICTION_TOTAL_JSON_PATH) as f:
-    prediction_total_json = f.read()
-with open(POSITIVE_DETAIL_JSON_PATH) as f:
-    positive_detail_json = f.read()
-with open(STATISTICS_JSON_PATH) as f:
-    statistics_json = f.read()
+data_manager = DataManager()
 
 app = Flask(__name__)
 
@@ -62,10 +34,10 @@ def total():
         description: Success to get total
     """
     if 'history' in request.args and request.args['history'] == 'true':
-        return history_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+        return data_manager.history_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
     elif 'predict' in request.args and request.args['predict'] == 'true':
-        return prediction_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
-    return today_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+        return data_manager.prediction_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    return data_manager.today_total_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/prefectures')
@@ -77,7 +49,7 @@ def prefectures():
       200:
         description: Success to get the information of each prefecture
     """
-    return prefectures_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    return data_manager.prefectures_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 @apiv1.route('/positives')
@@ -88,7 +60,7 @@ def positives():
     parameters:
       - in: query
         name: prefecture
-        description: Specify the Japanese name. ex- 千葉県
+        description: Specify the Japanese name. example - 千葉県
         type: string
         required: true
     responses:
@@ -102,9 +74,8 @@ def positives():
     if 'prefecture' in request.args:
         prefecture = request.args['prefecture']
         if prefecture in PREFECTURES:
-            json_response = [x for x in json.loads(positive_detail_json) if x['prefecture'] == prefecture]
-            dumped_response = json.dumps(json_response, indent=2, ensure_ascii=False)
-            return dumped_response, 200, {'Content-Type': 'application/json; charset=utf-8'}
+            response_json = data_manager.get_positive_detail_json(prefecture)
+            return response_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
         else:
             return abort(404, {'prefecture': f'Does not find {prefecture}'})
     message = 'The prefecture parameter is required.\
@@ -122,7 +93,7 @@ def statistics():
       200:
         description: Success to get the statistics of each prefecture
     """
-    return statistics_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+    return data_manager.statistics_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
 
 app.register_blueprint(apiv1)

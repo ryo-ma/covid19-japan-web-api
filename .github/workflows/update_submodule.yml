@@ -39,10 +39,7 @@ jobs:
       run: python -m unittest
     - name: Generate json file
       run: |
-        python ./script/create_prefectures.py
-        python ./script/create_total.py
-        python ./script/create_positive_detail.py
-        python ./script/create_statistics_positives.py
+        python run_script.py
     - name: Commit data files
       run: |
         git config --local user.email "action@github.com"
