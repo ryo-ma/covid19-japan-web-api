@@ -86,8 +86,8 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 114,
-    "deaths": 4
+    "cases": 120,
+    "deaths": 5
   },
   {
     "id": 11,
@@ -383,7 +383,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
-    "cases": 35,
+    "cases": 37,
     "deaths": 1
   },
   {
