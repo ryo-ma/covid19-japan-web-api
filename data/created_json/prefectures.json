@@ -5,7 +5,7 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 365,
+    "cases": 378,
     "deaths": 16
   },
   {
@@ -32,7 +32,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
-    "cases": 80,
+    "cases": 81,
     "deaths": 0
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
-    "cases": 632,
+    "cases": 638,
     "deaths": 8
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 2794,
+    "cases": 2975,
     "deaths": 63
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 719,
+    "cases": 721,
     "deaths": 16
   },
   {
@@ -140,8 +140,8 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 78,
-    "deaths": 0
+    "cases": 81,
+    "deaths": 1
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
-    "cases": 46,
+    "cases": 47,
     "deaths": 0
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
-    "cases": 32,
+    "cases": 33,
     "deaths": 1
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 496,
+    "cases": 502,
     "deaths": 17
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
-    "cases": 56,
+    "cases": 59,
     "deaths": 1
   },
   {
@@ -338,8 +338,8 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 41,
-    "deaths": 2
+    "cases": 44,
+    "deaths": 3
   },
   {
     "id": 39,
@@ -347,7 +347,7 @@
     "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 63,
+    "cases": 64,
     "deaths": 1
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
-    "cases": 101,
+    "cases": 110,
     "deaths": 1
   }
 ]
