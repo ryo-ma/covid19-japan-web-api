@@ -128,7 +128,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-19",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0219_03.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0219_03.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "70代",
@@ -149,7 +149,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-20",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0220_04.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0220_04.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "80代",
@@ -191,7 +191,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-21",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0221_yokohama.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0221_yokohama.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "30代",
@@ -201,7 +201,7 @@
     "travel_or_contact": "接触歴",
     "detail": "",
     "id": "ID140011",
-    "diagnosis_date": "",
+    "diagnosis_date": "2020/02/21",
     "onset": "2020/02/19",
     "symptom": "1",
     "death_or_discharge_date": "",
@@ -212,7 +212,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-21",
-    "src": "http://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/019/191/0221_05.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0221_05.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "80代",
@@ -401,7 +401,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0227_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0227_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "40代",
@@ -422,7 +422,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0227_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0227_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "20代",
@@ -464,7 +464,7 @@
   {
     "code": "",
     "announcement_date": "2020-02-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0228_yokohama.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60856/0228_yokohama.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "50代",
@@ -485,7 +485,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0301_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0301_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "50代",
@@ -506,7 +506,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0301_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0301_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "50代",
@@ -548,7 +548,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-02",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0302_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0302_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "60代",
@@ -569,7 +569,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-02",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0302_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0302_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "不明",
@@ -590,7 +590,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-02",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0302_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0302_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "不明",
@@ -611,7 +611,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-02",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0302_sagami.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0302_sagami.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "不明",
@@ -632,7 +632,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-03",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/0303_yokohama.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/0303_yokohama.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "20代",
@@ -653,7 +653,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-05",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200305_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200305_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "60代",
@@ -674,7 +674,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-05",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200305_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200305_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "50代",
@@ -695,7 +695,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-05",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200305_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200305_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "50代",
@@ -716,7 +716,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-05",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200306_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200306_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "60代",
@@ -947,7 +947,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-11",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200311_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200311_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "70代",
@@ -968,7 +968,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-12",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200312_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200312_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "30代",
@@ -989,7 +989,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-12",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200312_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200312_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "70代",
@@ -1010,7 +1010,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-12",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200312_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200312_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市多摩区",
     "age": "70代",
@@ -1073,7 +1073,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-15",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200315_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200315_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "70代",
@@ -1094,7 +1094,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-15",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200315_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200315_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "40代",
@@ -1115,7 +1115,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-15",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200315_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200315_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "80代",
@@ -1136,7 +1136,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-15",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200315_yokosuka_corona.doc",
+    "src": "https://www.pref.kanagawa.jp/documents/60857/20200315_yokosuka_corona.doc",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "70代",
@@ -1178,7 +1178,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-17",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200317_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200317_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "80代",
@@ -1199,7 +1199,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-17",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200317_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200317_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "70代",
@@ -1220,7 +1220,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-17",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200317_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200317_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "70代",
@@ -1241,7 +1241,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-17",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200317_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200317_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "70代",
@@ -1262,7 +1262,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-18",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200318_yokosuka_corona.docx",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200318_yokosuka_corona.docx",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "80代",
@@ -1367,7 +1367,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-19",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200319_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200319_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "20代",
@@ -1388,7 +1388,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-19",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200319_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200319_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市麻生区",
     "age": "20代",
@@ -1409,7 +1409,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-20",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200320_yokosuka_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200320_yokosuka_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "90代",
@@ -1430,7 +1430,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-20",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200320_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200320_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "国外（スペイン）",
     "age": "30代",
@@ -1514,7 +1514,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-21",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200321_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60859/20200321_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "90代",
@@ -1535,7 +1535,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-22",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200322_fujisawa_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200322_fujisawa_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "20代",
@@ -1556,7 +1556,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-22",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200322_fujisawa_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200322_fujisawa_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "40代",
@@ -1577,7 +1577,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-22",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200322_fujisawa_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200322_fujisawa_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "30代",
@@ -1598,7 +1598,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-22",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200322_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200322_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "県外（東京都）",
     "age": "60代",
@@ -1619,7 +1619,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-22",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200322_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200322_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "国外",
     "age": "30代",
@@ -1745,7 +1745,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-24",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200324_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200324_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市",
     "age": "40代",
@@ -1766,7 +1766,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-25",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200325_fujisawa_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200325_fujisawa_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "20代",
@@ -1787,7 +1787,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-25",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200325_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200325_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市宮前区",
     "age": "20代",
@@ -1808,7 +1808,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-25",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200325_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200325_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市宮前区",
     "age": "20代",
@@ -1829,7 +1829,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-25",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200325_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200325_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市麻生区",
     "age": "50代",
@@ -1913,7 +1913,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-26",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200326_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200326_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "60代",
@@ -1934,7 +1934,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-26",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200326_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200326_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "30代",
@@ -1955,7 +1955,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-26",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200326_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200326_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市川崎区",
     "age": "40代",
@@ -2039,7 +2039,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "40代",
@@ -2060,7 +2060,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "40代",
@@ -2081,7 +2081,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "30代",
@@ -2102,7 +2102,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "80代",
@@ -2123,7 +2123,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市高津区",
     "age": "30代",
@@ -2144,7 +2144,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市麻生区",
     "age": "50代",
@@ -2165,7 +2165,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市幸区",
     "age": "30代",
@@ -2186,7 +2186,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-27",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200327_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200327_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市川崎区",
     "age": "40代",
@@ -2207,7 +2207,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "40代",
@@ -2228,7 +2228,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "20代",
@@ -2249,7 +2249,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "50代",
@@ -2270,7 +2270,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "60代",
@@ -2291,7 +2291,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市中原区",
     "age": "20代",
@@ -2312,7 +2312,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市中原区",
     "age": "20代",
@@ -2333,7 +2333,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市中原区",
     "age": "50代",
@@ -2354,7 +2354,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市中原区",
     "age": "30代",
@@ -2375,7 +2375,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市高津区",
     "age": "40代",
@@ -2396,7 +2396,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_kawasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_kawasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市外",
     "age": "50代",
@@ -2417,7 +2417,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "20代",
@@ -2438,7 +2438,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-28",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200328_yokosuka_corona.doc",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200328_yokosuka_corona.doc",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "不明",
@@ -2459,7 +2459,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-29",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200329_chigasaki_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200329_chigasaki_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "茅ヶ崎管内",
     "age": "30代",
@@ -2543,7 +2543,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-29",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200329_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200329_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "50代",
@@ -2564,7 +2564,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-29",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200329_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200329_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "40代",
@@ -2585,7 +2585,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-29",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200329_yokohama_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200329_yokohama_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "60代",
@@ -2648,7 +2648,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-30",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200330_sagamihara_corona.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200330_sagamihara_corona.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "20代",
@@ -2669,7 +2669,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-30",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/200330_fujisawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200330_fujisawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "40代",
@@ -2690,7 +2690,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-30",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/200330_fujisawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200330_fujisawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "40代",
@@ -2711,7 +2711,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.mhlw.go.jp/content/10906000/000617669.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市幸区",
     "age": "10代",
@@ -2732,7 +2732,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.mhlw.go.jp/content/10906000/000617669.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市多摩区",
     "age": "40代",
@@ -2753,7 +2753,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.mhlw.go.jp/content/10906000/000617669.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市宮前区",
     "age": "50代",
@@ -2774,7 +2774,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "平塚管内",
     "age": "50代",
@@ -2795,7 +2795,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "平塚管内",
     "age": "60代",
@@ -2816,7 +2816,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "40代",
@@ -2837,7 +2837,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "50代",
@@ -2858,7 +2858,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "70代",
@@ -2879,7 +2879,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200331_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/20200331_kanagawa.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "平塚管内",
     "age": "30代",
@@ -2900,7 +2900,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/200331_chigasaki.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_chigasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "茅ヶ崎管内",
     "age": "30代",
@@ -2921,7 +2921,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.mhlw.go.jp/content/10906000/000617675.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_yokosuka.doc",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "20代",
@@ -2942,7 +2942,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.mhlw.go.jp/content/10906000/000617676.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_sagamihara.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "相模原市",
     "age": "40代",
@@ -2963,7 +2963,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/200331_yokohama.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_yokohama.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "50代",
@@ -2984,7 +2984,7 @@
   {
     "code": "",
     "announcement_date": "2020-03-31",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/200331_yokohama.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/60861/200331_yokohama.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "横浜市",
     "age": "20代",
@@ -3005,7 +3005,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618062.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市川崎区",
     "age": "30代",
@@ -3026,7 +3026,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市高津区",
     "age": "40代",
@@ -3047,7 +3047,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市幸区",
     "age": "30代",
@@ -3068,7 +3068,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市幸区",
     "age": "60代",
@@ -3089,7 +3089,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市中原区",
     "age": "50代",
@@ -3110,7 +3110,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市宮前区",
     "age": "00代",
@@ -3131,7 +3131,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市宮前区",
     "age": "20代",
@@ -3152,7 +3152,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618060.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_kawasaki.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "川崎市幸区",
     "age": "50代",
@@ -3173,7 +3173,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "鎌倉管内",
     "age": "60代",
@@ -3194,7 +3194,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "鎌倉管内",
     "age": "30代",
@@ -3215,7 +3215,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "鎌倉管内",
     "age": "50代",
@@ -3236,7 +3236,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "鎌倉管内",
     "age": "30代",
@@ -3257,7 +3257,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "鎌倉管内",
     "age": "30代",
@@ -3278,7 +3278,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "40代",
@@ -3299,7 +3299,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "10代",
@@ -3320,7 +3320,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "00代",
@@ -3341,7 +3341,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200401_kanagawa_1.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "厚木管内",
     "age": "00代",
@@ -3362,7 +3362,7 @@
   {
     "code": "",
     "announcement_date": "2020-04-01",
-    "src": "https://www.mhlw.go.jp/content/10906000/000618061.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/200401_yokosuka.doc",
     "prefecture": "神奈川県",
     "residence_prefecture": "横須賀市",
     "age": "20代",
@@ -8003,7 +8003,7 @@
   {
     "code": "721-407-409",
     "announcement_date": "2020-04-10",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa383-385.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "70代",
@@ -8024,7 +8024,7 @@
   {
     "code": "210-407-409",
     "announcement_date": "2020-04-10",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa383-385.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "20代",
@@ -8045,7 +8045,7 @@
   {
     "code": "420-402-409",
     "announcement_date": "2020-04-10",
-    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa.pdf",
+    "src": "https://www.pref.kanagawa.jp/documents/58277/20200410fujisawa383-385.pdf",
     "prefecture": "神奈川県",
     "residence_prefecture": "藤沢市",
     "age": "40代",

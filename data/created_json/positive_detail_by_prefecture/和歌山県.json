@@ -901,5 +901,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "521-416-418岩出管内",
+    "announcement_date": "2020-04-18",
+    "src": "https://www.pref.wakayama.lg.jp/prefg/041200/d00203387.html",
+    "prefecture": "和歌山県",
+    "residence_prefecture": "岩出管内",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "和歌山県45",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID300045",
+    "diagnosis_date": "2020/04/18",
+    "onset": "2020/04/16",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -1300,5 +1300,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "610-401-417幡多管内",
+    "announcement_date": "2020-04-18",
+    "src": "https://www.pref.kochi.lg.jp/soshiki/130401/files/2020022900049/file_20204186161449_1.pdf",
+    "prefecture": "高知県",
+    "residence_prefecture": "幡多管内",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "高知県64",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID390064",
+    "diagnosis_date": "2020/04/17",
+    "onset": "2020/04/01",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
