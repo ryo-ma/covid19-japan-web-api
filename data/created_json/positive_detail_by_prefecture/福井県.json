@@ -2140,5 +2140,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "520-409-417福井市",
+    "announcement_date": "2020-04-17",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200417.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "福井市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福井県104",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID180104",
+    "diagnosis_date": "2020/04/17",
+    "onset": "2020/04/09",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -880,5 +880,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "311-413-417県内",
+    "announcement_date": "2020-04-17",
+    "src": "https://www.pref.wakayama.lg.jp/prefg/041200/d00203387_d/fil/20200417_2press.pdf",
+    "prefecture": "和歌山県",
+    "residence_prefecture": "県内",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "和歌山県44",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID300044",
+    "diagnosis_date": "2020/04/17",
+    "onset": "2020/04/13",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

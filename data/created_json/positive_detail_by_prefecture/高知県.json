@@ -1279,5 +1279,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "510-410-416高知市",
+    "announcement_date": "2020-04-17",
+    "src": "https://www.pref.kochi.lg.jp/soshiki/130401/files/2020022900049/file_20204175165834_1.pdf",
+    "prefecture": "高知県",
+    "residence_prefecture": "高知市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "高知県63",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID390063",
+    "diagnosis_date": "2020/04/16",
+    "onset": "2020/04/10",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

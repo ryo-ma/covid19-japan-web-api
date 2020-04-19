@@ -292,5 +292,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "410-???-///",
+    "announcement_date": "2020-04-17",
+    "src": "",
+    "prefecture": "佐賀県",
+    "residence_prefecture": "唐津市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "佐賀県16",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID410016",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

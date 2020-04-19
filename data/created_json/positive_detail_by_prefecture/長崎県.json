@@ -313,5 +313,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-408-417佐世保市",
+    "announcement_date": "2020-04-17",
+    "src": "https://www.pref.nagasaki.jp/shared/uploads/2020/04/1587127987.pdf",
+    "prefecture": "長崎県",
+    "residence_prefecture": "佐世保市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "長崎県17",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID420017",
+    "diagnosis_date": "2020/04/17",
+    "onset": "2020/04/08",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
