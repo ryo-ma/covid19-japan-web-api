@@ -5,8 +5,8 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
-    "cases": 429,
-    "deaths": 18
+    "cases": 446,
+    "deaths": 21
   },
   {
     "id": 2,
@@ -86,8 +86,8 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
-    "cases": 122,
-    "deaths": 6
+    "cases": 124,
+    "deaths": 8
   },
   {
     "id": 11,
@@ -113,7 +113,7 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
-    "cases": 3082,
+    "cases": 3184,
     "deaths": 71
   },
   {
@@ -122,8 +122,8 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
-    "cases": 782,
-    "deaths": 17
+    "cases": 793,
+    "deaths": 18
   },
   {
     "id": 15,
@@ -140,8 +140,8 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 95,
-    "deaths": 1
+    "cases": 96,
+    "deaths": 2
   },
   {
     "id": 17,
@@ -248,8 +248,8 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 518,
-    "deaths": 19
+    "cases": 522,
+    "deaths": 20
   },
   {
     "id": 29,
@@ -338,7 +338,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
-    "cases": 45,
+    "cases": 46,
     "deaths": 3
   },
   {
@@ -347,8 +347,8 @@
     "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
-    "cases": 68,
-    "deaths": 1
+    "cases": 69,
+    "deaths": 2
   },
   {
     "id": 40,
@@ -410,7 +410,7 @@
     "name_en": "Kagoshima",
     "lat": 31.01277778,
     "lng": 130.4241667,
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
