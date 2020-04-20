@@ -712,5 +712,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "821-000-419四日市市",
+    "announcement_date": "2020-04-19",
+    "src": "https://www.pref.mie.lg.jp/YAKUMUS/HP/m0068000071_00062.htm",
+    "prefecture": "三重県",
+    "residence_prefecture": "四日市市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "三重県36",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID240036",
+    "diagnosis_date": "2020/04/19",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

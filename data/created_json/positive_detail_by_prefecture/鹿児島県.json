@@ -124,5 +124,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "221-000-419姶良市",
+    "announcement_date": "2020-04-19",
+    "src": "https://www.pref.kagoshima.jp/ae06/kenko-fukushi/kenko-iryo/kansen/kansensho/documents/76148_20200419191950-1.pdf",
+    "prefecture": "鹿児島県",
+    "residence_prefecture": "姶良市",
+    "age": "20代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "鹿児島県8",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID460008",
+    "diagnosis_date": "2020/04/19",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -502,5 +502,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "421-000-419坂出市",
+    "announcement_date": "2020-04-19",
+    "src": "https://www.pref.kagawa.lg.jp/content/etc/web/upfiles/wi0d5q200419232553_f01.pdf",
+    "prefecture": "香川県",
+    "residence_prefecture": "坂出市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "医療従事者",
+    "prefecture_number": "香川県26",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID370026",
+    "diagnosis_date": "2020/04/19",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

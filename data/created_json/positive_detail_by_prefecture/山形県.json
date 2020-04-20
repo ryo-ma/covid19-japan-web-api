@@ -1237,5 +1237,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "120-410-???米沢市",
+    "announcement_date": "2020-04-19",
+    "src": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/61reime.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "米沢市",
+    "age": "10代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山形県61",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID060061",
+    "diagnosis_date": "不明",
+    "onset": "2020/04/10",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

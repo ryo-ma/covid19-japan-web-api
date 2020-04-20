@@ -355,5 +355,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "//1-000-///岡山市",
+    "announcement_date": "2020-04-19",
+    "src": "https://www.pref.okayama.jp/uploaded/attachment/270311.pdf",
+    "prefecture": "岡山県",
+    "residence_prefecture": "岡山市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "岡山県19",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID330019",
+    "diagnosis_date": "不明",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

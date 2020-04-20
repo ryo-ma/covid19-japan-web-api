@@ -292,5 +292,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "213-417-418松江市",
+    "announcement_date": "2020-04-19",
+    "src": "http://www1.city.matsue.shimane.jp/kenkou/kenkoudukuri/kansensyo_yobou/coronavirus-disease/coronahasseijoukyou.html",
+    "prefecture": "島根県",
+    "residence_prefecture": "松江市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "島根県16",
+    "travel_or_contact": "クラスター",
+    "detail": "",
+    "id": "ID320016",
+    "diagnosis_date": "2020/04/18",
+    "onset": "2020/04/17",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
