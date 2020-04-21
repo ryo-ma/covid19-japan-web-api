@@ -922,5 +922,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "223-000-///松山市",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.pref.ehime.jp/h25500/kansen/documents/020420press.pdf",
+    "prefecture": "愛媛県",
+    "residence_prefecture": "松山市",
+    "age": "20代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "愛媛県46",
+    "travel_or_contact": "クラスター",
+    "detail": "葬儀",
+    "id": "ID380046",
+    "diagnosis_date": "不明",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

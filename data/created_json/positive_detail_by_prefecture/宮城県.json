@@ -1720,5 +1720,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "311-416-420名取市",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.pref.miyagi.jp/uploaded/attachment/788813.pdf",
+    "prefecture": "宮城県",
+    "residence_prefecture": "名取市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "宮城県84",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID040084",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/16",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

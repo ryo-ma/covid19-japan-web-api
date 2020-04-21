@@ -40,5 +40,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-413-420徳島管内",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.pref.tokushima.lg.jp/file/attachment/554720.pdf",
+    "prefecture": "徳島県",
+    "residence_prefecture": "徳島管内",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "徳島県4",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID360004",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/13",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -1111,5 +1111,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "510-410-420中津市",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.pref.oita.jp/uploaded/attachment/2078507.pdf",
+    "prefecture": "大分県",
+    "residence_prefecture": "中津市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "大分県55",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID440055",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/10",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

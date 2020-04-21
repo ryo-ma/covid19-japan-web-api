@@ -817,5 +817,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "610-414-420熊本市東区",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.city.kumamoto.jp/common/UploadFileDsp.aspx?c_id=5&id=26562&sub_id=281&flid=203169",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市東区",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "熊本県41",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID430041",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/14",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

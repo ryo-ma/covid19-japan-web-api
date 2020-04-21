@@ -1468,5 +1468,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "313-417-420草津市",
+    "announcement_date": "2020-04-20",
+    "src": "https://www.pref.shiga.lg.jp/file/attachment/5173754.pdf",
+    "prefecture": "滋賀県",
+    "residence_prefecture": "草津市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "滋賀県72",
+    "travel_or_contact": "クラスター",
+    "detail": "職場（大津市役所）",
+    "id": "ID250072",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/17",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
