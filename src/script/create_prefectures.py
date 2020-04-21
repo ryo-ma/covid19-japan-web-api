@@ -20,15 +20,15 @@ def create_json_file():
     pcr_df = pd.read_csv(PCR_DATA_PATH, index_col=0, encoding='utf-8')
     cases_df_sum = cases_df.sum().astype('int32')
     deaths_df_sum = deaths_df.sum().astype('int32')
-    last_updated = {
-        'cases_date': int(cases_df.index[-1]),
-        'deaths_date': int(deaths_df.index[-1]),
-    }
     for prefecture in cases_df.columns:
         if prefecture in prefectures_df.index:
             prefecture_pcr_df = get_pcr_df_by_prefecture(prefecture, pcr_df)
             pcr = prefecture_pcr_df['検査数'].astype('int32')
-            last_updated['pcr_date'] = int(prefecture_pcr_df['日付'].values[0].replace('/', ''))
+            last_updated = {
+                'cases_date': int(cases_df.index[-1]),
+                'deaths_date': int(deaths_df.index[-1]),
+                'pcr_date': int(prefecture_pcr_df['日付'].values[0].replace('/', ''))
+            }
             prefecture_df = prefectures_df.loc[prefecture]
             prefectures.append({'id': int(prefecture_df['id']),
                                 'name_ja': prefecture,
