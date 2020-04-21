@@ -131,7 +131,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
-    "cases": 56,
+    "cases": 58,
     "deaths": 0
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
-    "cases": 114,
+    "cases": 115,
     "deaths": 2
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
-    "cases": 52,
+    "cases": 54,
     "deaths": 0
   },
   {
@@ -204,7 +204,7 @@
     "lat": 35.03444444,
     "lng": 137.215,
     "cases": 410,
-    "deaths": 27
+    "deaths": 29
   },
   {
     "id": 24,
@@ -248,7 +248,7 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
-    "cases": 524,
+    "cases": 543,
     "deaths": 22
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
-    "cases": 137,
+    "cases": 138,
     "deaths": 1
   },
   {
