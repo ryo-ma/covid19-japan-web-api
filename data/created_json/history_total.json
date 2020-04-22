@@ -1138,5 +1138,20 @@
     "waiting": 307,
     "discharge": 1339,
     "death": 186
+  },
+  {
+    "date": 20200422,
+    "pcr": 107430,
+    "positive": 11350,
+    "symptom": 7050,
+    "symptomless": 660,
+    "symptomConfirming": 3640,
+    "hospitalize": 9740,
+    "mild": 4941,
+    "severe": 241,
+    "confirming": 589,
+    "waiting": 329,
+    "discharge": 1407,
+    "death": 203
   }
 ]
