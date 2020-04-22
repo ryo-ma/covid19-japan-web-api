@@ -943,5 +943,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "520-415-421松山市",
+    "announcement_date": "2020-04-21",
+    "src": "https://www.pref.ehime.jp/h25500/kansen/documents/020421press.pdf",
+    "prefecture": "愛媛県",
+    "residence_prefecture": "松山市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "医療従事者,愛媛県立中央病院",
+    "prefecture_number": "愛媛県47",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID380047",
+    "diagnosis_date": "2020/04/21",
+    "onset": "2020/04/15",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

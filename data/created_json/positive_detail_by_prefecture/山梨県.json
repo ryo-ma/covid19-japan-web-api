@@ -1006,5 +1006,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "711-000-421上野原市",
+    "announcement_date": "2020-04-21",
+    "src": "https://www.pref.yamanashi.jp/koucho/coronavirus/documents/korona042150.pdf",
+    "prefecture": "山梨県",
+    "residence_prefecture": "上野原市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山梨県50",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID190050",
+    "diagnosis_date": "2020/04/21",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

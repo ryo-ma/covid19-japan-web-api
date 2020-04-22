@@ -607,5 +607,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "511-416-420防府市",
+    "announcement_date": "2020-04-21",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/koronahassei.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "防府市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山口県31",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID350031",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/16",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

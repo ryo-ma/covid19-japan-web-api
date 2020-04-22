@@ -61,5 +61,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "710-414-420県外（兵庫県）",
+    "announcement_date": "2020-04-21",
+    "src": "https://www.pref.tokushima.lg.jp/file/attachment/554936.pdf",
+    "prefecture": "徳島県",
+    "residence_prefecture": "県外（兵庫県）",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "徳島県5",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID360005",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/04/14",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

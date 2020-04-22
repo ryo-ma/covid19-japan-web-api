@@ -1069,5 +1069,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "420-414-421熱海市",
+    "announcement_date": "2020-04-21",
+    "src": "https://www.pref.shizuoka.jp/kinkyu/documents/042153.pdf",
+    "prefecture": "静岡県",
+    "residence_prefecture": "熱海市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "静岡県53",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID220053",
+    "diagnosis_date": "2020/04/21",
+    "onset": "2020/04/14",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
