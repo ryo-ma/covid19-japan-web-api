@@ -2455,5 +2455,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "220-419-422越前市",
+    "announcement_date": "2020-04-22",
+    "src": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/0422.pdf",
+    "prefecture": "福井県",
+    "residence_prefecture": "越前市",
+    "age": "20代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福井県119",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID180119",
+    "diagnosis_date": "2020/04/22",
+    "onset": "2020/04/19",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

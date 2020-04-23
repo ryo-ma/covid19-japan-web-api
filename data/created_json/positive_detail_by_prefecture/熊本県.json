@@ -859,5 +859,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "621-000-422熊本市中央区",
+    "announcement_date": "2020-04-22",
+    "src": "https://www.city.kumamoto.jp/corona/hpKiji/pub/detail.aspx?c_id=5&id=27681&class_set_id=22&class_id=3261",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市中央区",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "熊本県43",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID430043",
+    "diagnosis_date": "2020/04/22",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

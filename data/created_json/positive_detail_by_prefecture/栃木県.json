@@ -1048,5 +1048,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "711-415-422那須塩原市",
+    "announcement_date": "2020-04-22",
+    "src": "http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/r1houdoukansentantou/r02042202.html",
+    "prefecture": "栃木県",
+    "residence_prefecture": "那須塩原市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "栃木県52",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID090052",
+    "diagnosis_date": "2020/04/22",
+    "onset": "2020/04/15",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

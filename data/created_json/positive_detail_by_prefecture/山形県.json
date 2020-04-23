@@ -1321,5 +1321,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "411-???-422山形市",
+    "announcement_date": "2020-04-22",
+    "src": "http://www.city.yamagata-yamagata.lg.jp/kakuka/kenkoiryo/kenkozoshin/sogo/kansensyou/pf0607101142/eotkrk.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "山形市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山形県65",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID060065",
+    "diagnosis_date": "2020/04/22",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
