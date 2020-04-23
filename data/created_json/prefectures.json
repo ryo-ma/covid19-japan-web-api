@@ -145,8 +145,8 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 134,
-    "deaths": 9,
+    "cases": 138,
+    "deaths": 11,
     "pcr": 2192
   },
   {
@@ -160,8 +160,8 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 731,
-    "deaths": 19,
+    "cases": 759,
+    "deaths": 23,
     "pcr": 5432
   },
   {
@@ -175,8 +175,8 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 750,
-    "deaths": 16,
+    "cases": 777,
+    "deaths": 18,
     "pcr": 5290
   },
   {
@@ -235,7 +235,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 149,
+    "cases": 150,
     "deaths": 3,
     "pcr": 1594
   },
@@ -295,7 +295,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 59,
+    "cases": 62,
     "deaths": 0,
     "pcr": 1468
   },
@@ -310,7 +310,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 147,
+    "cases": 149,
     "deaths": 6,
     "pcr": 2443
   },
@@ -340,7 +340,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 445,
+    "cases": 457,
     "deaths": 29,
     "pcr": 5848
   },
@@ -400,7 +400,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 1380,
+    "cases": 1415,
     "deaths": 18,
     "pcr": 8109
   },
@@ -415,7 +415,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 578,
+    "cases": 580,
     "deaths": 22,
     "pcr": 5972
   },
@@ -505,7 +505,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020420
     },
-    "cases": 143,
+    "cases": 144,
     "deaths": 1,
     "pcr": 3628
   },
@@ -595,8 +595,8 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 566,
-    "deaths": 13,
+    "cases": 574,
+    "deaths": 15,
     "pcr": 7467
   },
   {
@@ -610,7 +610,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 20,
+    "cases": 21,
     "deaths": 0,
     "pcr": 615
   },
