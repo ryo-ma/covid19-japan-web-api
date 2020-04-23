@@ -220,7 +220,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 61,
+    "cases": 62,
     "deaths": 0,
     "pcr": 2251
   },
@@ -415,7 +415,7 @@
       "deaths_date": 20200423,
       "pcr_date": 2020421
     },
-    "cases": 560,
+    "cases": 578,
     "deaths": 22,
     "pcr": 5972
   },
@@ -626,7 +626,7 @@
       "pcr_date": 2020421
     },
     "cases": 17,
-    "deaths": 0,
+    "deaths": 1,
     "pcr": 1612
   },
   {
