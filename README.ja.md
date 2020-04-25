@@ -5,9 +5,9 @@
 [![LICENSE](https://img.shields.io/github/license/ryo-ma/covid19-japan-web-api?color=blue)](./LICENSE)
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)](https://twitter.com/intent/tweet?text=日本のコロナウイルス(COVID-19)情報を取得できるWebAPI&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)
 
-**language**
+**言語**
 
-[English🇺🇸](./README.md) | Japanese🇯🇵
+[英語🇺🇸](./README.md) | 日本語🇯🇵
 
 
 
