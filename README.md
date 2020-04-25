@@ -3,12 +3,13 @@
 # COVID-19 Japan Web API
 ![UpdateData](https://github.com/ryo-ma/covid19-japan-web-api/workflows/UpdateData/badge.svg)
 [![LICENSE](https://img.shields.io/github/license/ryo-ma/covid19-japan-web-api?color=blue)](./LICENSE)
+[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)](https://twitter.com/intent/tweet?text=Web%20API%20to%20get%20COVID-19(coronavirus)%20information%20of%20each%20prefecture%20in%20Japan&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)
 
 **Language**
 
 English🇺🇸 | [Japanese🇯🇵](./README.ja.md)
 
-[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)](https://twitter.com/intent/tweet?text=Web%20API%20to%20get%20COVID-19(coronavirus)%20information%20of%20each%20prefecture%20in%20Japan&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fcovid19-japan-web-api)
+
 
 🦠 Web API to get COVID-19(coronavirus) information of each prefecture in Japan
 
