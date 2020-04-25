@@ -2749,5 +2749,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "210-417-424うるま市",
+    "announcement_date": "2020-04-24",
+    "src": "https://www.pref.okinawa.jp/site/hoken/chiikihoken/kekkaku/documents/covid19_nippou_0424.pdf",
+    "prefecture": "沖縄県",
+    "residence_prefecture": "うるま市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "沖縄県133",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID470133",
+    "diagnosis_date": "2020/04/24",
+    "onset": "2020/04/17",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

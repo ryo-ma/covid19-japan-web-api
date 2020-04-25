@@ -1342,5 +1342,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-???-///南陽市",
+    "announcement_date": "2020-04-24",
+    "src": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/66reime.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "南陽市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山形県66",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID060066",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

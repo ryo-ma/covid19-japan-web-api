@@ -1573,5 +1573,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "421-420-423奈良市",
+    "announcement_date": "2020-04-24",
+    "src": "http://www.pref.nara.jp/secure/227374/0424houdou.pdf",
+    "prefecture": "奈良県",
+    "residence_prefecture": "奈良市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "奈良県77",
+    "travel_or_contact": "接触歴",
+    "detail": "大阪府1396例と重複",
+    "id": "ID290077",
+    "diagnosis_date": "2020/04/23",
+    "onset": "2020/04/20",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

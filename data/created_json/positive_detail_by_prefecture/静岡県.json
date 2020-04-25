@@ -1195,5 +1195,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "//1-000-423富士宮市",
+    "announcement_date": "2020-04-24",
+    "src": "https://www.pref.shizuoka.jp/kinkyu/documents/20200424.pdf",
+    "prefecture": "静岡県",
+    "residence_prefecture": "富士宮市",
+    "age": "不明",
+    "gender": "不明",
+    "attribute": "",
+    "prefecture_number": "静岡県59",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID220059",
+    "diagnosis_date": "2020/04/23",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

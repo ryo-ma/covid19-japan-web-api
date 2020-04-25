@@ -8,11 +8,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 596,
     "deaths": 25,
-    "pcr": 5112
+    "pcr": 5362
   },
   {
     "id": 2,
@@ -23,11 +23,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 22,
     "deaths": 0,
-    "pcr": 561
+    "pcr": 568
   },
   {
     "id": 3,
@@ -38,11 +38,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 0,
     "deaths": 0,
-    "pcr": 280
+    "pcr": 288
   },
   {
     "id": 4,
@@ -68,11 +68,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 16,
     "deaths": 0,
-    "pcr": 776
+    "pcr": 786
   },
   {
     "id": 6,
@@ -83,11 +83,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 66,
     "deaths": 0,
-    "pcr": 1851
+    "pcr": 1997
   },
   {
     "id": 7,
@@ -128,11 +128,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 52,
     "deaths": 0,
-    "pcr": 1673
+    "pcr": 1724
   },
   {
     "id": 10,
@@ -158,11 +158,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 799,
     "deaths": 24,
-    "pcr": 5889
+    "pcr": 6110
   },
   {
     "id": 12,
@@ -173,11 +173,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 799,
     "deaths": 22,
-    "pcr": 5875
+    "pcr": 6108
   },
   {
     "id": 13,
@@ -203,11 +203,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 938,
     "deaths": 25,
-    "pcr": 6529
+    "pcr": 6776
   },
   {
     "id": 15,
@@ -218,11 +218,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 66,
     "deaths": 0,
-    "pcr": 2354
+    "pcr": 2491
   },
   {
     "id": 16,
@@ -248,11 +248,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 226,
     "deaths": 5,
-    "pcr": 1338
+    "pcr": 1424
   },
   {
     "id": 18,
@@ -263,11 +263,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 120,
     "deaths": 6,
-    "pcr": 1278
+    "pcr": 1313
   },
   {
     "id": 19,
@@ -293,11 +293,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020422
+      "pcr_date": 2020424
     },
     "cases": 66,
     "deaths": 0,
-    "pcr": 1514
+    "pcr": 1608
   },
   {
     "id": 21,
@@ -308,11 +308,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 149,
     "deaths": 6,
-    "pcr": 2602
+    "pcr": 2721
   },
   {
     "id": 22,
@@ -323,11 +323,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 62,
     "deaths": 0,
-    "pcr": 2363
+    "pcr": 2440
   },
   {
     "id": 23,
@@ -338,11 +338,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 472,
     "deaths": 31,
-    "pcr": 6272
+    "pcr": 6488
   },
   {
     "id": 24,
@@ -353,11 +353,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 44,
     "deaths": 1,
-    "pcr": 1653
+    "pcr": 1724
   },
   {
     "id": 25,
@@ -368,11 +368,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 94,
     "deaths": 1,
-    "pcr": 1067
+    "pcr": 1141
   },
   {
     "id": 26,
@@ -398,11 +398,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 1475,
     "deaths": 28,
-    "pcr": 8980
+    "pcr": 9413
   },
   {
     "id": 28,
@@ -413,11 +413,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 618,
     "deaths": 24,
-    "pcr": 6463
+    "pcr": 6641
   },
   {
     "id": 29,
@@ -428,11 +428,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 73,
     "deaths": 1,
-    "pcr": 1140
+    "pcr": 1173
   },
   {
     "id": 30,
@@ -443,11 +443,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020422
+      "pcr_date": 2020424
     },
     "cases": 57,
     "deaths": 1,
-    "pcr": 2454
+    "pcr": 2681
   },
   {
     "id": 31,
@@ -458,11 +458,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 3,
     "deaths": 0,
-    "pcr": 915
+    "pcr": 943
   },
   {
     "id": 32,
@@ -473,11 +473,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 17,
     "deaths": 0,
-    "pcr": 750
+    "pcr": 763
   },
   {
     "id": 33,
@@ -488,11 +488,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020422
+      "pcr_date": 2020424
     },
     "cases": 21,
     "deaths": 0,
-    "pcr": 927
+    "pcr": 989
   },
   {
     "id": 34,
@@ -578,11 +578,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 72,
     "deaths": 3,
-    "pcr": 1294
+    "pcr": 1318
   },
   {
     "id": 40,
@@ -593,11 +593,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 600,
     "deaths": 15,
-    "pcr": 7963
+    "pcr": 8189
   },
   {
     "id": 41,
@@ -608,11 +608,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 37,
     "deaths": 0,
-    "pcr": 668
+    "pcr": 736
   },
   {
     "id": 42,
@@ -623,11 +623,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 17,
     "deaths": 1,
-    "pcr": 1728
+    "pcr": 1786
   },
   {
     "id": 43,
@@ -638,11 +638,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 45,
     "deaths": 1,
-    "pcr": 2623
+    "pcr": 2732
   },
   {
     "id": 44,
@@ -653,11 +653,11 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 60,
     "deaths": 1,
-    "pcr": 2910
+    "pcr": 2960
   },
   {
     "id": 45,
@@ -698,10 +698,10 @@
     "last_updated": {
       "cases_date": 20200425,
       "deaths_date": 20200425,
-      "pcr_date": 2020423
+      "pcr_date": 2020424
     },
     "cases": 134,
     "deaths": 4,
-    "pcr": 1715
+    "pcr": 1792
   }
 ]
