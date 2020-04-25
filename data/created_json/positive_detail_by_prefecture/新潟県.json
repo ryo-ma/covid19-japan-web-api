@@ -1258,5 +1258,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "710-???-///新潟市北区",
+    "announcement_date": "2020-04-23",
+    "src": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/coronavirus.files/press.4.23.pdf",
+    "prefecture": "新潟県",
+    "residence_prefecture": "新潟市北区",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "新潟県62",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID150062",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

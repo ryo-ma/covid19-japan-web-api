@@ -880,5 +880,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "520-419-423熊本市北区",
+    "announcement_date": "2020-04-23",
+    "src": "https://www.city.kumamoto.jp/corona/hpKiji/pub/detail.aspx?c_id=5&id=27681&class_set_id=22&class_id=3261",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市北区",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "熊本県44",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID430044",
+    "diagnosis_date": "2020/04/23",
+    "onset": "2020/04/19",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

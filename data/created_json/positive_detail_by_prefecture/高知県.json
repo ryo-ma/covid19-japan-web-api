@@ -1447,5 +1447,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "510-413-422高知市",
+    "announcement_date": "2020-04-23",
+    "src": "https://www.pref.kochi.lg.jp/soshiki/130401/files/2020022900049/file_20204234162453_1.pdf",
+    "prefecture": "高知県",
+    "residence_prefecture": "高知市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "高知県71",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID390071",
+    "diagnosis_date": "2020/04/22",
+    "onset": "2020/04/13",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

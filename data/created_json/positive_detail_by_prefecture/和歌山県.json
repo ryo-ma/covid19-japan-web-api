@@ -1006,5 +1006,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "620-419-423橋本管内",
+    "announcement_date": "2020-04-23",
+    "src": "https://www.pref.wakayama.lg.jp/prefg/041200/d00203387.html",
+    "prefecture": "和歌山県",
+    "residence_prefecture": "橋本管内",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "和歌山県50",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID300050",
+    "diagnosis_date": "2020/04/23",
+    "onset": "2020/04/19",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
