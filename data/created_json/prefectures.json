@@ -10,7 +10,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 599,
+    "cases": 610,
     "deaths": 25,
     "pcr": 5362
   },
@@ -100,7 +100,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020423
     },
-    "cases": 68,
+    "cases": 69,
     "deaths": 0,
     "pcr": 1420
   },
@@ -115,7 +115,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020422
     },
-    "cases": 160,
+    "cases": 161,
     "deaths": 6,
     "pcr": 3060
   },
@@ -130,7 +130,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 52,
+    "cases": 54,
     "deaths": 0,
     "pcr": 1724
   },
@@ -145,8 +145,8 @@
       "deaths_date": 20200426,
       "pcr_date": 2020423
     },
-    "cases": 140,
-    "deaths": 12,
+    "cases": 141,
+    "deaths": 14,
     "pcr": 2391
   },
   {
@@ -160,8 +160,8 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 800,
-    "deaths": 24,
+    "cases": 803,
+    "deaths": 25,
     "pcr": 6110
   },
   {
@@ -175,7 +175,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 804,
+    "cases": 807,
     "deaths": 26,
     "pcr": 6108
   },
@@ -205,8 +205,8 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 943,
-    "deaths": 25,
+    "cases": 954,
+    "deaths": 26,
     "pcr": 6776
   },
   {
@@ -250,7 +250,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 226,
+    "cases": 229,
     "deaths": 5,
     "pcr": 1424
   },
@@ -385,7 +385,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020423
     },
-    "cases": 290,
+    "cases": 294,
     "deaths": 8,
     "pcr": 3615
   },
@@ -400,8 +400,8 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 1475,
-    "deaths": 28,
+    "cases": 1491,
+    "deaths": 30,
     "pcr": 9413
   },
   {
@@ -415,7 +415,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 628,
+    "cases": 629,
     "deaths": 24,
     "pcr": 6641
   },
@@ -595,8 +595,8 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 602,
-    "deaths": 15,
+    "cases": 611,
+    "deaths": 16,
     "pcr": 8189
   },
   {
@@ -640,7 +640,7 @@
       "deaths_date": 20200426,
       "pcr_date": 2020424
     },
-    "cases": 45,
+    "cases": 46,
     "deaths": 1,
     "pcr": 2732
   },
