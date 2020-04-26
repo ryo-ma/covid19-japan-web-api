@@ -1468,5 +1468,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "511-422-425中央西管内",
+    "announcement_date": "2020-04-25",
+    "src": "https://www.pref.kochi.lg.jp/soshiki/130401/files/2020022900049/file_2020425616744_1.pdf",
+    "prefecture": "高知県",
+    "residence_prefecture": "中央西管内",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "医療事務員",
+    "prefecture_number": "高知県72",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID390072",
+    "diagnosis_date": "2020/04/25",
+    "onset": "2020/04/22",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

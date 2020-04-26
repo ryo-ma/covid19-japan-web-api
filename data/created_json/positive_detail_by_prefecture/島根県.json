@@ -313,5 +313,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "313-424-425出雲市",
+    "announcement_date": "2020-04-25",
+    "src": "http://www.city.izumo.shimane.jp/www/contents/1581677448660/simple/a59169ee99c1e2ba1a41f1a68793900e.pdf",
+    "prefecture": "島根県",
+    "residence_prefecture": "出雲市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "島根県17",
+    "travel_or_contact": "クラスター",
+    "detail": "",
+    "id": "ID320017",
+    "diagnosis_date": "2020/04/25",
+    "onset": "2020/04/24",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

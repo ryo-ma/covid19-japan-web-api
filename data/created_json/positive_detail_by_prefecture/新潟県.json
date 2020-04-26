@@ -1342,5 +1342,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "511-414-425柏崎市",
+    "announcement_date": "2020-04-25",
+    "src": "https://www.pref.niigata.lg.jp/uploaded/attachment/216194.pdf",
+    "prefecture": "新潟県",
+    "residence_prefecture": "柏崎市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "新潟県66",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID150066",
+    "diagnosis_date": "2020/04/25",
+    "onset": "2020/04/14",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

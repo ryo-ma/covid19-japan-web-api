@@ -733,5 +733,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-???-///武雄市",
+    "announcement_date": "2020-04-25",
+    "src": "https://www.pref.saga.lg.jp/kiji00373220/index.html",
+    "prefecture": "佐賀県",
+    "residence_prefecture": "武雄市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "佐賀県37",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID410037",
+    "diagnosis_date": "不明",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

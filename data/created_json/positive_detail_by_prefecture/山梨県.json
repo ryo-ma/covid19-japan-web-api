@@ -1048,5 +1048,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "620-421-425甲府市",
+    "announcement_date": "2020-04-25",
+    "src": "https://www.pref.yamanashi.jp/koucho/coronavirus/documents/200425_case52kofu.pdf",
+    "prefecture": "山梨県",
+    "residence_prefecture": "甲府市",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山梨県52",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID190052",
+    "diagnosis_date": "2020/04/25",
+    "onset": "2020/04/21",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -1342,5 +1342,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-415-424長野市",
+    "announcement_date": "2020-04-25",
+    "src": "https://www.city.nagano.nagano.jp/site/covid19-joho/451010.html",
+    "prefecture": "長野県",
+    "residence_prefecture": "長野市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "長野県66",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID200066",
+    "diagnosis_date": "2020/04/24",
+    "onset": "2020/04/15",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

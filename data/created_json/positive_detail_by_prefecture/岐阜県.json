@@ -3031,7 +3031,7 @@
     "residence_prefecture": "笠松町",
     "age": "20代",
     "gender": "男性",
-    "attribute": "",
+    "attribute": "医療従事者,医師,研修医,松波総合病院救急外来",
     "prefecture_number": "岐阜県146",
     "travel_or_contact": "",
     "detail": "",
@@ -3040,7 +3040,7 @@
     "onset": "2020/04/20",
     "symptom": "1",
     "death_or_discharge_date": "",
-    "comment": "",
+    "comment": "救急外来研修医http://www.matsunami-hsp.or.jp/oshirase/26080/",
     "outcome": "",
     "outcome_src": ""
   },
