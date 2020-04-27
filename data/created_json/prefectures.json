@@ -145,8 +145,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 141,
-    "deaths": 14,
+    "cases": 146,
+    "deaths": 15,
     "pcr": 2503
   },
   {
@@ -160,8 +160,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 829,
-    "deaths": 25,
+    "cases": 824,
+    "deaths": 27,
     "pcr": 6256
   },
   {
@@ -595,8 +595,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 615,
-    "deaths": 16,
+    "cases": 620,
+    "deaths": 17,
     "pcr": 8473
   },
   {
