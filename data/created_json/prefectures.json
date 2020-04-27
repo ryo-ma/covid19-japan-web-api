@@ -10,7 +10,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 619,
+    "cases": 645,
     "deaths": 26,
     "pcr": 5704
   },
@@ -55,7 +55,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020423
     },
-    "cases": 85,
+    "cases": 86,
     "deaths": 0,
     "pcr": 1568
   },
@@ -160,7 +160,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 818,
+    "cases": 829,
     "deaths": 25,
     "pcr": 6256
   },
@@ -175,8 +175,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 813,
-    "deaths": 26,
+    "cases": 814,
+    "deaths": 29,
     "pcr": 6257
   },
   {
@@ -191,7 +191,7 @@
       "pcr_date": 2020422
     },
     "cases": 3947,
-    "deaths": 100,
+    "deaths": 106,
     "pcr": 21206
   },
   {
@@ -205,7 +205,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020424
     },
-    "cases": 958,
+    "cases": 961,
     "deaths": 27,
     "pcr": 6776
   },
@@ -250,8 +250,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020424
     },
-    "cases": 235,
-    "deaths": 5,
+    "cases": 236,
+    "deaths": 6,
     "pcr": 1492
   },
   {
@@ -385,8 +385,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020423
     },
-    "cases": 294,
-    "deaths": 8,
+    "cases": 309,
+    "deaths": 9,
     "pcr": 3615
   },
   {
@@ -400,8 +400,8 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 1491,
-    "deaths": 30,
+    "cases": 1521,
+    "deaths": 32,
     "pcr": 9756
   },
   {
@@ -430,7 +430,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020420
     },
-    "cases": 73,
+    "cases": 75,
     "deaths": 1,
     "pcr": 1108
   },
@@ -445,7 +445,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020425
     },
-    "cases": 58,
+    "cases": 59,
     "deaths": 1,
     "pcr": 2778
   },
@@ -520,7 +520,7 @@
       "deaths_date": 20200427,
       "pcr_date": 2020423
     },
-    "cases": 31,
+    "cases": 32,
     "deaths": 0,
     "pcr": 1179
   },
