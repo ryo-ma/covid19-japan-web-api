@@ -2917,5 +2917,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "810-417-426高崎市",
+    "announcement_date": "2020-04-26",
+    "src": "https://www.city.takasaki.gunma.jp/docs/2020042600011/",
+    "prefecture": "群馬県",
+    "residence_prefecture": "高崎市",
+    "age": "80代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "群馬県141",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID100141",
+    "diagnosis_date": "2020/04/26",
+    "onset": "2020/04/17",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -1279,5 +1279,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "411-418-425掛川市",
+    "announcement_date": "2020-04-26",
+    "src": "https://www.pref.shizuoka.jp/kinkyu/documents/kisyateikyou0426.pdf",
+    "prefecture": "静岡県",
+    "residence_prefecture": "掛川市",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "静岡県63",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID220063",
+    "diagnosis_date": "2020/04/25",
+    "onset": "2020/04/18",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

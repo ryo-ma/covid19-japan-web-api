@@ -1405,5 +1405,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "521-000-426本宮市",
+    "announcement_date": "2020-04-26",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/383137.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "本宮市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福島県69",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID070069",
+    "diagnosis_date": "2020/04/26",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

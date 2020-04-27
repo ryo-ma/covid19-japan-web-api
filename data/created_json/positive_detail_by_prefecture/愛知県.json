@@ -9973,5 +9973,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "211-422-426あま市",
+    "announcement_date": "2020-04-26",
+    "src": "https://www.pref.aichi.jp/uploaded/attachment/332586.pdf",
+    "prefecture": "愛知県",
+    "residence_prefecture": "あま市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "愛知県477",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID230477",
+    "diagnosis_date": "2020/04/26",
+    "onset": "2020/04/22",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

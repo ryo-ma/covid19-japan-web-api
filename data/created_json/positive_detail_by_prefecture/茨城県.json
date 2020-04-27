@@ -3337,5 +3337,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "521-421-426取手市",
+    "announcement_date": "2020-04-26",
+    "src": "https://www.pref.ibaraki.jp/1saigai/2019-ncov/documents/0426159161.pdf",
+    "prefecture": "茨城県",
+    "residence_prefecture": "取手市",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "茨城県161",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID080161",
+    "diagnosis_date": "2020/04/26",
+    "onset": "2020/04/21",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
