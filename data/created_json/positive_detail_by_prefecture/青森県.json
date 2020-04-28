@@ -439,5 +439,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "420-417-427上十三管内",
+    "announcement_date": "2020-04-27",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200427press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "上十三管内",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "医療従事者,十和田市立中央病院",
+    "prefecture_number": "青森県23",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID020023",
+    "diagnosis_date": "2020/04/27",
+    "onset": "2020/04/17",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

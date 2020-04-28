@@ -1300,5 +1300,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "211-419-426御前崎市",
+    "announcement_date": "2020-04-27",
+    "src": "https://www.pref.shizuoka.jp/kinkyu/documents/20200427.pdf",
+    "prefecture": "静岡県",
+    "residence_prefecture": "御前崎市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "静岡県64",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID220064",
+    "diagnosis_date": "2020/04/26",
+    "onset": "2020/04/19",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

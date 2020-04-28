@@ -1762,5 +1762,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "411-423-427加美町",
+    "announcement_date": "2020-04-27",
+    "src": "https://www.pref.miyagi.jp/uploaded/attachment/790126.pdf",
+    "prefecture": "宮城県",
+    "residence_prefecture": "加美町",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "宮城県86",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID040086",
+    "diagnosis_date": "2020/04/27",
+    "onset": "2020/04/23",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
