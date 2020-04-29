@@ -85,7 +85,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 67,
+    "cases": 68,
     "deaths": 0,
     "pcr": 2052
   },
@@ -490,7 +490,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 22,
+    "cases": 23,
     "deaths": 0,
     "pcr": 1041
   },
@@ -610,7 +610,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 38,
+    "cases": 41,
     "deaths": 0,
     "pcr": 878
   },
