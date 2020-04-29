@@ -10,7 +10,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 683,
+    "cases": 721,
     "deaths": 27,
     "pcr": 5889
   },
@@ -175,7 +175,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 822,
+    "cases": 824,
     "deaths": 31,
     "pcr": 6392
   },
@@ -190,7 +190,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020422
     },
-    "cases": 4059,
+    "cases": 4106,
     "deaths": 108,
     "pcr": 21206
   },
@@ -205,8 +205,8 @@
       "deaths_date": 20200429,
       "pcr_date": 2020424
     },
-    "cases": 972,
-    "deaths": 29,
+    "cases": 978,
+    "deaths": 30,
     "pcr": 6776
   },
   {
@@ -235,8 +235,8 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 188,
-    "deaths": 7,
+    "cases": 190,
+    "deaths": 8,
     "pcr": 2097
   },
   {
@@ -325,7 +325,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020425
     },
-    "cases": 67,
+    "cases": 68,
     "deaths": 0,
     "pcr": 2484
   },
@@ -415,7 +415,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 642,
+    "cases": 643,
     "deaths": 27,
     "pcr": 6922
   },
@@ -490,7 +490,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 22,
+    "cases": 23,
     "deaths": 0,
     "pcr": 1041
   },
@@ -580,7 +580,7 @@
       "deaths_date": 20200429,
       "pcr_date": 2020426
     },
-    "cases": 73,
+    "cases": 74,
     "deaths": 3,
     "pcr": 1362
   },
