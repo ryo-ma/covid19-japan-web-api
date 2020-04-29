@@ -1111,5 +1111,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "710-422-426栃木市",
+    "announcement_date": "2020-04-28",
+    "src": "http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/r1houdoukansentantou/documents/54reimeekigaku2hou.pdf",
+    "prefecture": "栃木県",
+    "residence_prefecture": "栃木市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "栃木県55",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID090055",
+    "diagnosis_date": "2020/04/26",
+    "onset": "2020/04/22",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

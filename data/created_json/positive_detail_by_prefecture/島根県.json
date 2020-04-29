@@ -439,5 +439,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "011-000-427出雲市",
+    "announcement_date": "2020-04-28",
+    "src": "https://www3.pref.shimane.jp/houdou/attachments/132185",
+    "prefecture": "島根県",
+    "residence_prefecture": "出雲市",
+    "age": "00代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "島根県23",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID320023",
+    "diagnosis_date": "2020/04/27",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

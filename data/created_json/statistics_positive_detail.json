@@ -2,43 +2,43 @@
   {
     "name_ja": "北海道",
     "name_en": "Hokkaido",
-    "total_count": 650,
+    "total_count": 688,
     "male": {
-      "count": 322,
+      "count": 336,
       "generations_count": {
         "00s": 7,
-        "10s": 6,
-        "20s": 19,
-        "30s": 25,
-        "40s": 47,
-        "50s": 56,
-        "60s": 62,
-        "70s": 46,
-        "80s": 36,
-        "90s": 12,
+        "10s": 7,
+        "20s": 20,
+        "30s": 26,
+        "40s": 48,
+        "50s": 59,
+        "60s": 63,
+        "70s": 49,
+        "80s": 37,
+        "90s": 14,
         "100s": 0,
         "unknown": 6
       }
     },
     "female": {
-      "count": 313,
+      "count": 336,
       "generations_count": {
         "00s": 3,
-        "10s": 4,
+        "10s": 5,
         "20s": 45,
         "30s": 39,
         "40s": 48,
-        "50s": 52,
+        "50s": 53,
         "60s": 42,
-        "70s": 38,
-        "80s": 23,
-        "90s": 11,
+        "70s": 42,
+        "80s": 31,
+        "90s": 20,
         "100s": 0,
         "unknown": 8
       }
     },
     "unkown_gender": {
-      "count": 15,
+      "count": 16,
       "generations_count": {
         "00s": 0,
         "10s": 0,
@@ -51,14 +51,14 @@
         "80s": 0,
         "90s": 0,
         "100s": 0,
-        "unknown": 14
+        "unknown": 15
       }
     }
   },
   {
     "name_ja": "青森",
     "name_en": "Aomori",
-    "total_count": 23,
+    "total_count": 26,
     "male": {
       "count": 8,
       "generations_count": {
@@ -77,13 +77,13 @@
       }
     },
     "female": {
-      "count": 15,
+      "count": 18,
       "generations_count": {
         "00s": 0,
         "10s": 0,
         "20s": 0,
         "30s": 3,
-        "40s": 1,
+        "40s": 4,
         "50s": 1,
         "60s": 1,
         "70s": 3,
@@ -170,16 +170,16 @@
   {
     "name_ja": "宮城",
     "name_en": "Miyagi",
-    "total_count": 86,
+    "total_count": 88,
     "male": {
-      "count": 43,
+      "count": 44,
       "generations_count": {
         "00s": 3,
         "10s": 1,
         "20s": 10,
         "30s": 12,
         "40s": 8,
-        "50s": 6,
+        "50s": 7,
         "60s": 1,
         "70s": 1,
         "80s": 1,
@@ -189,10 +189,10 @@
       }
     },
     "female": {
-      "count": 43,
+      "count": 44,
       "generations_count": {
         "00s": 3,
-        "10s": 5,
+        "10s": 6,
         "20s": 12,
         "30s": 9,
         "40s": 6,
@@ -282,7 +282,7 @@
   {
     "name_ja": "山形",
     "name_en": "Yamagata",
-    "total_count": 66,
+    "total_count": 67,
     "male": {
       "count": 25,
       "generations_count": {
@@ -301,7 +301,7 @@
       }
     },
     "female": {
-      "count": 41,
+      "count": 42,
       "generations_count": {
         "00s": 2,
         "10s": 2,
@@ -311,7 +311,7 @@
         "50s": 10,
         "60s": 3,
         "70s": 2,
-        "80s": 4,
+        "80s": 5,
         "90s": 0,
         "100s": 0,
         "unknown": 0
@@ -338,7 +338,7 @@
   {
     "name_ja": "福島",
     "name_en": "Fukushima",
-    "total_count": 69,
+    "total_count": 70,
     "male": {
       "count": 44,
       "generations_count": {
@@ -357,7 +357,7 @@
       }
     },
     "female": {
-      "count": 25,
+      "count": 26,
       "generations_count": {
         "00s": 0,
         "10s": 2,
@@ -367,7 +367,7 @@
         "50s": 8,
         "60s": 3,
         "70s": 3,
-        "80s": 1,
+        "80s": 2,
         "90s": 0,
         "100s": 0,
         "unknown": 0
@@ -394,7 +394,7 @@
   {
     "name_ja": "茨城",
     "name_en": "Ibaraki",
-    "total_count": 161,
+    "total_count": 162,
     "male": {
       "count": 80,
       "generations_count": {
@@ -413,14 +413,14 @@
       }
     },
     "female": {
-      "count": 81,
+      "count": 82,
       "generations_count": {
         "00s": 2,
         "10s": 3,
         "20s": 20,
         "30s": 8,
         "40s": 13,
-        "50s": 10,
+        "50s": 11,
         "60s": 3,
         "70s": 8,
         "80s": 9,
@@ -450,9 +450,9 @@
   {
     "name_ja": "栃木",
     "name_en": "Tochigi",
-    "total_count": 54,
+    "total_count": 55,
     "male": {
-      "count": 34,
+      "count": 35,
       "generations_count": {
         "00s": 0,
         "10s": 1,
@@ -461,7 +461,7 @@
         "40s": 8,
         "50s": 5,
         "60s": 5,
-        "70s": 6,
+        "70s": 7,
         "80s": 0,
         "90s": 0,
         "100s": 0,
@@ -562,17 +562,17 @@
   {
     "name_ja": "埼玉",
     "name_en": "Saitama",
-    "total_count": 829,
+    "total_count": 836,
     "male": {
-      "count": 472,
+      "count": 479,
       "generations_count": {
         "00s": 5,
         "10s": 9,
         "20s": 57,
-        "30s": 50,
-        "40s": 94,
-        "50s": 106,
-        "60s": 66,
+        "30s": 52,
+        "40s": 96,
+        "50s": 108,
+        "60s": 67,
         "70s": 54,
         "80s": 29,
         "90s": 2,
@@ -581,24 +581,24 @@
       }
     },
     "female": {
-      "count": 345,
+      "count": 353,
       "generations_count": {
         "00s": 7,
-        "10s": 10,
-        "20s": 64,
-        "30s": 34,
+        "10s": 11,
+        "20s": 67,
+        "30s": 36,
         "40s": 57,
-        "50s": 62,
+        "50s": 63,
         "60s": 37,
         "70s": 35,
-        "80s": 26,
+        "80s": 27,
         "90s": 12,
         "100s": 0,
         "unknown": 1
       }
     },
     "unkown_gender": {
-      "count": 12,
+      "count": 4,
       "generations_count": {
         "00s": 0,
         "10s": 0,
@@ -611,14 +611,14 @@
         "80s": 0,
         "90s": 0,
         "100s": 0,
-        "unknown": 10
+        "unknown": 4
       }
     }
   },
   {
     "name_ja": "千葉",
     "name_en": "Chiba",
-    "total_count": 819,
+    "total_count": 827,
     "male": {
       "count": 431,
       "generations_count": {
@@ -637,18 +637,18 @@
       }
     },
     "female": {
-      "count": 252,
+      "count": 260,
       "generations_count": {
         "00s": 2,
         "10s": 10,
-        "20s": 49,
+        "20s": 50,
         "30s": 29,
-        "40s": 36,
-        "50s": 36,
+        "40s": 39,
+        "50s": 37,
         "60s": 26,
         "70s": 22,
-        "80s": 26,
-        "90s": 16,
+        "80s": 28,
+        "90s": 17,
         "100s": 0,
         "unknown": 0
       }
@@ -674,37 +674,37 @@
   {
     "name_ja": "東京",
     "name_en": "Tokyo",
-    "total_count": 3956,
+    "total_count": 4068,
     "male": {
-      "count": 2347,
+      "count": 2416,
       "generations_count": {
-        "00s": 27,
-        "10s": 22,
-        "20s": 337,
-        "30s": 424,
-        "40s": 481,
-        "50s": 417,
-        "60s": 280,
-        "70s": 228,
-        "80s": 99,
-        "90s": 26,
+        "00s": 29,
+        "10s": 24,
+        "20s": 351,
+        "30s": 434,
+        "40s": 489,
+        "50s": 427,
+        "60s": 287,
+        "70s": 238,
+        "80s": 103,
+        "90s": 28,
         "100s": 1,
         "unknown": 5
       }
     },
     "female": {
-      "count": 1592,
+      "count": 1635,
       "generations_count": {
         "00s": 23,
-        "10s": 36,
-        "20s": 339,
-        "30s": 309,
-        "40s": 198,
-        "50s": 224,
-        "60s": 133,
-        "70s": 139,
-        "80s": 113,
-        "90s": 76,
+        "10s": 37,
+        "20s": 347,
+        "30s": 311,
+        "40s": 203,
+        "50s": 230,
+        "60s": 137,
+        "70s": 145,
+        "80s": 118,
+        "90s": 82,
         "100s": 0,
         "unknown": 0
       }
@@ -786,15 +786,15 @@
   {
     "name_ja": "新潟",
     "name_en": "Niigata",
-    "total_count": 70,
+    "total_count": 75,
     "male": {
-      "count": 35,
+      "count": 39,
       "generations_count": {
         "00s": 1,
         "10s": 0,
         "20s": 6,
-        "30s": 9,
-        "40s": 4,
+        "30s": 12,
+        "40s": 5,
         "50s": 5,
         "60s": 3,
         "70s": 4,
@@ -805,11 +805,11 @@
       }
     },
     "female": {
-      "count": 35,
+      "count": 36,
       "generations_count": {
         "00s": 2,
         "10s": 0,
-        "20s": 6,
+        "20s": 7,
         "30s": 9,
         "40s": 3,
         "50s": 6,
@@ -842,12 +842,12 @@
   {
     "name_ja": "富山",
     "name_en": "Toyama",
-    "total_count": 179,
+    "total_count": 181,
     "male": {
-      "count": 60,
+      "count": 61,
       "generations_count": {
         "00s": 4,
-        "10s": 2,
+        "10s": 3,
         "20s": 6,
         "30s": 8,
         "40s": 11,
@@ -861,11 +861,11 @@
       }
     },
     "female": {
-      "count": 119,
+      "count": 120,
       "generations_count": {
         "00s": 3,
         "10s": 4,
-        "20s": 16,
+        "20s": 17,
         "30s": 10,
         "40s": 11,
         "50s": 15,
@@ -898,18 +898,18 @@
   {
     "name_ja": "石川",
     "name_en": "Ishikawa",
-    "total_count": 236,
+    "total_count": 245,
     "male": {
-      "count": 135,
+      "count": 138,
       "generations_count": {
         "00s": 2,
-        "10s": 4,
+        "10s": 5,
         "20s": 8,
         "30s": 14,
         "40s": 31,
         "50s": 37,
-        "60s": 21,
-        "70s": 8,
+        "60s": 22,
+        "70s": 9,
         "80s": 9,
         "90s": 1,
         "100s": 0,
@@ -917,18 +917,18 @@
       }
     },
     "female": {
-      "count": 101,
+      "count": 107,
       "generations_count": {
         "00s": 1,
         "10s": 1,
         "20s": 4,
         "30s": 9,
-        "40s": 18,
-        "50s": 25,
+        "40s": 20,
+        "50s": 26,
         "60s": 18,
-        "70s": 9,
+        "70s": 11,
         "80s": 7,
-        "90s": 9,
+        "90s": 10,
         "100s": 0,
         "unknown": 0
       }
@@ -954,7 +954,7 @@
   {
     "name_ja": "福井",
     "name_en": "Fukui",
-    "total_count": 121,
+    "total_count": 122,
     "male": {
       "count": 74,
       "generations_count": {
@@ -973,12 +973,12 @@
       }
     },
     "female": {
-      "count": 47,
+      "count": 48,
       "generations_count": {
         "00s": 0,
         "10s": 2,
         "20s": 3,
-        "30s": 7,
+        "30s": 8,
         "40s": 6,
         "50s": 12,
         "60s": 4,
@@ -1010,7 +1010,7 @@
   {
     "name_ja": "山梨",
     "name_en": "Yamanashi",
-    "total_count": 52,
+    "total_count": 53,
     "male": {
       "count": 26,
       "generations_count": {
@@ -1029,11 +1029,11 @@
       }
     },
     "female": {
-      "count": 26,
+      "count": 27,
       "generations_count": {
         "00s": 2,
         "10s": 0,
-        "20s": 4,
+        "20s": 5,
         "30s": 3,
         "40s": 3,
         "50s": 3,
@@ -1178,15 +1178,15 @@
   {
     "name_ja": "静岡",
     "name_en": "Shizuoka",
-    "total_count": 64,
+    "total_count": 67,
     "male": {
-      "count": 32,
+      "count": 34,
       "generations_count": {
         "00s": 0,
         "10s": 1,
-        "20s": 2,
+        "20s": 3,
         "30s": 6,
-        "40s": 5,
+        "40s": 6,
         "50s": 1,
         "60s": 7,
         "70s": 4,
@@ -1197,13 +1197,13 @@
       }
     },
     "female": {
-      "count": 20,
+      "count": 21,
       "generations_count": {
         "00s": 1,
         "10s": 3,
         "20s": 2,
         "30s": 1,
-        "40s": 3,
+        "40s": 4,
         "50s": 1,
         "60s": 5,
         "70s": 1,
@@ -1234,16 +1234,16 @@
   {
     "name_ja": "愛知",
     "name_en": "Aichi",
-    "total_count": 477,
+    "total_count": 482,
     "male": {
-      "count": 269,
+      "count": 271,
       "generations_count": {
         "00s": 8,
         "10s": 5,
         "20s": 48,
         "30s": 35,
-        "40s": 42,
-        "50s": 39,
+        "40s": 43,
+        "50s": 40,
         "60s": 40,
         "70s": 24,
         "80s": 23,
@@ -1253,16 +1253,16 @@
       }
     },
     "female": {
-      "count": 207,
+      "count": 210,
       "generations_count": {
         "00s": 7,
         "10s": 7,
         "20s": 34,
         "30s": 21,
-        "40s": 24,
+        "40s": 25,
         "50s": 40,
-        "60s": 26,
-        "70s": 23,
+        "60s": 27,
+        "70s": 24,
         "80s": 22,
         "90s": 3,
         "100s": 0,
@@ -1346,7 +1346,7 @@
   {
     "name_ja": "滋賀",
     "name_en": "Shiga",
-    "total_count": 94,
+    "total_count": 96,
     "male": {
       "count": 57,
       "generations_count": {
@@ -1365,17 +1365,17 @@
       }
     },
     "female": {
-      "count": 37,
+      "count": 39,
       "generations_count": {
         "00s": 0,
         "10s": 0,
         "20s": 10,
         "30s": 5,
-        "40s": 7,
+        "40s": 8,
         "50s": 7,
         "60s": 6,
         "70s": 2,
-        "80s": 0,
+        "80s": 1,
         "90s": 0,
         "100s": 0,
         "unknown": 0
@@ -1402,18 +1402,18 @@
   {
     "name_ja": "京都",
     "name_en": "Kyoto",
-    "total_count": 309,
+    "total_count": 313,
     "male": {
-      "count": 153,
+      "count": 155,
       "generations_count": {
-        "00s": 3,
+        "00s": 4,
         "10s": 1,
         "20s": 35,
         "30s": 22,
         "40s": 17,
         "50s": 26,
         "60s": 23,
-        "70s": 16,
+        "70s": 17,
         "80s": 7,
         "90s": 3,
         "100s": 0,
@@ -1421,14 +1421,14 @@
       }
     },
     "female": {
-      "count": 153,
+      "count": 155,
       "generations_count": {
         "00s": 1,
         "10s": 1,
         "20s": 36,
-        "30s": 24,
+        "30s": 25,
         "40s": 15,
-        "50s": 24,
+        "50s": 25,
         "60s": 15,
         "70s": 20,
         "80s": 11,
@@ -1458,35 +1458,35 @@
   {
     "name_ja": "大阪",
     "name_en": "Osaka",
-    "total_count": 1522,
+    "total_count": 1554,
     "male": {
-      "count": 827,
+      "count": 843,
       "generations_count": {
         "00s": 12,
-        "10s": 17,
-        "20s": 154,
-        "30s": 149,
-        "40s": 148,
-        "50s": 125,
+        "10s": 18,
+        "20s": 156,
+        "30s": 151,
+        "40s": 150,
+        "50s": 128,
         "60s": 75,
-        "70s": 89,
-        "80s": 51,
-        "90s": 5,
+        "70s": 91,
+        "80s": 54,
+        "90s": 6,
         "100s": 0,
         "unknown": 2
       }
     },
     "female": {
-      "count": 695,
+      "count": 711,
       "generations_count": {
         "00s": 12,
         "10s": 22,
-        "20s": 174,
-        "30s": 103,
-        "40s": 110,
-        "50s": 101,
-        "60s": 58,
-        "70s": 57,
+        "20s": 178,
+        "30s": 105,
+        "40s": 114,
+        "50s": 105,
+        "60s": 59,
+        "70s": 58,
         "80s": 38,
         "90s": 18,
         "100s": 2,
@@ -1514,15 +1514,15 @@
   {
     "name_ja": "兵庫",
     "name_en": "Hyogo",
-    "total_count": 630,
+    "total_count": 637,
     "male": {
-      "count": 357,
+      "count": 361,
       "generations_count": {
-        "00s": 5,
+        "00s": 7,
         "10s": 8,
         "20s": 40,
-        "30s": 46,
-        "40s": 74,
+        "30s": 47,
+        "40s": 75,
         "50s": 74,
         "60s": 41,
         "70s": 40,
@@ -1533,12 +1533,12 @@
       }
     },
     "female": {
-      "count": 268,
+      "count": 271,
       "generations_count": {
-        "00s": 1,
+        "00s": 2,
         "10s": 20,
         "20s": 50,
-        "30s": 31,
+        "30s": 33,
         "40s": 43,
         "50s": 45,
         "60s": 25,
@@ -1570,7 +1570,7 @@
   {
     "name_ja": "奈良",
     "name_en": "Nara",
-    "total_count": 79,
+    "total_count": 81,
     "male": {
       "count": 45,
       "generations_count": {
@@ -1589,15 +1589,15 @@
       }
     },
     "female": {
-      "count": 34,
+      "count": 36,
       "generations_count": {
         "00s": 3,
         "10s": 1,
         "20s": 4,
         "30s": 3,
         "40s": 7,
-        "50s": 5,
-        "60s": 5,
+        "50s": 6,
+        "60s": 6,
         "70s": 1,
         "80s": 4,
         "90s": 1,
@@ -1626,9 +1626,9 @@
   {
     "name_ja": "和歌山",
     "name_en": "Wakayama",
-    "total_count": 59,
+    "total_count": 60,
     "male": {
-      "count": 32,
+      "count": 33,
       "generations_count": {
         "00s": 0,
         "10s": 2,
@@ -1636,7 +1636,7 @@
         "30s": 3,
         "40s": 6,
         "50s": 8,
-        "60s": 7,
+        "60s": 8,
         "70s": 2,
         "80s": 1,
         "90s": 0,
@@ -1738,11 +1738,11 @@
   {
     "name_ja": "島根",
     "name_en": "Shimane",
-    "total_count": 22,
+    "total_count": 23,
     "male": {
-      "count": 11,
+      "count": 12,
       "generations_count": {
-        "00s": 2,
+        "00s": 3,
         "10s": 0,
         "20s": 2,
         "30s": 3,
@@ -1850,16 +1850,16 @@
   {
     "name_ja": "広島",
     "name_en": "Hiroshima",
-    "total_count": 149,
+    "total_count": 154,
     "male": {
-      "count": 58,
+      "count": 62,
       "generations_count": {
         "00s": 0,
         "10s": 3,
-        "20s": 14,
+        "20s": 16,
         "30s": 10,
         "40s": 13,
-        "50s": 11,
+        "50s": 13,
         "60s": 1,
         "70s": 1,
         "80s": 4,
@@ -1886,7 +1886,7 @@
       }
     },
     "unkown_gender": {
-      "count": 59,
+      "count": 60,
       "generations_count": {
         "00s": 0,
         "10s": 0,
@@ -1899,7 +1899,7 @@
         "80s": 0,
         "90s": 0,
         "100s": 0,
-        "unknown": 58
+        "unknown": 59
       }
     }
   },
@@ -2186,13 +2186,13 @@
   {
     "name_ja": "福岡",
     "name_en": "Fukuoka",
-    "total_count": 621,
+    "total_count": 625,
     "male": {
-      "count": 326,
+      "count": 327,
       "generations_count": {
         "00s": 7,
         "10s": 12,
-        "20s": 32,
+        "20s": 33,
         "30s": 53,
         "40s": 55,
         "50s": 63,
@@ -2205,17 +2205,17 @@
       }
     },
     "female": {
-      "count": 294,
+      "count": 297,
       "generations_count": {
         "00s": 6,
         "10s": 6,
-        "20s": 64,
+        "20s": 65,
         "30s": 49,
         "40s": 34,
-        "50s": 46,
+        "50s": 47,
         "60s": 32,
         "70s": 21,
-        "80s": 26,
+        "80s": 27,
         "90s": 8,
         "100s": 2,
         "unknown": 0
@@ -2242,9 +2242,9 @@
   {
     "name_ja": "佐賀",
     "name_en": "Saga",
-    "total_count": 37,
+    "total_count": 38,
     "male": {
-      "count": 19,
+      "count": 20,
       "generations_count": {
         "00s": 0,
         "10s": 0,
@@ -2252,7 +2252,7 @@
         "30s": 4,
         "40s": 5,
         "50s": 2,
-        "60s": 3,
+        "60s": 4,
         "70s": 1,
         "80s": 0,
         "90s": 0,
@@ -2578,7 +2578,7 @@
   {
     "name_ja": "沖縄",
     "name_en": "Okinawa",
-    "total_count": 138,
+    "total_count": 141,
     "male": {
       "count": 85,
       "generations_count": {
@@ -2597,16 +2597,16 @@
       }
     },
     "female": {
-      "count": 52,
+      "count": 55,
       "generations_count": {
         "00s": 0,
         "10s": 1,
-        "20s": 3,
+        "20s": 4,
         "30s": 7,
         "40s": 14,
         "50s": 9,
-        "60s": 5,
-        "70s": 12,
+        "60s": 6,
+        "70s": 13,
         "80s": 1,
         "90s": 0,
         "100s": 0,

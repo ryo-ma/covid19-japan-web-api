@@ -3358,5 +3358,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "520-427-428美浦村",
+    "announcement_date": "2020-04-28",
+    "src": "https://www.pref.ibaraki.jp/1saigai/2019-ncov/documents/0428162.pdf",
+    "prefecture": "茨城県",
+    "residence_prefecture": "美浦村",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "医療従事者,看護師",
+    "prefecture_number": "茨城県162",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID080162",
+    "diagnosis_date": "2020/04/28",
+    "onset": "2020/04/27",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

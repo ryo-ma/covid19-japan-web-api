@@ -1363,5 +1363,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "820-423-428山形市",
+    "announcement_date": "2020-04-28",
+    "src": "https://www.city.yamagata-yamagata.lg.jp/kakuka/kenkoiryo/kenkozoshin/sogo/kansensyou/pf0607101142/xtoin1.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "山形市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "山形県67",
+    "travel_or_contact": "",
+    "detail": "濃厚接触者の同居家族",
+    "id": "ID060067",
+    "diagnosis_date": "2020/04/28",
+    "onset": "2020/04/23",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

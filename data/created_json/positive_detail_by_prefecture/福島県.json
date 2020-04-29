@@ -1426,5 +1426,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "820-421-428福島市",
+    "announcement_date": "2020-04-28",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/383474.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "福島市",
+    "age": "80代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福島県70",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID070070",
+    "diagnosis_date": "2020/04/28",
+    "onset": "2020/04/21",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
