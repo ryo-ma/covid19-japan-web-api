@@ -3,7 +3,7 @@ import numpy as np
 from scipy.optimize import curve_fit
 import json
 import datetime
-from ..const import (DOMESTIC_DAILY_REPORT_DATA_PATH, TODAY_TOTAL_JSON_PATH,
+from ..const import (DOMESTIC_DAILY_REPORT_DATA_PATH, TODAY_TOTAL_JSON_PATH, DEATHS_DATA_PATH,
                      HISTORY_TOTAL_JSON_PATH, PREDICTION_TOTAL_JSON_PATH)
 
 # Incubation period + Onset period
@@ -13,8 +13,17 @@ PREDICTION_DAYS = 30
 
 def create_json_file():
     total_df = pd.read_csv(DOMESTIC_DAILY_REPORT_DATA_PATH, na_values='0', encoding='utf-8')
+    death_df = pd.read_csv(DEATHS_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
     today_total = total_df.iloc[-1].fillna(0).astype(int).to_dict()
     history_total_df = total_df.fillna(0).astype(int)
+
+    # Replace the death to a death.csv data
+    today_death_total = death_df.fillna(0).sum(numeric_only=True).sum().astype(int)
+    today_total['death'] = int(today_death_total)
+    for i, row in history_total_df.iterrows():
+        date = row['date']
+        death_count = death_df.fillna(0).sum(axis=1)[0:death_df.index.get_loc(date)].sum().astype(int)
+        history_total_df.loc[i, 'death'] = death_count
 
     positive_param, _ = predict(history_total_df['positive'].array)
     death_param, _ = predict(history_total_df['death'].array)
