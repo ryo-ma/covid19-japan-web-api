@@ -237,7 +237,7 @@
     "confirming": 14,
     "waiting": 0,
     "discharge": 16,
-    "death": 1
+    "death": 3
   },
   {
     "date": 20200222,
@@ -252,7 +252,7 @@
     "confirming": 20,
     "waiting": 0,
     "discharge": 17,
-    "death": 1
+    "death": 3
   },
   {
     "date": 20200223,
@@ -267,7 +267,7 @@
     "confirming": 31,
     "waiting": 0,
     "discharge": 17,
-    "death": 1
+    "death": 3
   },
   {
     "date": 20200224,
@@ -282,7 +282,7 @@
     "confirming": 31,
     "waiting": 0,
     "discharge": 17,
-    "death": 1
+    "death": 4
   },
   {
     "date": 20200225,
@@ -297,7 +297,7 @@
     "confirming": 38,
     "waiting": 0,
     "discharge": 18,
-    "death": 1
+    "death": 4
   },
   {
     "date": 20200226,
@@ -312,7 +312,7 @@
     "confirming": 35,
     "waiting": 0,
     "discharge": 23,
-    "death": 1
+    "death": 5
   },
   {
     "date": 20200227,
@@ -327,7 +327,7 @@
     "confirming": 51,
     "waiting": 0,
     "discharge": 30,
-    "death": 3
+    "death": 7
   },
   {
     "date": 20200228,
@@ -342,7 +342,7 @@
     "confirming": 57,
     "waiting": 0,
     "discharge": 30,
-    "death": 4
+    "death": 8
   },
   {
     "date": 20200229,
@@ -357,7 +357,7 @@
     "confirming": 58,
     "waiting": 3,
     "discharge": 31,
-    "death": 5
+    "death": 11
   },
   {
     "date": 20200301,
@@ -372,7 +372,7 @@
     "confirming": 56,
     "waiting": 5,
     "discharge": 31,
-    "death": 5
+    "death": 11
   },
   {
     "date": 20200302,
@@ -387,7 +387,7 @@
     "confirming": 65,
     "waiting": 5,
     "discharge": 32,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200303,
@@ -402,7 +402,7 @@
     "confirming": 65,
     "waiting": 11,
     "discharge": 35,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200304,
@@ -417,7 +417,7 @@
     "confirming": 78,
     "waiting": 13,
     "discharge": 37,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200305,
@@ -432,7 +432,7 @@
     "confirming": 102,
     "waiting": 14,
     "discharge": 38,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200306,
@@ -447,7 +447,7 @@
     "confirming": 68,
     "waiting": 20,
     "discharge": 56,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200307,
@@ -462,7 +462,7 @@
     "confirming": 82,
     "waiting": 13,
     "discharge": 63,
-    "death": 6
+    "death": 12
   },
   {
     "date": 20200308,
@@ -477,7 +477,7 @@
     "confirming": 102,
     "waiting": 15,
     "discharge": 67,
-    "death": 6
+    "death": 13
   },
   {
     "date": 20200309,
@@ -492,7 +492,7 @@
     "confirming": 121,
     "waiting": 12,
     "discharge": 88,
-    "death": 7
+    "death": 14
   },
   {
     "date": 20200310,
@@ -507,7 +507,7 @@
     "confirming": 120,
     "waiting": 17,
     "discharge": 89,
-    "death": 9
+    "death": 16
   },
   {
     "date": 20200311,
@@ -522,7 +522,7 @@
     "confirming": 161,
     "waiting": 16,
     "discharge": 103,
-    "death": 12
+    "death": 19
   },
   {
     "date": 20200312,
@@ -537,7 +537,7 @@
     "confirming": 166,
     "waiting": 15,
     "discharge": 108,
-    "death": 15
+    "death": 22
   },
   {
     "date": 20200313,
@@ -552,7 +552,7 @@
     "confirming": 158,
     "waiting": 15,
     "discharge": 120,
-    "death": 19
+    "death": 26
   },
   {
     "date": 20200314,
@@ -567,7 +567,7 @@
     "confirming": 161,
     "waiting": 14,
     "discharge": 129,
-    "death": 21
+    "death": 28
   },
   {
     "date": 20200315,
@@ -582,7 +582,7 @@
     "confirming": 190,
     "waiting": 17,
     "discharge": 142,
-    "death": 22
+    "death": 29
   },
   {
     "date": 20200316,
@@ -597,7 +597,7 @@
     "confirming": 194,
     "waiting": 20,
     "discharge": 149,
-    "death": 24
+    "death": 31
   },
   {
     "date": 20200317,
@@ -612,7 +612,7 @@
     "confirming": 182,
     "waiting": 16,
     "discharge": 156,
-    "death": 28
+    "death": 35
   },
   {
     "date": 20200318,
@@ -627,7 +627,7 @@
     "confirming": 187,
     "waiting": 14,
     "discharge": 176,
-    "death": 29
+    "death": 36
   },
   {
     "date": 20200319,
@@ -642,7 +642,7 @@
     "confirming": 175,
     "waiting": 15,
     "discharge": 200,
-    "death": 31
+    "death": 38
   },
   {
     "date": 20200320,
@@ -657,7 +657,7 @@
     "confirming": 182,
     "waiting": 14,
     "discharge": 212,
-    "death": 33
+    "death": 40
   },
   {
     "date": 20200321,
@@ -672,7 +672,7 @@
     "confirming": 185,
     "waiting": 13,
     "discharge": 217,
-    "death": 35
+    "death": 43
   },
   {
     "date": 20200322,
@@ -687,7 +687,7 @@
     "confirming": 183,
     "waiting": 13,
     "discharge": 257,
-    "death": 36
+    "death": 44
   },
   {
     "date": 20200323,
@@ -702,7 +702,7 @@
     "confirming": 187,
     "waiting": 10,
     "discharge": 270,
-    "death": 41
+    "death": 49
   },
   {
     "date": 20200324,
@@ -717,7 +717,7 @@
     "confirming": 185,
     "waiting": 10,
     "discharge": 285,
-    "death": 42
+    "death": 52
   },
   {
     "date": 20200325,
@@ -732,7 +732,7 @@
     "confirming": 203,
     "waiting": 10,
     "discharge": 294,
-    "death": 43
+    "death": 53
   },
   {
     "date": 20200326,
@@ -747,7 +747,7 @@
     "confirming": 202,
     "waiting": 11,
     "discharge": 343,
-    "death": 45
+    "death": 55
   },
   {
     "date": 20200327,
@@ -762,7 +762,7 @@
     "confirming": 203,
     "waiting": 13,
     "discharge": 356,
-    "death": 46
+    "death": 57
   },
   {
     "date": 20200328,
@@ -777,7 +777,7 @@
     "confirming": 224,
     "waiting": 13,
     "discharge": 388,
-    "death": 49
+    "death": 62
   },
   {
     "date": 20200329,
@@ -792,7 +792,7 @@
     "confirming": 323,
     "waiting": 13,
     "discharge": 408,
-    "death": 52
+    "death": 65
   },
   {
     "date": 20200330,
@@ -807,7 +807,7 @@
     "confirming": 380,
     "waiting": 13,
     "discharge": 408,
-    "death": 54
+    "death": 66
   },
   {
     "date": 20200331,
@@ -822,7 +822,7 @@
     "confirming": 410,
     "waiting": 13,
     "discharge": 408,
-    "death": 56
+    "death": 70
   },
   {
     "date": 20200401,
@@ -837,7 +837,7 @@
     "confirming": 417,
     "waiting": 9,
     "discharge": 456,
-    "death": 57
+    "death": 77
   },
   {
     "date": 20200402,
@@ -852,7 +852,7 @@
     "confirming": 418,
     "waiting": 9,
     "discharge": 489,
-    "death": 60
+    "death": 80
   },
   {
     "date": 20200403,
@@ -867,7 +867,7 @@
     "confirming": 456,
     "waiting": 10,
     "discharge": 498,
-    "death": 63
+    "death": 84
   },
   {
     "date": 20200404,
@@ -882,7 +882,7 @@
     "confirming": 389,
     "waiting": 13,
     "discharge": 559,
-    "death": 69
+    "death": 88
   },
   {
     "date": 20200405,
@@ -897,7 +897,7 @@
     "confirming": 373,
     "waiting": 13,
     "discharge": 568,
-    "death": 70
+    "death": 95
   },
   {
     "date": 20200406,
@@ -912,7 +912,7 @@
     "confirming": 386,
     "waiting": 20,
     "discharge": 575,
-    "death": 73
+    "death": 104
   },
   {
     "date": 20200407,
@@ -927,7 +927,7 @@
     "confirming": 414,
     "waiting": 35,
     "discharge": 605,
-    "death": 80
+    "death": 108
   },
   {
     "date": 20200408,
@@ -942,7 +942,7 @@
     "confirming": 378,
     "waiting": 39,
     "discharge": 615,
-    "death": 81
+    "death": 109
   },
   {
     "date": 20200409,
@@ -957,7 +957,7 @@
     "confirming": 356,
     "waiting": 43,
     "discharge": 668,
-    "death": 85
+    "death": 116
   },
   {
     "date": 20200410,
@@ -972,7 +972,7 @@
     "confirming": 442,
     "waiting": 50,
     "discharge": 697,
-    "death": 88
+    "death": 120
   },
   {
     "date": 20200411,
@@ -987,7 +987,7 @@
     "confirming": 558,
     "waiting": 64,
     "discharge": 745,
-    "death": 94
+    "death": 133
   },
   {
     "date": 20200412,
@@ -1002,7 +1002,7 @@
     "confirming": 576,
     "waiting": 77,
     "discharge": 767,
-    "death": 98
+    "death": 144
   },
   {
     "date": 20200413,
@@ -1017,7 +1017,7 @@
     "confirming": 623,
     "waiting": 148,
     "discharge": 782,
-    "death": 102
+    "death": 150
   },
   {
     "date": 20200414,
@@ -1032,7 +1032,7 @@
     "confirming": 617,
     "waiting": 153,
     "discharge": 836,
-    "death": 109
+    "death": 155
   },
   {
     "date": 20200415,
@@ -1047,7 +1047,7 @@
     "confirming": 583,
     "waiting": 160,
     "discharge": 884,
-    "death": 119
+    "death": 174
   },
   {
     "date": 20200416,
@@ -1062,7 +1062,7 @@
     "confirming": 550,
     "waiting": 177,
     "discharge": 918,
-    "death": 136
+    "death": 192
   },
   {
     "date": 20200417,
@@ -1077,7 +1077,7 @@
     "confirming": 560,
     "waiting": 219,
     "discharge": 995,
-    "death": 148
+    "death": 204
   },
   {
     "date": 20200418,
@@ -1092,7 +1092,7 @@
     "confirming": 597,
     "waiting": 238,
     "discharge": 1052,
-    "death": 154
+    "death": 220
   },
   {
     "date": 20200419,
@@ -1107,7 +1107,7 @@
     "confirming": 581,
     "waiting": 267,
     "discharge": 1142,
-    "death": 161
+    "death": 237
   },
   {
     "date": 20200420,
@@ -1122,7 +1122,7 @@
     "confirming": 573,
     "waiting": 297,
     "discharge": 1222,
-    "death": 171
+    "death": 251
   },
   {
     "date": 20200421,
@@ -1137,7 +1137,7 @@
     "confirming": 599,
     "waiting": 307,
     "discharge": 1339,
-    "death": 186
+    "death": 276
   },
   {
     "date": 20200422,
@@ -1152,7 +1152,7 @@
     "confirming": 589,
     "waiting": 329,
     "discharge": 1407,
-    "death": 203
+    "death": 296
   },
   {
     "date": 20200423,
@@ -1167,7 +1167,7 @@
     "confirming": 622,
     "waiting": 351,
     "discharge": 1477,
-    "death": 213
+    "death": 312
   },
   {
     "date": 20200424,
@@ -1182,7 +1182,7 @@
     "confirming": 610,
     "waiting": 383,
     "discharge": 1539,
-    "death": 232
+    "death": 341
   },
   {
     "date": 20200425,
@@ -1197,7 +1197,7 @@
     "confirming": 625,
     "waiting": 372,
     "discharge": 1633,
-    "death": 247
+    "death": 358
   },
   {
     "date": 20200426,
@@ -1212,7 +1212,7 @@
     "confirming": 617,
     "waiting": 317,
     "discharge": 1734,
-    "death": 251
+    "death": 373
   },
   {
     "date": 20200427,
@@ -1227,7 +1227,7 @@
     "confirming": 671,
     "waiting": 311,
     "discharge": 1804,
-    "death": 253
+    "death": 385
   },
   {
     "date": 20200428,
@@ -1242,7 +1242,7 @@
     "confirming": 663,
     "waiting": 310,
     "discharge": 1903,
-    "death": 267
+    "death": 407
   },
   {
     "date": 20200429,
@@ -1257,6 +1257,6 @@
     "confirming": 688,
     "waiting": 308,
     "discharge": 1991,
-    "death": 277
+    "death": 426
   }
 ]
