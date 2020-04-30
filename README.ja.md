@@ -115,8 +115,8 @@
 <!-- ## Total -->
 ## 全国の合計(Total)
 
-<!-- This API does not include FLIGHT data and SHIPMENT data. -->
-このAPIには、FLIGHTデータとSHIPMENTデータは含まれていません。
+<!-- This API includes FLIGHT data and SHIPMENT data. -->
+このAPIには、FLIGHTデータとSHIPMENTデータを含んでいます。
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
 
@@ -148,8 +148,8 @@
 <!-- ## Total History -->
 ## 全国の合計の履歴(Total History)
 
-<!-- This API does not include FLIGHT data and SHIPMENT data. -->
-このAPIには、FLIGHTデータとSHIPMENTデータは含まれていません。
+<!-- This API includes FLIGHT data and SHIPMENT data. -->
+このAPIには、FLIGHTデータとSHIPMENTデータを含んでいます。
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
 
@@ -201,8 +201,8 @@
 Predict  for the next 30 days about the positive total and the death total.
 機械学習に基づき、感染者および死亡者について次の30日間を予測します。
 
-<!-- This API does not include the FLIGHT data and the SHIPMENT data. -->
-このAPIには、FLIGHTデータとSHIPMENTデータは含まれていません。
+<!-- This API includes the FLIGHT data and the SHIPMENT data. -->
+このAPIには、FLIGHTデータとSHIPMENTデータを含んでいます。
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?predict=true](https://covid19-japan-web-api.now.sh/api/v1/total?predict=true)
 
