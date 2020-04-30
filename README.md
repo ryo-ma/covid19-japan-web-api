@@ -136,7 +136,7 @@ This API includes FLIGHT data and SHIPMENT data.
 
 ## Total History
 
-This API include FLIGHT data and SHIPMENT data.
+This API includes FLIGHT data and SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
 
@@ -186,7 +186,7 @@ This API include FLIGHT data and SHIPMENT data.
 
 Predict  for the next 30 days about the positive total and the death total.
 
-This API include the FLIGHT data and the SHIPMENT data.
+This API includes the FLIGHT data and the SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?predict=true](https://covid19-japan-web-api.now.sh/api/v1/total?predict=true)
 
