@@ -3379,5 +3379,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "320-???-428県外（埼玉県）",
+    "announcement_date": "2020-04-29",
+    "src": "https://www.pref.ibaraki.jp/1saigai/2019-ncov/documents/0428162.pdf",
+    "prefecture": "茨城県",
+    "residence_prefecture": "県外（埼玉県）",
+    "age": "30代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "茨城県163",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID080163",
+    "diagnosis_date": "2020/04/28",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

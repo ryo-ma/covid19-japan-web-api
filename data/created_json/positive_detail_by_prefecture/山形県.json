@@ -1384,5 +1384,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "611-418-///",
+    "announcement_date": "2020-04-29",
+    "src": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/68reime.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "米沢市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "医療従事者,医師",
+    "prefecture_number": "山形県68",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID060068",
+    "diagnosis_date": "不明",
+    "onset": "2020/04/18",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -3211,5 +3211,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "620-415-429三次市",
+    "announcement_date": "2020-04-29",
+    "src": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/388662.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "三次市",
+    "age": "60代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "広島県155",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID340155",
+    "diagnosis_date": "2020/04/29",
+    "onset": "2020/04/15",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

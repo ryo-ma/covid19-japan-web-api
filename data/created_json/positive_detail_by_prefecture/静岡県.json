@@ -1384,5 +1384,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "/10-420-428熱海市",
+    "announcement_date": "2020-04-29",
+    "src": "https://www.pref.shizuoka.jp/kinkyu/documents/68reime.pdf",
+    "prefecture": "静岡県",
+    "residence_prefecture": "熱海市",
+    "age": "不明",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "静岡県68",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID220068",
+    "diagnosis_date": "2020/04/28",
+    "onset": "2020/04/20",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
