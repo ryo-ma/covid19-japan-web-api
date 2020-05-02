@@ -1,0 +1,8 @@
+.github
+.flake8
+.gitignore
+.gitmodules
+tests
+README.ja.md
+README.md
+LICENSE
