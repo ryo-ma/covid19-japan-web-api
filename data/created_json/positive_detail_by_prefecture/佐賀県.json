@@ -838,5 +838,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "710-427-502白石町",
+    "announcement_date": "2020-05-01",
+    "src": "https://www.pref.saga.lg.jp/kiji00374226/3_74226_167815_up_5pb2yo35.pdf",
+    "prefecture": "佐賀県",
+    "residence_prefecture": "白石町",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "佐賀県42",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID410042",
+    "diagnosis_date": "2020/05/02",
+    "onset": "2020/04/27",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

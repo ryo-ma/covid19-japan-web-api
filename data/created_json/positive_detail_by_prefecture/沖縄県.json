@@ -2938,5 +2938,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "510-422-430那覇市",
+    "announcement_date": "2020-04-30",
+    "src": "https://www.pref.okinawa.jp/site/hoken/chiikihoken/kekkaku/documents/covid19_nippou_0501.pdf",
+    "prefecture": "沖縄県",
+    "residence_prefecture": "那覇市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "沖縄県142",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID470142",
+    "diagnosis_date": "2020/04/30",
+    "onset": "2020/04/22",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
