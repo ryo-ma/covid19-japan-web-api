@@ -46,6 +46,8 @@ If your project is not listed here, let us know!
 
 # Usage
 
+**We have published the [Swagger API (https://covid19-japan-web-api.now.sh/apidocs)](https://covid19-japan-web-api.now.sh/apidocs).**
+
 You can see the documentation of this API and/or import it as a Postman collection [using this link](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest).
 
 * [Prefectures](#prefectures)
