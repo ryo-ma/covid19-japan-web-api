@@ -617,7 +617,7 @@
   {
     "date": 20200318,
     "pcr": 14525,
-    "positive": 1590,
+    "positive": 1589,
     "symptom": 758,
     "symptomless": 92,
     "symptomConfirming": 3,
@@ -632,7 +632,7 @@
   {
     "date": 20200319,
     "pcr": 14072,
-    "positive": 1632,
+    "positive": 1631,
     "symptom": 794,
     "symptomless": 96,
     "symptomConfirming": 2,
@@ -647,7 +647,7 @@
   {
     "date": 20200320,
     "pcr": 18015,
-    "positive": 1671,
+    "positive": 1670,
     "symptom": 829,
     "symptomless": 97,
     "symptomConfirming": 2,
@@ -662,7 +662,7 @@
   {
     "date": 20200321,
     "pcr": 18134,
-    "positive": 1725,
+    "positive": 1724,
     "symptom": 871,
     "symptomless": 104,
     "symptomConfirming": 6,
@@ -677,7 +677,7 @@
   {
     "date": 20200322,
     "pcr": 18226,
-    "positive": 1765,
+    "positive": 1764,
     "symptom": 907,
     "symptomless": 105,
     "symptomConfirming": 3,
@@ -692,7 +692,7 @@
   {
     "date": 20200323,
     "pcr": 18322,
-    "positive": 1811,
+    "positive": 1810,
     "symptom": 944,
     "symptomless": 110,
     "symptomConfirming": 3,
@@ -707,7 +707,7 @@
   {
     "date": 20200324,
     "pcr": 22184,
-    "positive": 1850,
+    "positive": 1849,
     "symptom": 980,
     "symptomless": 110,
     "symptomConfirming": 5,
@@ -722,7 +722,7 @@
   {
     "date": 20200325,
     "pcr": 21266,
-    "positive": 1921,
+    "positive": 1920,
     "symptom": 1039,
     "symptomless": 113,
     "symptomConfirming": 8,
@@ -737,7 +737,7 @@
   {
     "date": 20200326,
     "pcr": 22858,
-    "positive": 2017,
+    "positive": 2016,
     "symptom": 1119,
     "symptomless": 127,
     "symptomConfirming": 7,
@@ -752,7 +752,7 @@
   {
     "date": 20200327,
     "pcr": 24663,
-    "positive": 2111,
+    "positive": 2110,
     "symptom": 1191,
     "symptomless": 131,
     "symptomConfirming": 27,
@@ -767,7 +767,7 @@
   {
     "date": 20200328,
     "pcr": 26105,
-    "positive": 2235,
+    "positive": 2234,
     "symptom": 1251,
     "symptomless": 134,
     "symptomConfirming": 68,
@@ -782,7 +782,7 @@
   {
     "date": 20200329,
     "pcr": 26401,
-    "positive": 2434,
+    "positive": 2433,
     "symptom": 1352,
     "symptomless": 162,
     "symptomConfirming": 133,
@@ -797,7 +797,7 @@
   {
     "date": 20200330,
     "pcr": 26607,
-    "positive": 2603,
+    "positive": 2602,
     "symptom": 1420,
     "symptomless": 190,
     "symptomConfirming": 210,
@@ -812,7 +812,7 @@
   {
     "date": 20200331,
     "pcr": 30088,
-    "positive": 2697,
+    "positive": 2696,
     "symptom": 1466,
     "symptomless": 195,
     "symptomConfirming": 226,
@@ -827,7 +827,7 @@
   {
     "date": 20200401,
     "pcr": 32002,
-    "positive": 2939,
+    "positive": 2938,
     "symptom": 1594,
     "symptomless": 202,
     "symptomConfirming": 311,
@@ -842,7 +842,7 @@
   {
     "date": 20200402,
     "pcr": 32002,
-    "positive": 3205,
+    "positive": 3204,
     "symptom": 1693,
     "symptomless": 227,
     "symptomConfirming": 386,
@@ -857,7 +857,7 @@
   {
     "date": 20200403,
     "pcr": 36687,
-    "positive": 3482,
+    "positive": 3481,
     "symptom": 1808,
     "symptomless": 241,
     "symptomConfirming": 492,
@@ -872,7 +872,7 @@
   {
     "date": 20200404,
     "pcr": 39992,
-    "positive": 3836,
+    "positive": 3835,
     "symptom": 2017,
     "symptomless": 265,
     "symptomConfirming": 573,
@@ -887,7 +887,7 @@
   {
     "date": 20200405,
     "pcr": 40263,
-    "positive": 4202,
+    "positive": 4201,
     "symptom": 2205,
     "symptomless": 278,
     "symptomConfirming": 708,
@@ -902,7 +902,7 @@
   {
     "date": 20200406,
     "pcr": 40481,
-    "positive": 4561,
+    "positive": 4560,
     "symptom": 2395,
     "symptomless": 289,
     "symptomConfirming": 885,
@@ -917,7 +917,7 @@
   {
     "date": 20200407,
     "pcr": 48357,
-    "positive": 4802,
+    "positive": 4801,
     "symptom": 2551,
     "symptomless": 294,
     "symptomConfirming": 972,
@@ -932,7 +932,7 @@
   {
     "date": 20200408,
     "pcr": 52901,
-    "positive": 5162,
+    "positive": 5161,
     "symptom": 2771,
     "symptomless": 306,
     "symptomConfirming": 1091,
@@ -947,7 +947,7 @@
   {
     "date": 20200409,
     "pcr": 54284,
-    "positive": 5675,
+    "positive": 5674,
     "symptom": 3069,
     "symptomless": 335,
     "symptomConfirming": 1263,
@@ -962,7 +962,7 @@
   {
     "date": 20200410,
     "pcr": 57125,
-    "positive": 6250,
+    "positive": 6249,
     "symptom": 3445,
     "symptomless": 363,
     "symptomConfirming": 1438,
@@ -977,7 +977,7 @@
   {
     "date": 20200411,
     "pcr": 61991,
-    "positive": 6882,
+    "positive": 6881,
     "symptom": 3874,
     "symptomless": 387,
     "symptomConfirming": 1641,
@@ -992,7 +992,7 @@
   {
     "date": 20200412,
     "pcr": 63132,
-    "positive": 7601,
+    "positive": 7600,
     "symptom": 4257,
     "symptomless": 420,
     "symptomConfirming": 1939,
@@ -1007,7 +1007,7 @@
   {
     "date": 20200413,
     "pcr": 63132,
-    "positive": 8100,
+    "positive": 8099,
     "symptom": 4507,
     "symptomless": 444,
     "symptomConfirming": 2172,
@@ -1022,7 +1022,7 @@
   {
     "date": 20200414,
     "pcr": 72801,
-    "positive": 8394,
+    "positive": 8393,
     "symptom": 4749,
     "symptomless": 470,
     "symptomConfirming": 2290,
@@ -1037,7 +1037,7 @@
   {
     "date": 20200415,
     "pcr": 76425,
-    "positive": 8875,
+    "positive": 8874,
     "symptom": 4991,
     "symptomless": 490,
     "symptomConfirming": 2483,
@@ -1052,7 +1052,7 @@
   {
     "date": 20200416,
     "pcr": 81825,
-    "positive": 9421,
+    "positive": 9420,
     "symptom": 5309,
     "symptomless": 513,
     "symptomConfirming": 2620,
@@ -1067,7 +1067,7 @@
   {
     "date": 20200417,
     "pcr": 86800,
-    "positive": 9997,
+    "positive": 9996,
     "symptom": 5693,
     "symptomless": 539,
     "symptomConfirming": 2795,
@@ -1082,7 +1082,7 @@
   {
     "date": 20200418,
     "pcr": 91050,
-    "positive": 10548,
+    "positive": 10547,
     "symptom": 6011,
     "symptomless": 564,
     "symptomConfirming": 3079,
@@ -1097,7 +1097,7 @@
   {
     "date": 20200419,
     "pcr": 91695,
-    "positive": 11129,
+    "positive": 11128,
     "symptom": 6308,
     "symptomless": 588,
     "symptomConfirming": 3323,
@@ -1112,7 +1112,7 @@
   {
     "date": 20200420,
     "pcr": 94826,
-    "positive": 11503,
+    "positive": 11502,
     "symptom": 6611,
     "symptomless": 606,
     "symptomConfirming": 3391,
@@ -1127,7 +1127,7 @@
   {
     "date": 20200421,
     "pcr": 101818,
-    "positive": 11848,
+    "positive": 11847,
     "symptom": 6823,
     "symptomless": 634,
     "symptomConfirming": 3517,
@@ -1142,7 +1142,7 @@
   {
     "date": 20200422,
     "pcr": 107430,
-    "positive": 12239,
+    "positive": 12238,
     "symptom": 7050,
     "symptomless": 660,
     "symptomConfirming": 3640,
@@ -1157,7 +1157,7 @@
   {
     "date": 20200423,
     "pcr": 112108,
-    "positive": 12690,
+    "positive": 12689,
     "symptom": 7269,
     "symptomless": 677,
     "symptomConfirming": 3826,
@@ -1172,7 +1172,7 @@
   {
     "date": 20200424,
     "pcr": 117367,
-    "positive": 13126,
+    "positive": 13125,
     "symptom": 7531,
     "symptomless": 703,
     "symptomConfirming": 4006,
@@ -1187,7 +1187,7 @@
   {
     "date": 20200425,
     "pcr": 122700,
-    "positive": 13559,
+    "positive": 13558,
     "symptom": 7741,
     "symptomless": 718,
     "symptomConfirming": 4222,
@@ -1202,7 +1202,7 @@
   {
     "date": 20200426,
     "pcr": 123633,
-    "positive": 13927,
+    "positive": 13926,
     "symptom": 7895,
     "symptomless": 802,
     "symptomConfirming": 4334,
@@ -1217,7 +1217,7 @@
   {
     "date": 20200427,
     "pcr": 124456,
-    "positive": 14136,
+    "positive": 14135,
     "symptom": 8051,
     "symptomless": 833,
     "symptomConfirming": 4348,
@@ -1232,7 +1232,7 @@
   {
     "date": 20200428,
     "pcr": 133578,
-    "positive": 14308,
+    "positive": 14307,
     "symptom": 8177,
     "symptomless": 848,
     "symptomConfirming": 4397,
@@ -1247,7 +1247,7 @@
   {
     "date": 20200429,
     "pcr": 136695,
-    "positive": 14589,
+    "positive": 14588,
     "symptom": 8306,
     "symptomless": 864,
     "symptomConfirming": 4525,
@@ -1262,7 +1262,7 @@
   {
     "date": 20200430,
     "pcr": 137338,
-    "positive": 14811,
+    "positive": 14810,
     "symptom": 8469,
     "symptomless": 898,
     "symptomConfirming": 4562,
@@ -1277,7 +1277,7 @@
   {
     "date": 20200501,
     "pcr": 145243,
-    "positive": 14999,
+    "positive": 14998,
     "symptom": 8596,
     "symptomless": 916,
     "symptomConfirming": 4608,
@@ -1292,7 +1292,7 @@
   {
     "date": 20200502,
     "pcr": 152029,
-    "positive": 15264,
+    "positive": 15263,
     "symptom": 8683,
     "symptomless": 938,
     "symptomConfirming": 4762,
