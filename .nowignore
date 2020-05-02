@@ -6,3 +6,5 @@ tests
 README.ja.md
 README.md
 LICENSE
+debug.py
+run_script.py
