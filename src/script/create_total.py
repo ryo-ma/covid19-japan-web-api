@@ -18,7 +18,7 @@ def create_json_file():
     today_total = total_df.iloc[-1].fillna(0).astype(int).to_dict()
     history_total_df = total_df.fillna(0).astype(int)
 
-    # Replace the positive to a byDate.csv data
+    # Replace the positive field to a byDate.csv data
     today_case_total = case_df.fillna(0).sum(numeric_only=True).sum().astype(int)
     today_total['positive'] = int(today_case_total)
     for i, row in history_total_df.iterrows():
@@ -26,7 +26,7 @@ def create_json_file():
         case_count = case_df.fillna(0).sum(axis=1)[0:case_df.index.get_loc(date)].sum().astype(int)
         history_total_df.loc[i, 'positive'] = case_count
 
-    # Replace the death to a death.csv data
+    # Replace the death field to a death.csv data
     today_death_total = death_df.fillna(0).sum(numeric_only=True).sum().astype(int)
     today_total['death'] = int(today_death_total)
     for i, row in history_total_df.iterrows():
