@@ -1247,7 +1247,7 @@
   {
     "date": 20200429,
     "pcr": 136695,
-    "positive": 14590,
+    "positive": 14589,
     "symptom": 8306,
     "symptomless": 864,
     "symptomConfirming": 4525,
@@ -1262,7 +1262,7 @@
   {
     "date": 20200430,
     "pcr": 137338,
-    "positive": 14812,
+    "positive": 14811,
     "symptom": 8469,
     "symptomless": 898,
     "symptomConfirming": 4562,
@@ -1277,7 +1277,7 @@
   {
     "date": 20200501,
     "pcr": 145243,
-    "positive": 15000,
+    "positive": 14999,
     "symptom": 8596,
     "symptomless": 916,
     "symptomConfirming": 4608,
