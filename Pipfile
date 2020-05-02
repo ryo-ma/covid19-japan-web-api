@@ -7,11 +7,11 @@ verify_ssl = true
 pandas = "*"
 flake8 = "*"
 scipy = "*"
-flasgger = "*"
 
 [packages]
 flask = "*"
 flask-cors = "*"
+flasgger = "*"
 
 [requires]
 python_version = "3.6"
