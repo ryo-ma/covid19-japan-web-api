@@ -1531,5 +1531,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "610-502-420",
+    "announcement_date": "2020-05-02",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/383949.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "相馬市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "福島県75",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID070075",
+    "diagnosis_date": "2020/04/20",
+    "onset": "2020/05/02",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -3106,5 +3106,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "711-501-502関市",
+    "announcement_date": "2020-05-02",
+    "src": "https://www.pref.gifu.lg.jp/kinkyu-juyo-joho/shingata_corona_kansendoko.data/0502_kanjya_kisyasiryou.pdf",
+    "prefecture": "岐阜県",
+    "residence_prefecture": "関市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "岐阜県150",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID210150",
+    "diagnosis_date": "2020/05/02",
+    "onset": "2020/05/01",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

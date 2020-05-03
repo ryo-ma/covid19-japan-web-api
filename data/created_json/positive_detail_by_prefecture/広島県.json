@@ -3316,5 +3316,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "423-000-501広島市",
+    "announcement_date": "2020-05-02",
+    "src": "https://www.city.hiroshima.lg.jp/uploaded/attachment/114456.pdf",
+    "prefecture": "広島県",
+    "residence_prefecture": "広島市",
+    "age": "40代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "広島県160",
+    "travel_or_contact": "クラスター",
+    "detail": "社会福祉施設（見真学園）",
+    "id": "ID340160",
+    "diagnosis_date": "2020/05/01",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
