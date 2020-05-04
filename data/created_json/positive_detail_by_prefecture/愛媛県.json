@@ -964,5 +964,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "523-000-502県内",
+    "announcement_date": "2020-05-03",
+    "src": "https://www.pref.ehime.jp/h25500/kansen/documents/puresu48.pdf",
+    "prefecture": "愛媛県",
+    "residence_prefecture": "県内",
+    "age": "50代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "愛媛県48",
+    "travel_or_contact": "クラスター",
+    "detail": "葬儀",
+    "id": "ID380048",
+    "diagnosis_date": "2020/05/02",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

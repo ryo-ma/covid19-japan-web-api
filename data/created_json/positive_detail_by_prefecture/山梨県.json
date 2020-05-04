@@ -1132,5 +1132,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "211-???-503県内",
+    "announcement_date": "2020-05-03",
+    "src": "https://www.pref.yamanashi.jp/koucho/coronavirus/documents/200503korona56.pdf",
+    "prefecture": "山梨県",
+    "residence_prefecture": "県内",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山梨県56",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID190056",
+    "diagnosis_date": "2020/05/03",
+    "onset": "不明",
+    "symptom": "不明",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

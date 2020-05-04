@@ -691,5 +691,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "710-426-503光市",
+    "announcement_date": "2020-05-03",
+    "src": "https://www.pref.yamaguchi.lg.jp/cms/a15200/kansensyou/202004240001.html",
+    "prefecture": "山口県",
+    "residence_prefecture": "光市",
+    "age": "70代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山口県35",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID350035",
+    "diagnosis_date": "2020/05/03",
+    "onset": "2020/04/26",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
