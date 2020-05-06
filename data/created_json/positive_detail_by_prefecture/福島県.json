@@ -1615,5 +1615,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "020-000-505田村市",
+    "announcement_date": "2020-05-05",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/383982.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "田村市",
+    "age": "00代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "福島県79",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID070079",
+    "diagnosis_date": "2020/05/05",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

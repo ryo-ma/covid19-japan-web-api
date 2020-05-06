@@ -901,5 +901,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "921-000-504白石町",
+    "announcement_date": "2020-05-04",
+    "src": "https://www.pref.saga.lg.jp/kiji00373220/3_73220_167843_up_hesncgbs.pdf",
+    "prefecture": "佐賀県",
+    "residence_prefecture": "白石町",
+    "age": "90代",
+    "gender": "女性",
+    "attribute": "",
+    "prefecture_number": "佐賀県45",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID410045",
+    "diagnosis_date": "2020/05/04",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

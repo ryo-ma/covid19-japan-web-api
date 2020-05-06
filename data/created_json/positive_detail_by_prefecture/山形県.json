@@ -1405,5 +1405,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "811-426-///大蔵村",
+    "announcement_date": "2020-05-04",
+    "src": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/69reime.pdf",
+    "prefecture": "山形県",
+    "residence_prefecture": "大蔵村",
+    "age": "80代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "山形県69",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID060069",
+    "diagnosis_date": "不明",
+    "onset": "2020/04/26",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

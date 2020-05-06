@@ -1804,5 +1804,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "211-000-505大和郡山市",
+    "announcement_date": "2020-05-05",
+    "src": "http://www.pref.nara.jp/secure/227756/0505houdou2.pdf",
+    "prefecture": "奈良県",
+    "residence_prefecture": "大和郡山市",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "奈良県88",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID290088",
+    "diagnosis_date": "2020/05/05",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]
