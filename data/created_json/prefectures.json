@@ -160,8 +160,8 @@
       "deaths_date": 20200507,
       "pcr_date": 202055
     },
-    "cases": 917,
-    "deaths": 40,
+    "cases": 919,
+    "deaths": 41,
     "pcr": 9324
   },
   {
@@ -175,8 +175,8 @@
       "deaths_date": 20200507,
       "pcr_date": 202051
     },
-    "cases": 863,
-    "deaths": 37,
+    "cases": 867,
+    "deaths": 38,
     "pcr": 7603
   },
   {
@@ -190,7 +190,7 @@
       "deaths_date": 20200507,
       "pcr_date": 2020429
     },
-    "cases": 4748,
+    "cases": 4771,
     "deaths": 155,
     "pcr": 27873
   },
@@ -205,7 +205,7 @@
       "deaths_date": 20200507,
       "pcr_date": 202051
     },
-    "cases": 1133,
+    "cases": 1141,
     "deaths": 47,
     "pcr": 7703
   },
@@ -235,7 +235,7 @@
       "deaths_date": 20200507,
       "pcr_date": 202051
     },
-    "cases": 216,
+    "cases": 217,
     "deaths": 13,
     "pcr": 2392
   },
@@ -250,7 +250,7 @@
       "deaths_date": 20200507,
       "pcr_date": 202055
     },
-    "cases": 271,
+    "cases": 275,
     "deaths": 16,
     "pcr": 2101
   },
@@ -400,8 +400,8 @@
       "deaths_date": 20200507,
       "pcr_date": 202055
     },
-    "cases": 1698,
-    "deaths": 56,
+    "cases": 1706,
+    "deaths": 59,
     "pcr": 13285
   },
   {
@@ -595,7 +595,7 @@
       "deaths_date": 20200507,
       "pcr_date": 202054
     },
-    "cases": 649,
+    "cases": 650,
     "deaths": 24,
     "pcr": 9892
   },
