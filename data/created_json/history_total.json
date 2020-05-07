@@ -1363,5 +1363,20 @@
     "waiting": 260,
     "discharge": 3077,
     "death": 579
+  },
+  {
+    "date": 20200507,
+    "pcr": 157563,
+    "positive": 16167,
+    "symptom": 9154,
+    "symptomless": 1012,
+    "symptomConfirming": 5134,
+    "hospitalize": 11639,
+    "mild": 5287,
+    "severe": 300,
+    "confirming": 650,
+    "waiting": 267,
+    "discharge": 3272,
+    "death": 590
   }
 ]

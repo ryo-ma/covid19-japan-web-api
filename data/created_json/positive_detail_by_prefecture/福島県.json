@@ -1636,5 +1636,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "610-///-506郡山市",
+    "announcement_date": "2020-05-06",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/383999.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "郡山市",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "福島県80",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID070080",
+    "diagnosis_date": "2020/05/06",
+    "onset": "不詳",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

@@ -1489,5 +1489,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "511-504-506上田市",
+    "announcement_date": "2020-05-06",
+    "src": "https://www.pref.nagano.lg.jp/hoken-shippei/happyou/covid19/press20200506.html",
+    "prefecture": "長野県",
+    "residence_prefecture": "上田市",
+    "age": "50代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "長野県73",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID200073",
+    "diagnosis_date": "2020/05/06",
+    "onset": "2020/05/04",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

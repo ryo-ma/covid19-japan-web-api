@@ -3043,5 +3043,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "610-502-506県外（栃木県）",
+    "announcement_date": "2020-05-06",
+    "src": "https://www.pref.gunma.jp/02/z87g_00015.html",
+    "prefecture": "群馬県",
+    "residence_prefecture": "県外（栃木県）",
+    "age": "60代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "群馬県147",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID100147",
+    "diagnosis_date": "2020/05/06",
+    "onset": "2020/05/02",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "死亡後陽性,基礎疾患あり",
+    "outcome": "2",
+    "outcome_src": ""
   }
 ]
