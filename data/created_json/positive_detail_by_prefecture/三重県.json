@@ -519,7 +519,7 @@
     "diagnosis_date": "2020/04/16",
     "onset": "2020/04/07",
     "symptom": "1",
-    "death_or_discharge_date": "",
+    "death_or_discharge_date": "4月15日",
     "comment": "死亡後陽性",
     "outcome": "2",
     "outcome_src": "https://www.pref.mie.lg.jp/YAKUMUS/HP/m0068000071_00053.htm"

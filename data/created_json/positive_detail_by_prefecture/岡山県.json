@@ -460,5 +460,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-422-508倉敷市",
+    "announcement_date": "2020-05-08",
+    "src": "https://www.pref.okayama.jp/uploaded/attachment/271013.pdf",
+    "prefecture": "岡山県",
+    "residence_prefecture": "倉敷市",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "岡山県24",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID330024",
+    "diagnosis_date": "2020/05/08",
+    "onset": "2020/04/22",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

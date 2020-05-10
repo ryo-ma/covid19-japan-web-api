@@ -1657,5 +1657,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "310-000-508県外（栃木県）",
+    "announcement_date": "2020-05-08",
+    "src": "https://www.pref.fukushima.lg.jp/uploaded/attachment/384398.pdf",
+    "prefecture": "福島県",
+    "residence_prefecture": "県外（栃木県）",
+    "age": "30代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "福島県81",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID070081",
+    "diagnosis_date": "2020/05/08",
+    "onset": "",
+    "symptom": "0",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

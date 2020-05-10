@@ -523,5 +523,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "411-501-507上十三管内",
+    "announcement_date": "2020-05-07",
+    "src": "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/200507press.pdf",
+    "prefecture": "青森県",
+    "residence_prefecture": "上十三管内",
+    "age": "40代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "青森県27",
+    "travel_or_contact": "接触歴",
+    "detail": "",
+    "id": "ID020027",
+    "diagnosis_date": "2020/05/07",
+    "onset": "2020/05/01",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

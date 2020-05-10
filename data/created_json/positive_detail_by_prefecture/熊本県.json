@@ -964,5 +964,26 @@
     "comment": "",
     "outcome": "",
     "outcome_src": ""
+  },
+  {
+    "code": "210-503-508熊本市東区",
+    "announcement_date": "2020-05-08",
+    "src": "https://www.city.kumamoto.jp/common/UploadFileDsp.aspx?c_id=5&id=27681&sub_id=50&flid=204765",
+    "prefecture": "熊本県",
+    "residence_prefecture": "熊本市東区",
+    "age": "20代",
+    "gender": "男性",
+    "attribute": "",
+    "prefecture_number": "熊本県48",
+    "travel_or_contact": "",
+    "detail": "",
+    "id": "ID430048",
+    "diagnosis_date": "2020/05/08",
+    "onset": "2020/05/03",
+    "symptom": "1",
+    "death_or_discharge_date": "",
+    "comment": "",
+    "outcome": "",
+    "outcome_src": ""
   }
 ]

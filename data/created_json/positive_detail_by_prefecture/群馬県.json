@@ -3060,7 +3060,7 @@
     "diagnosis_date": "2020/05/06",
     "onset": "2020/05/02",
     "symptom": "1",
-    "death_or_discharge_date": "",
+    "death_or_discharge_date": "5月5日",
     "comment": "死亡後陽性,基礎疾患あり",
     "outcome": "2",
     "outcome_src": ""
