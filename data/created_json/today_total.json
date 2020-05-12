@@ -1,7 +1,7 @@
 {
   "date": 20200508,
   "pcr": 169546,
-  "positive": 16653,
+  "positive": 16731,
   "symptom": 9224,
   "symptomless": 1024,
   "symptomConfirming": 5134,
@@ -11,5 +11,5 @@
   "confirming": 621,
   "waiting": 270,
   "discharge": 3693,
-  "death": 672
+  "death": 683
 }

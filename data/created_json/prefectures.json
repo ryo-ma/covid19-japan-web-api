@@ -5,13 +5,14 @@
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
+    "population": 5248552.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
-    "cases": 957,
-    "deaths": 62,
+    "cases": 970,
+    "deaths": 68,
     "pcr": 8676
   },
   {
@@ -20,6 +21,7 @@
     "name_en": "Aomori",
     "lat": 40.78027778,
     "lng": 140.83194440000003,
+    "population": 1246138.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -35,6 +37,7 @@
     "name_en": "Iwate",
     "lat": 39.59138889,
     "lng": 141.3625,
+    "population": 1226430.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -50,6 +53,7 @@
     "name_en": "Miyagi",
     "lat": 38.44555556,
     "lng": 140.9280556,
+    "population": 2303160.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -65,6 +69,7 @@
     "name_en": "Akita",
     "lat": 39.7475,
     "lng": 140.4086111,
+    "population": 965968.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -80,6 +85,7 @@
     "name_en": "Yamagata",
     "lat": 38.44638889,
     "lng": 140.1027778,
+    "population": 1077057.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -95,6 +101,7 @@
     "name_en": "Fukushima",
     "lat": 37.37888889,
     "lng": 140.22527780000001,
+    "population": 1847950.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -110,6 +117,7 @@
     "name_en": "Ibaraki",
     "lat": 36.30638889,
     "lng": 140.3186111,
+    "population": 2868041.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -125,6 +133,7 @@
     "name_en": "Tochigi",
     "lat": 36.68916667,
     "lng": 139.81916669999998,
+    "population": 1942312.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -140,6 +149,7 @@
     "name_en": "Gunma",
     "lat": 36.50388889,
     "lng": 138.9852778,
+    "population": 1937626.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -155,6 +165,7 @@
     "name_en": "Saitama",
     "lat": 35.99666667,
     "lng": 139.34777780000002,
+    "population": 7337330.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -170,12 +181,13 @@
     "name_en": "Chiba",
     "lat": 35.51277778,
     "lng": 140.2038889,
+    "population": 6279026.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202057
     },
-    "cases": 877,
+    "cases": 880,
     "deaths": 40,
     "pcr": 8537
   },
@@ -185,12 +197,13 @@
     "name_en": "Tokyo",
     "lat": 35.702313700000005,
     "lng": 139.5803228,
+    "population": 13942856.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202057
     },
-    "cases": 4959,
+    "cases": 4987,
     "deaths": 189,
     "pcr": 31231
   },
@@ -200,13 +213,14 @@
     "name_en": "Kanagawa",
     "lat": 35.41416667,
     "lng": 139.34027780000002,
+    "population": 9200166.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202057
     },
-    "cases": 1175,
-    "deaths": 57,
+    "cases": 1190,
+    "deaths": 59,
     "pcr": 8614
   },
   {
@@ -215,6 +229,7 @@
     "name_en": "Niigata",
     "lat": 37.51888889,
     "lng": 138.91722219999997,
+    "population": 2222004.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -230,12 +245,13 @@
     "name_en": "Toyama",
     "lat": 36.63611111,
     "lng": 137.2680556,
+    "population": 1042998.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202057
     },
-    "cases": 221,
+    "cases": 222,
     "deaths": 16,
     "pcr": 2709
   },
@@ -245,13 +261,14 @@
     "name_en": "Ishikawa",
     "lat": 36.76583333,
     "lng": 136.7713889,
+    "population": 1137181.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202058
     },
-    "cases": 280,
-    "deaths": 17,
+    "cases": 283,
+    "deaths": 19,
     "pcr": 2207
   },
   {
@@ -260,6 +277,7 @@
     "name_en": "Fukui",
     "lat": 35.84666667,
     "lng": 136.22722219999997,
+    "population": 767742.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -275,6 +293,7 @@
     "name_en": "Yamanashi",
     "lat": 35.61222222,
     "lng": 138.6116667,
+    "population": 812056.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -290,6 +309,7 @@
     "name_en": "Nagano",
     "lat": 36.13,
     "lng": 138.04388889999998,
+    "population": 2049023.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -305,6 +325,7 @@
     "name_en": "Gifu",
     "lat": 35.7775,
     "lng": 137.055,
+    "population": 1988931.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -320,6 +341,7 @@
     "name_en": "Shizuoka",
     "lat": 35.01694444,
     "lng": 138.33,
+    "population": 3639226.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -335,12 +357,13 @@
     "name_en": "Aichi",
     "lat": 35.03444444,
     "lng": 137.215,
+    "population": 7552873.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
-    "cases": 497,
+    "cases": 498,
     "deaths": 34,
     "pcr": 8133
   },
@@ -350,6 +373,7 @@
     "name_en": "Mie",
     "lat": 34.51361111,
     "lng": 136.3813889,
+    "population": 1779770.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -365,6 +389,7 @@
     "name_en": "Shiga",
     "lat": 35.21527778,
     "lng": 136.13805559999997,
+    "population": 1413959.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -380,12 +405,13 @@
     "name_en": "Kyoto",
     "lat": 35.25194444,
     "lng": 135.4458333,
+    "population": 2583140.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202057
     },
-    "cases": 352,
+    "cases": 356,
     "deaths": 13,
     "pcr": 5267
   },
@@ -395,12 +421,13 @@
     "name_en": "Osaka",
     "lat": 34.62277778,
     "lng": 135.5111111,
+    "population": 8823453.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
-    "cases": 1744,
+    "cases": 1750,
     "deaths": 61,
     "pcr": 14831
   },
@@ -410,13 +437,14 @@
     "name_en": "Hyogo",
     "lat": 35.03694444,
     "lng": 134.8286111,
+    "population": 5463609.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
     "cases": 694,
-    "deaths": 34,
+    "deaths": 35,
     "pcr": 9091
   },
   {
@@ -425,6 +453,7 @@
     "name_en": "Nara",
     "lat": 34.31555556,
     "lng": 135.8713889,
+    "population": 1331330.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -440,12 +469,13 @@
     "name_en": "Wakayama",
     "lat": 33.90944444,
     "lng": 135.5133333,
+    "population": 923721.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
-    "cases": 62,
+    "cases": 63,
     "deaths": 3,
     "pcr": 3364
   },
@@ -455,6 +485,7 @@
     "name_en": "Tottori",
     "lat": 35.36055556,
     "lng": 133.8516667,
+    "population": 555663.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -470,6 +501,7 @@
     "name_en": "Shimane",
     "lat": 35.07305556,
     "lng": 132.55944440000002,
+    "population": 673891.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -485,6 +517,7 @@
     "name_en": "Okayama",
     "lat": 34.90083333,
     "lng": 133.8152778,
+    "population": 1891346.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -500,6 +533,7 @@
     "name_en": "Hiroshima",
     "lat": 34.60361111,
     "lng": 132.7875,
+    "population": 2807987.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -515,6 +549,7 @@
     "name_en": "Yamaguchi",
     "lat": 34.19861111,
     "lng": 131.575,
+    "population": 1355495.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -530,6 +565,7 @@
     "name_en": "Tokushima",
     "lat": 33.91805556,
     "lng": 134.2430556,
+    "population": 728633.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -545,6 +581,7 @@
     "name_en": "Kagawa",
     "lat": 34.24305556,
     "lng": 133.99666670000002,
+    "population": 956069.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -560,6 +597,7 @@
     "name_en": "Ehime",
     "lat": 33.62194444,
     "lng": 132.8558333,
+    "population": 1338811.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -575,6 +613,7 @@
     "name_en": "Kōchi",
     "lat": 33.42111111,
     "lng": 133.36666670000002,
+    "population": 697674.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -590,12 +629,13 @@
     "name_en": "Fukuoka",
     "lat": 33.5225,
     "lng": 130.66805559999997,
+    "population": 5110113.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
       "pcr_date": 202059
     },
-    "cases": 653,
+    "cases": 654,
     "deaths": 24,
     "pcr": 10408
   },
@@ -605,6 +645,7 @@
     "name_en": "Saga",
     "lat": 33.28527778,
     "lng": 130.11694440000002,
+    "population": 814211.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -620,6 +661,7 @@
     "name_en": "Nagasaki",
     "lat": 33.2275,
     "lng": 129.61416670000003,
+    "population": 1325205.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -635,6 +677,7 @@
     "name_en": "Kumamoto",
     "lat": 32.615,
     "lng": 130.7563889,
+    "population": 1746740.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -650,6 +693,7 @@
     "name_en": "Oita",
     "lat": 33.19916667,
     "lng": 131.43416670000002,
+    "population": 1134431.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -665,6 +709,7 @@
     "name_en": "Miyazaki",
     "lat": 32.19083333,
     "lng": 131.3005556,
+    "population": 1072077.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -680,6 +725,7 @@
     "name_en": "Kagoshima",
     "lat": 31.01277778,
     "lng": 130.4241667,
+    "population": 1599984.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
@@ -695,6 +741,7 @@
     "name_en": "Okinawa",
     "lat": 25.77111111,
     "lng": 126.64,
+    "population": 1454184.0,
     "last_updated": {
       "cases_date": 20200512,
       "deaths_date": 20200512,
