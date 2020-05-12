@@ -35,6 +35,7 @@ def create_json_file():
                                 'name_en': prefecture_df['name-en'],
                                 'lat': float(prefecture_df['lat']),
                                 'lng': float(prefecture_df['lng']),
+                                'population': float(prefecture_df['pop']),
                                 'last_updated': last_updated,
                                 'cases': int(cases_df_sum[prefecture]),
                                 'deaths': int(deaths_df_sum[prefecture]),
