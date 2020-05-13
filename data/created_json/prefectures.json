@@ -11,8 +11,8 @@
       "deaths_date": 20200513,
       "pcr_date": 202059
     },
-    "cases": 970,
-    "deaths": 68,
+    "cases": 971,
+    "deaths": 69,
     "pcr": 8676
   },
   {
@@ -443,7 +443,7 @@
       "deaths_date": 20200513,
       "pcr_date": 202059
     },
-    "cases": 694,
+    "cases": 697,
     "deaths": 35,
     "pcr": 9091
   },
