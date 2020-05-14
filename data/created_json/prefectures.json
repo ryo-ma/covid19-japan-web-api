@@ -332,7 +332,7 @@
       "pcr_date": 202059
     },
     "cases": 150,
-    "deaths": 6,
+    "deaths": 7,
     "pcr": 2890
   },
   {
@@ -603,7 +603,7 @@
       "deaths_date": 20200514,
       "pcr_date": 202057
     },
-    "cases": 51,
+    "cases": 68,
     "deaths": 3,
     "pcr": 1238
   },
