@@ -3,42 +3,47 @@ import numpy as np
 from scipy.optimize import curve_fit
 import json
 import datetime
-from ..const import (DOMESTIC_DAILY_REPORT_DATA_PATH, TODAY_TOTAL_JSON_PATH, DEATHS_DATA_PATH,
-                     CASES_DATA_PATH, HISTORY_TOTAL_JSON_PATH, PREDICTION_TOTAL_JSON_PATH)
+from ..const import (SUMMARY_DATA_PATH, TODAY_TOTAL_JSON_PATH,
+                     HISTORY_TOTAL_JSON_PATH, PREDICTION_TOTAL_JSON_PATH)
 
 # Incubation period + Onset period
 DAY_RANGE = 28
 PREDICTION_DAYS = 30
 
 
+def create_total_dict(df, date):
+    if len(df.loc[date].shape) > 1:
+        summary = df.loc[date].sum().fillna(0)
+    else:
+        summary = df.loc[date].fillna(0)
+
+    total = {
+        'date': int(date),
+        'pcr': int(summary['検査人数']),
+        'hospitalize': int(summary['入院中']),
+        'positive': int(summary['陽性者']),
+        'severe': int(summary['重症者']),
+        'discharge': int(summary['退院者']),
+        'death': int(summary['死亡者']),
+        'symptomConfirming': int(summary['確認中']),
+    }
+    return total
+
+
 def create_json_file():
-    total_df = pd.read_csv(DOMESTIC_DAILY_REPORT_DATA_PATH, na_values='0', encoding='utf-8')
-    death_df = pd.read_csv(DEATHS_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
-    case_df = pd.read_csv(CASES_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
-    today_total = total_df.iloc[-1].fillna(0).astype(int).to_dict()
-    history_total_df = total_df.fillna(0).astype(int)
+    summary_df = pd.read_csv(SUMMARY_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
+    today = summary_df.index.max()
+    output_total(TODAY_TOTAL_JSON_PATH, create_total_dict(summary_df, today))
 
-    # Replace the positive field to a byDate.csv data
-    today_case_total = case_df.fillna(0).sum(numeric_only=True).sum().astype(int)
-    today_total['positive'] = int(today_case_total)
-    for i, row in history_total_df.iterrows():
-        date = row['date']
-        case_count = case_df.fillna(0).sum(axis=1)[0:case_df.index.get_loc(date)].sum().astype(int)
-        history_total_df.loc[i, 'positive'] = case_count
+    history_total_list = []
+    for date in summary_df.index.drop_duplicates().values:
+        history_total_list.append(create_total_dict(summary_df, date))
+    output_total(HISTORY_TOTAL_JSON_PATH, history_total_list)
 
-    # Replace the death field to a death.csv data
-    today_death_total = death_df.fillna(0).sum(numeric_only=True).sum().astype(int)
-    today_total['death'] = int(today_death_total)
-    for i, row in history_total_df.iterrows():
-        date = row['date']
-        death_count = death_df.fillna(0).sum(axis=1)[0:death_df.index.get_loc(date)].sum().astype(int)
-        history_total_df.loc[i, 'death'] = death_count
-
-    positive_param, _ = predict(history_total_df['positive'].array)
-    death_param, _ = predict(history_total_df['death'].array)
+    positive_param, _ = predict([x['positive'] for x in history_total_list])
+    death_param, _ = predict([x['death'] for x in history_total_list])
     predicted_totals = []
-    latest_date = str(history_total_df['date'].max())
-    parsed_date = datetime.date(int(latest_date[:4]), int(latest_date[4:6]), int(latest_date[6:8]))
+    parsed_date = datetime.date(int(str(today)[:4]), int(str(today)[4:6]), int(str(today)[6:8]))
     for i, x in enumerate(range(DAY_RANGE + 1, DAY_RANGE + PREDICTION_DAYS), 1):
         date = parsed_date + datetime.timedelta(days=i)
         positive_prediction = nonlinear_func(x, positive_param[0], positive_param[1])
@@ -48,9 +53,6 @@ def create_json_file():
             'positive': positive_prediction,
             'death': death_prediction,
         })
-
-    output_total(TODAY_TOTAL_JSON_PATH, today_total)
-    output_total(HISTORY_TOTAL_JSON_PATH, history_total_df.to_dict(orient='records'))
     output_total(PREDICTION_TOTAL_JSON_PATH, predicted_totals)
 
 

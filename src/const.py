@@ -18,6 +18,7 @@ PREFECTURES_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'prefectures.csv')
 CASES_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'byDate.csv')
 DEATHS_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'death.csv')
 PCR_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'provincePCR.csv')
+SUMMARY_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'MHLW/summary.csv')
 
 PREFECTURES = textwrap.dedent('''\
 北海道,青森県,岩手県,宮城県,秋田県,山形県,福島県,茨城県,栃木県,群馬県,埼玉県,千葉県,東京都,神奈川県,新潟県,富山県,\
