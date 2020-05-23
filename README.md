@@ -107,6 +107,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 ## Total
 
+**※ 2020/05/24 We have updated the response structure. Please make sure of the response.**
+
 This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total](https://covid19-japan-web-api.now.sh/api/v1/total)
@@ -116,19 +118,14 @@ This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
 ```json
 {
-  "date": 20200329,
-  "pcr": 26401,
-  "positive": 1647,
-  "symptom": 1352,
-  "symptomless": 162,
-  "symptomConfirming": 133,
-  "hospitalize": 1187,
-  "mild": 659,
-  "severe": 59,
-  "confirming": 323,
-  "waiting": 13,
-  "discharge": 408,
-  "death": 52
+  "date": 20200523,
+  "pcr": 272095,
+  "hospitalize": 2450,
+  "positive": 17248,
+  "severe": 178,
+  "discharge": 13895,
+  "death": 821,
+  "symptomConfirming": 40
 }
 ```
 
@@ -138,6 +135,8 @@ This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
 ## Total History
 
+**※ 2020/05/24 We have updated the response structure. Please make sure of the response.**
+
 This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/total?history=true](https://covid19-japan-web-api.now.sh/api/v1/total?history=true)
@@ -146,38 +145,38 @@ This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 <summary><b>Response</b></summary>
 
 ```json
-[
-  {
-    "date": 20200206,
-    "pcr": 132,
-    "positive": 16,
-    "symptom": 16,
-    "symptomless": 0,
-    "symptomConfirming": 0,
-    "hospitalize": 9,
-    "mild": 0,
-    "severe": 0,
-    "confirming": 3,
-    "waiting": 0,
-    "discharge": 4,
-    "death": 0
-  },
-  {
-    "date": 20200207,
-    "pcr": 151,
-    "positive": 16,
-    "symptom": 16,
-    "symptomless": 0,
-    "symptomConfirming": 0,
-    "hospitalize": 12,
-    "mild": 0,
-    "severe": 0,
-    "confirming": 0,
-    "waiting": 0,
-    "discharge": 4,
-    "death": 0
-  },
 ...
+  {
+    "date": 20200521,
+    "pcr": 265190,
+    "hospitalize": 2917,
+    "positive": 17136,
+    "severe": 199,
+    "discharge": 13323,
+    "death": 790,
+    "symptomConfirming": 64
+  },
+  {
+    "date": 20200522,
+    "pcr": 269120,
+    "hospitalize": 2652,
+    "positive": 17225,
+    "severe": 180,
+    "discharge": 13656,
+    "death": 809,
+    "symptomConfirming": 66
+  },
+  {
+    "date": 20200523,
+    "pcr": 272095,
+    "hospitalize": 2450,
+    "positive": 17248,
+    "severe": 178,
+    "discharge": 13895,
+    "death": 821,
+    "symptomConfirming": 40
+  }
+]
 ```
 
 </details>
