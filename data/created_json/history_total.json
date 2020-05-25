@@ -1102,10 +1102,10 @@
   {
     "date": 20200525,
     "pcr": 276306,
-    "hospitalize": 2268,
-    "positive": 17290,
+    "hospitalize": 2121,
+    "positive": 17293,
     "severe": 169,
-    "discharge": 14113,
+    "discharge": 14262,
     "death": 843,
     "symptomConfirming": 24
   }
