@@ -1104,9 +1104,19 @@
     "pcr": 276306,
     "hospitalize": 2121,
     "positive": 17293,
-    "severe": 169,
+    "severe": 166,
     "discharge": 14262,
     "death": 843,
+    "symptomConfirming": 24
+  },
+  {
+    "date": 20200526,
+    "pcr": 279788,
+    "hospitalize": 1950,
+    "positive": 17335,
+    "severe": 156,
+    "discharge": 14461,
+    "death": 859,
     "symptomConfirming": 24
   }
 ]
