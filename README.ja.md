@@ -197,7 +197,7 @@
 <!-- ## Total Prediction -->
 ## 今後の予測(Total Prediction)
 
-Predict  for the next 30 days about the positive total and the death total.
+<!--Predict  for the next 30 days about the positive total and the death total.-->
 機械学習に基づき、感染者および死亡者について次の30日間を予測します。
 
 <!-- This API includes the FLIGHT data and the SHIPMENT data. -->
