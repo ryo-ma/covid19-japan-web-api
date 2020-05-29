@@ -171,7 +171,7 @@
       "deaths_date": 20200529,
       "pcr_date": 202059
     },
-    "cases": 998,
+    "cases": 1000,
     "deaths": 48,
     "pcr": 11661
   },
@@ -204,7 +204,7 @@
       "pcr_date": 202057
     },
     "cases": 5217,
-    "deaths": 299,
+    "deaths": 302,
     "pcr": 31231
   },
   {
@@ -219,8 +219,8 @@
       "deaths_date": 20200529,
       "pcr_date": 202057
     },
-    "cases": 1351,
-    "deaths": 83,
+    "cases": 1355,
+    "deaths": 84,
     "pcr": 8614
   },
   {
@@ -267,7 +267,7 @@
       "deaths_date": 20200529,
       "pcr_date": 202058
     },
-    "cases": 297,
+    "cases": 298,
     "deaths": 24,
     "pcr": 2207
   },
