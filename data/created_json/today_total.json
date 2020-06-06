@@ -1,10 +1,10 @@
 {
-  "date": 20200605,
-  "pcr": 311080,
-  "hospitalize": 1178,
-  "positive": 17776,
-  "severe": 99,
-  "discharge": 15621,
-  "death": 920,
+  "date": 20200606,
+  "pcr": 315065,
+  "hospitalize": 1103,
+  "positive": 17815,
+  "severe": 100,
+  "discharge": 15728,
+  "death": 927,
   "symptomConfirming": 16
 }
