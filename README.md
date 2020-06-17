@@ -61,6 +61,8 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 ## Prefectures
 
+**※ 2020/06/18 We have updated the response structure. Please make sure of the response.**
+
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/prefectures](https://covid19-japan-web-api.now.sh/api/v1/prefectures)
 
 <details>
@@ -74,29 +76,23 @@ You can see the documentation of this API and/or import it as a Postman collecti
     "name_en": "Hokkaido",
     "lat": 43.46722222,
     "lng": 142.8277778,
+    "population": 5248552,
     "last_updated": {
-      "cases_date": 20200422,
-      "deaths_date": 20200422,
-      "pcr_date": 2020420
+      "cases_date": 20200617,
+      "deaths_date": 20200617,
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 468,
-    "deaths": 23,
-    "pcr": 4399
-  },
-  {
-    "id": 2,
-    "name_ja": "青森",
-    "name_en": "Aomori",
-    "lat": 40.78027778,
-    "lng": 140.83194440000003,
-    "last_updated": {
-      "cases_date": 20200422,
-      "deaths_date": 20200422,
-      "pcr_date": 2020420
-    },
-    "cases": 22,
-    "deaths": 0,
-    "pcr": 521
+    "cases": 1176,
+    "deaths": 91,
+    "pcr": 17875,
+    "hospitalize": 126,
+    "severe": 10,
+    "discharge": 959,
+    "symptom_confirming": 0
   },
 ...
 ```
@@ -107,7 +103,7 @@ You can see the documentation of this API and/or import it as a Postman collecti
 
 ## Total
 
-**※ 2020/05/24 We have updated the response structure. Please make sure of the response.**
+**※ 2020/06/18 We have updated the response structure. Please make sure of the response.**
 
 This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
@@ -125,7 +121,7 @@ This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
   "severe": 178,
   "discharge": 13895,
   "death": 821,
-  "symptomConfirming": 40
+  "symptom_confirming": 40
 }
 ```
 
