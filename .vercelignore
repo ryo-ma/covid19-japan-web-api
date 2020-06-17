@@ -3,8 +3,7 @@
 .gitignore
 .gitmodules
 tests
-data/2019-ncov-japan
-data/created_json
+data
 README.ja.md
 README.md
 LICENSE
