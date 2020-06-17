@@ -46,6 +46,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git status
         git add -f ./data
+        git add -f ./created_json
         git commit -m "Update data" || echo "Nothing to commit"
     - name: Push changes
       uses: ad-m/github-push-action@master
