@@ -2,6 +2,6 @@
   "version": 2,
   "builds":[{
           "src": "**/index.py",
-          "use":"@now/python@canary"}],
+          "use":"@vercel/python"}],
   "routes": [{ "src": "/.*", "dest": "/" }]
 }
