@@ -3,6 +3,7 @@ from flask import abort, Flask, Blueprint, jsonify, request
 from flask_cors import cross_origin
 from src.data_manager import DataManager
 from src.const import PREFECTURES
+from src.swagger_settings import set_config
 
 
 data_manager = DataManager()
@@ -97,3 +98,4 @@ def statistics():
 
 
 app.register_blueprint(apiv1)
+set_config(app)
