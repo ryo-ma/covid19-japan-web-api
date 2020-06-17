@@ -4,7 +4,7 @@
 .gitmodules
 tests
 data/2019-ncov-japan
-data/created_json/
+data/created_json
 README.ja.md
 README.md
 LICENSE
