@@ -25,7 +25,7 @@ def create_total_dict(df, date):
         'severe': int(summary['重症者']),
         'discharge': int(summary['退院者']),
         'death': int(summary['死亡者']),
-        'symptomConfirming': int(summary['確認中']),
+        'symptom_confirming': int(summary['確認中']),
     }
     return total
 
