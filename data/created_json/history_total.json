@@ -7,7 +7,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200206,
@@ -17,7 +17,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 2
+    "symptom_confirming": 2
   },
   {
     "date": 20200207,
@@ -27,7 +27,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 2
+    "symptom_confirming": 2
   },
   {
     "date": 20200208,
@@ -37,7 +37,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200209,
@@ -47,7 +47,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200210,
@@ -57,7 +57,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 3
+    "symptom_confirming": 3
   },
   {
     "date": 20200211,
@@ -67,7 +67,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200212,
@@ -77,7 +77,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200213,
@@ -87,7 +87,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200214,
@@ -97,7 +97,7 @@
     "severe": 0,
     "discharge": 1,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200215,
@@ -107,7 +107,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200216,
@@ -117,7 +117,7 @@
     "severe": 0,
     "discharge": 0,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200217,
@@ -127,7 +127,7 @@
     "severe": 0,
     "discharge": 5,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200218,
@@ -137,7 +137,7 @@
     "severe": 0,
     "discharge": 6,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200219,
@@ -147,7 +147,7 @@
     "severe": 0,
     "discharge": 6,
     "death": 0,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200220,
@@ -157,7 +157,7 @@
     "severe": 0,
     "discharge": 6,
     "death": 2,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200221,
@@ -167,7 +167,7 @@
     "severe": 0,
     "discharge": 7,
     "death": 2,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200222,
@@ -177,7 +177,7 @@
     "severe": 0,
     "discharge": 7,
     "death": 2,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200223,
@@ -187,7 +187,7 @@
     "severe": 0,
     "discharge": 7,
     "death": 3,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200224,
@@ -197,7 +197,7 @@
     "severe": 0,
     "discharge": 9,
     "death": 3,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200225,
@@ -207,7 +207,7 @@
     "severe": 0,
     "discharge": 9,
     "death": 4,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200226,
@@ -217,7 +217,7 @@
     "severe": 0,
     "discharge": 9,
     "death": 4,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200227,
@@ -227,7 +227,7 @@
     "severe": 0,
     "discharge": 10,
     "death": 4,
-    "symptomConfirming": 1
+    "symptom_confirming": 1
   },
   {
     "date": 20200228,
@@ -237,7 +237,7 @@
     "severe": 0,
     "discharge": 11,
     "death": 6,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200229,
@@ -247,7 +247,7 @@
     "severe": 0,
     "discharge": 11,
     "death": 6,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200301,
@@ -257,7 +257,7 @@
     "severe": 34,
     "discharge": 111,
     "death": 6,
-    "symptomConfirming": 525
+    "symptom_confirming": 525
   },
   {
     "date": 20200302,
@@ -267,7 +267,7 @@
     "severe": 0,
     "discharge": 11,
     "death": 6,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200303,
@@ -277,7 +277,7 @@
     "severe": 0,
     "discharge": 175,
     "death": 6,
-    "symptomConfirming": 0
+    "symptom_confirming": 0
   },
   {
     "date": 20200304,
@@ -287,7 +287,7 @@
     "severe": 35,
     "discharge": 192,
     "death": 6,
-    "symptomConfirming": 426
+    "symptom_confirming": 426
   },
   {
     "date": 20200305,
@@ -297,7 +297,7 @@
     "severe": 35,
     "discharge": 210,
     "death": 6,
-    "symptomConfirming": 416
+    "symptom_confirming": 416
   },
   {
     "date": 20200306,
@@ -307,7 +307,7 @@
     "severe": 34,
     "discharge": 255,
     "death": 7,
-    "symptomConfirming": 373
+    "symptom_confirming": 373
   },
   {
     "date": 20200307,
@@ -317,7 +317,7 @@
     "severe": 32,
     "discharge": 258,
     "death": 7,
-    "symptomConfirming": 372
+    "symptom_confirming": 372
   },
   {
     "date": 20200308,
@@ -327,7 +327,7 @@
     "severe": 29,
     "discharge": 258,
     "death": 7,
-    "symptomConfirming": 375
+    "symptom_confirming": 375
   },
   {
     "date": 20200309,
@@ -337,7 +337,7 @@
     "severe": 26,
     "discharge": 258,
     "death": 7,
-    "symptomConfirming": 378
+    "symptom_confirming": 378
   },
   {
     "date": 20200310,
@@ -347,7 +347,7 @@
     "severe": 24,
     "discharge": 338,
     "death": 7,
-    "symptomConfirming": 300
+    "symptom_confirming": 300
   },
   {
     "date": 20200311,
@@ -357,7 +357,7 @@
     "severe": 19,
     "discharge": 372,
     "death": 7,
-    "symptomConfirming": 273
+    "symptom_confirming": 273
   },
   {
     "date": 20200312,
@@ -367,7 +367,7 @@
     "severe": 15,
     "discharge": 403,
     "death": 7,
-    "symptomConfirming": 247
+    "symptom_confirming": 247
   },
   {
     "date": 20200313,
@@ -377,7 +377,7 @@
     "severe": 15,
     "discharge": 405,
     "death": 7,
-    "symptomConfirming": 245
+    "symptom_confirming": 245
   },
   {
     "date": 20200314,
@@ -387,7 +387,7 @@
     "severe": 15,
     "discharge": 471,
     "death": 7,
-    "symptomConfirming": 179
+    "symptom_confirming": 179
   },
   {
     "date": 20200315,
@@ -397,7 +397,7 @@
     "severe": 15,
     "discharge": 473,
     "death": 7,
-    "symptomConfirming": 192
+    "symptom_confirming": 192
   },
   {
     "date": 20200316,
@@ -407,7 +407,7 @@
     "severe": 15,
     "discharge": 473,
     "death": 7,
-    "symptomConfirming": 192
+    "symptom_confirming": 192
   },
   {
     "date": 20200317,
@@ -417,7 +417,7 @@
     "severe": 15,
     "discharge": 523,
     "death": 7,
-    "symptomConfirming": 142
+    "symptom_confirming": 142
   },
   {
     "date": 20200318,
@@ -427,7 +427,7 @@
     "severe": 15,
     "discharge": 542,
     "death": 7,
-    "symptomConfirming": 123
+    "symptom_confirming": 123
   },
   {
     "date": 20200319,
@@ -437,7 +437,7 @@
     "severe": 15,
     "discharge": 739,
     "death": 38,
-    "symptomConfirming": 99
+    "symptom_confirming": 99
   },
   {
     "date": 20200320,
@@ -447,7 +447,7 @@
     "severe": 13,
     "discharge": 764,
     "death": 40,
-    "symptomConfirming": 85
+    "symptom_confirming": 85
   },
   {
     "date": 20200321,
@@ -457,7 +457,7 @@
     "severe": 12,
     "discharge": 769,
     "death": 43,
-    "symptomConfirming": 85
+    "symptom_confirming": 85
   },
   {
     "date": 20200322,
@@ -467,7 +467,7 @@
     "severe": 12,
     "discharge": 813,
     "death": 44,
-    "symptomConfirming": 78
+    "symptom_confirming": 78
   },
   {
     "date": 20200323,
@@ -477,7 +477,7 @@
     "severe": 12,
     "discharge": 838,
     "death": 49,
-    "symptomConfirming": 65
+    "symptom_confirming": 65
   },
   {
     "date": 20200324,
@@ -487,7 +487,7 @@
     "severe": 11,
     "discharge": 858,
     "death": 52,
-    "symptomConfirming": 61
+    "symptom_confirming": 61
   },
   {
     "date": 20200325,
@@ -497,7 +497,7 @@
     "severe": 11,
     "discharge": 873,
     "death": 53,
-    "symptomConfirming": 54
+    "symptom_confirming": 54
   },
   {
     "date": 20200326,
@@ -507,7 +507,7 @@
     "severe": 11,
     "discharge": 925,
     "death": 55,
-    "symptomConfirming": 50
+    "symptom_confirming": 50
   },
   {
     "date": 20200327,
@@ -517,7 +517,7 @@
     "severe": 11,
     "discharge": 938,
     "death": 56,
-    "symptomConfirming": 48
+    "symptom_confirming": 48
   },
   {
     "date": 20200328,
@@ -527,7 +527,7 @@
     "severe": 11,
     "discharge": 968,
     "death": 55,
-    "symptomConfirming": 48
+    "symptom_confirming": 48
   },
   {
     "date": 20200329,
@@ -537,7 +537,7 @@
     "severe": 11,
     "discharge": 1027,
     "death": 62,
-    "symptomConfirming": 48
+    "symptom_confirming": 48
   },
   {
     "date": 20200330,
@@ -547,7 +547,7 @@
     "severe": 11,
     "discharge": 1027,
     "death": 64,
-    "symptomConfirming": 48
+    "symptom_confirming": 48
   },
   {
     "date": 20200331,
@@ -557,7 +557,7 @@
     "severe": 10,
     "discharge": 1043,
     "death": 67,
-    "symptomConfirming": 32
+    "symptom_confirming": 32
   },
   {
     "date": 20200401,
@@ -567,7 +567,7 @@
     "severe": 10,
     "discharge": 1091,
     "death": 68,
-    "symptomConfirming": 32
+    "symptom_confirming": 32
   },
   {
     "date": 20200402,
@@ -577,7 +577,7 @@
     "severe": 10,
     "discharge": 1124,
     "death": 71,
-    "symptomConfirming": 32
+    "symptom_confirming": 32
   },
   {
     "date": 20200403,
@@ -587,7 +587,7 @@
     "severe": 9,
     "discharge": 1133,
     "death": 74,
-    "symptomConfirming": 33
+    "symptom_confirming": 33
   },
   {
     "date": 20200404,
@@ -597,7 +597,7 @@
     "severe": 9,
     "discharge": 1133,
     "death": 74,
-    "symptomConfirming": 33
+    "symptom_confirming": 33
   },
   {
     "date": 20200405,
@@ -607,7 +607,7 @@
     "severe": 9,
     "discharge": 1203,
     "death": 81,
-    "symptomConfirming": 33
+    "symptom_confirming": 33
   },
   {
     "date": 20200406,
@@ -617,7 +617,7 @@
     "severe": 9,
     "discharge": 1211,
     "death": 84,
-    "symptomConfirming": 33
+    "symptom_confirming": 33
   },
   {
     "date": 20200407,
@@ -627,7 +627,7 @@
     "severe": 9,
     "discharge": 1242,
     "death": 91,
-    "symptomConfirming": 32
+    "symptom_confirming": 32
   },
   {
     "date": 20200408,
@@ -637,7 +637,7 @@
     "severe": 8,
     "discharge": 1270,
     "death": 92,
-    "symptomConfirming": 15
+    "symptom_confirming": 15
   },
   {
     "date": 20200409,
@@ -647,7 +647,7 @@
     "severe": 8,
     "discharge": 1323,
     "death": 96,
-    "symptomConfirming": 15
+    "symptom_confirming": 15
   },
   {
     "date": 20200410,
@@ -657,7 +657,7 @@
     "severe": 8,
     "discharge": 1353,
     "death": 99,
-    "symptomConfirming": 14
+    "symptom_confirming": 14
   },
   {
     "date": 20200411,
@@ -667,7 +667,7 @@
     "severe": 8,
     "discharge": 1406,
     "death": 106,
-    "symptomConfirming": 8
+    "symptom_confirming": 8
   },
   {
     "date": 20200412,
@@ -677,7 +677,7 @@
     "severe": 6,
     "discharge": 1428,
     "death": 110,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200413,
@@ -687,7 +687,7 @@
     "severe": 6,
     "discharge": 1443,
     "death": 114,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200414,
@@ -697,7 +697,7 @@
     "severe": 6,
     "discharge": 1497,
     "death": 121,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200415,
@@ -707,7 +707,7 @@
     "severe": 5,
     "discharge": 1546,
     "death": 131,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200416,
@@ -717,7 +717,7 @@
     "severe": 4,
     "discharge": 1580,
     "death": 149,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200417,
@@ -727,7 +727,7 @@
     "severe": 4,
     "discharge": 1657,
     "death": 161,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200418,
@@ -737,7 +737,7 @@
     "severe": 4,
     "discharge": 1713,
     "death": 167,
-    "symptomConfirming": 11
+    "symptom_confirming": 11
   },
   {
     "date": 20200419,
@@ -747,7 +747,7 @@
     "severe": 4,
     "discharge": 1803,
     "death": 174,
-    "symptomConfirming": 11
+    "symptom_confirming": 11
   },
   {
     "date": 20200420,
@@ -757,7 +757,7 @@
     "severe": 4,
     "discharge": 1884,
     "death": 184,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200421,
@@ -767,7 +767,7 @@
     "severe": 4,
     "discharge": 2001,
     "death": 199,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200422,
@@ -777,7 +777,7 @@
     "severe": 4,
     "discharge": 2069,
     "death": 216,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200423,
@@ -787,7 +787,7 @@
     "severe": 4,
     "discharge": 2139,
     "death": 226,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200424,
@@ -797,7 +797,7 @@
     "severe": 4,
     "discharge": 2201,
     "death": 245,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200425,
@@ -807,7 +807,7 @@
     "severe": 4,
     "discharge": 2299,
     "death": 260,
-    "symptomConfirming": 6
+    "symptom_confirming": 6
   },
   {
     "date": 20200426,
@@ -817,7 +817,7 @@
     "severe": 4,
     "discharge": 2400,
     "death": 264,
-    "symptomConfirming": 6
+    "symptom_confirming": 6
   },
   {
     "date": 20200427,
@@ -827,7 +827,7 @@
     "severe": 4,
     "discharge": 2470,
     "death": 266,
-    "symptomConfirming": 6
+    "symptom_confirming": 6
   },
   {
     "date": 20200428,
@@ -837,7 +837,7 @@
     "severe": 4,
     "discharge": 2571,
     "death": 280,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200429,
@@ -847,7 +847,7 @@
     "severe": 4,
     "discharge": 2659,
     "death": 290,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200430,
@@ -857,7 +857,7 @@
     "severe": 4,
     "discharge": 2724,
     "death": 301,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200501,
@@ -867,7 +867,7 @@
     "severe": 4,
     "discharge": 3058,
     "death": 319,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200502,
@@ -877,7 +877,7 @@
     "severe": 4,
     "discharge": 3179,
     "death": 327,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200503,
@@ -887,7 +887,7 @@
     "severe": 4,
     "discharge": 3294,
     "death": 340,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200504,
@@ -897,7 +897,7 @@
     "severe": 4,
     "discharge": 3385,
     "death": 368,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200505,
@@ -907,7 +907,7 @@
     "severe": 4,
     "discharge": 3435,
     "death": 382,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200506,
@@ -917,7 +917,7 @@
     "severe": 4,
     "discharge": 3745,
     "death": 397,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200507,
@@ -927,7 +927,7 @@
     "severe": 4,
     "discharge": 3940,
     "death": 403,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200508,
@@ -937,7 +937,7 @@
     "severe": 4,
     "discharge": 4361,
     "death": 416,
-    "symptomConfirming": 4
+    "symptom_confirming": 4
   },
   {
     "date": 20200509,
@@ -947,7 +947,7 @@
     "severe": 270,
     "discharge": 8778,
     "death": 613,
-    "symptomConfirming": 475
+    "symptom_confirming": 475
   },
   {
     "date": 20200510,
@@ -957,7 +957,7 @@
     "severe": 271,
     "discharge": 8944,
     "death": 626,
-    "symptomConfirming": 446
+    "symptom_confirming": 446
   },
   {
     "date": 20200511,
@@ -967,7 +967,7 @@
     "severe": 253,
     "discharge": 9182,
     "death": 634,
-    "symptomConfirming": 425
+    "symptom_confirming": 425
   },
   {
     "date": 20200512,
@@ -977,7 +977,7 @@
     "severe": 247,
     "discharge": 9571,
     "death": 656,
-    "symptomConfirming": 250
+    "symptom_confirming": 250
   },
   {
     "date": 20200513,
@@ -987,7 +987,7 @@
     "severe": 263,
     "discharge": 10519,
     "death": 681,
-    "symptomConfirming": 177
+    "symptom_confirming": 177
   },
   {
     "date": 20200514,
@@ -997,7 +997,7 @@
     "severe": 249,
     "discharge": 10989,
     "death": 700,
-    "symptomConfirming": 172
+    "symptom_confirming": 172
   },
   {
     "date": 20200515,
@@ -1007,7 +1007,7 @@
     "severe": 241,
     "discharge": 11462,
     "death": 723,
-    "symptomConfirming": 185
+    "symptom_confirming": 185
   },
   {
     "date": 20200516,
@@ -1017,7 +1017,7 @@
     "severe": 236,
     "discharge": 11806,
     "death": 738,
-    "symptomConfirming": 184
+    "symptom_confirming": 184
   },
   {
     "date": 20200517,
@@ -1027,7 +1027,7 @@
     "severe": 234,
     "discharge": 12068,
     "death": 757,
-    "symptomConfirming": 187
+    "symptom_confirming": 187
   },
   {
     "date": 20200518,
@@ -1037,7 +1037,7 @@
     "severe": 232,
     "discharge": 12217,
     "death": 762,
-    "symptomConfirming": 173
+    "symptom_confirming": 173
   },
   {
     "date": 20200519,
@@ -1047,7 +1047,7 @@
     "severe": 217,
     "discharge": 12536,
     "death": 776,
-    "symptomConfirming": 303
+    "symptom_confirming": 303
   },
   {
     "date": 20200520,
@@ -1057,7 +1057,7 @@
     "severe": 214,
     "discharge": 12938,
     "death": 784,
-    "symptomConfirming": 304
+    "symptom_confirming": 304
   },
   {
     "date": 20200521,
@@ -1067,7 +1067,7 @@
     "severe": 199,
     "discharge": 13323,
     "death": 790,
-    "symptomConfirming": 64
+    "symptom_confirming": 64
   },
   {
     "date": 20200522,
@@ -1077,7 +1077,7 @@
     "severe": 180,
     "discharge": 13656,
     "death": 809,
-    "symptomConfirming": 66
+    "symptom_confirming": 66
   },
   {
     "date": 20200523,
@@ -1087,7 +1087,7 @@
     "severe": 178,
     "discharge": 13895,
     "death": 821,
-    "symptomConfirming": 40
+    "symptom_confirming": 40
   },
   {
     "date": 20200524,
@@ -1097,7 +1097,7 @@
     "severe": 172,
     "discharge": 14064,
     "death": 833,
-    "symptomConfirming": 35
+    "symptom_confirming": 35
   },
   {
     "date": 20200525,
@@ -1107,7 +1107,7 @@
     "severe": 166,
     "discharge": 14262,
     "death": 843,
-    "symptomConfirming": 24
+    "symptom_confirming": 24
   },
   {
     "date": 20200526,
@@ -1117,7 +1117,7 @@
     "severe": 156,
     "discharge": 14461,
     "death": 859,
-    "symptomConfirming": 24
+    "symptom_confirming": 24
   },
   {
     "date": 20200527,
@@ -1127,7 +1127,7 @@
     "severe": 148,
     "discharge": 14623,
     "death": 871,
-    "symptomConfirming": 25
+    "symptom_confirming": 25
   },
   {
     "date": 20200528,
@@ -1137,7 +1137,7 @@
     "severe": 137,
     "discharge": 14797,
     "death": 880,
-    "symptomConfirming": 23
+    "symptom_confirming": 23
   },
   {
     "date": 20200529,
@@ -1147,7 +1147,7 @@
     "severe": 132,
     "discharge": 14904,
     "death": 887,
-    "symptomConfirming": 25
+    "symptom_confirming": 25
   },
   {
     "date": 20200530,
@@ -1157,7 +1157,7 @@
     "severe": 124,
     "discharge": 15056,
     "death": 899,
-    "symptomConfirming": 26
+    "symptom_confirming": 26
   },
   {
     "date": 20200531,
@@ -1167,7 +1167,7 @@
     "severe": 120,
     "discharge": 15109,
     "death": 904,
-    "symptomConfirming": 25
+    "symptom_confirming": 25
   },
   {
     "date": 20200601,
@@ -1177,7 +1177,7 @@
     "severe": 116,
     "discharge": 15152,
     "death": 905,
-    "symptomConfirming": 26
+    "symptom_confirming": 26
   },
   {
     "date": 20200602,
@@ -1187,7 +1187,7 @@
     "severe": 114,
     "discharge": 15300,
     "death": 907,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200603,
@@ -1197,7 +1197,7 @@
     "severe": 102,
     "discharge": 15420,
     "death": 913,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200604,
@@ -1207,7 +1207,7 @@
     "severe": 103,
     "discharge": 15516,
     "death": 916,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200605,
@@ -1217,7 +1217,7 @@
     "severe": 99,
     "discharge": 15621,
     "death": 920,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200606,
@@ -1227,7 +1227,7 @@
     "severe": 100,
     "discharge": 15728,
     "death": 927,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200607,
@@ -1237,7 +1237,7 @@
     "severe": 99,
     "discharge": 15786,
     "death": 929,
-    "symptomConfirming": 15
+    "symptom_confirming": 15
   },
   {
     "date": 20200608,
@@ -1247,7 +1247,7 @@
     "severe": 100,
     "discharge": 15795,
     "death": 929,
-    "symptomConfirming": 15
+    "symptom_confirming": 15
   },
   {
     "date": 20200609,
@@ -1257,7 +1257,7 @@
     "severe": 93,
     "discharge": 15863,
     "death": 929,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200610,
@@ -1267,7 +1267,7 @@
     "severe": 92,
     "discharge": 15949,
     "death": 932,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200611,
@@ -1277,7 +1277,7 @@
     "severe": 89,
     "discharge": 16034,
     "death": 933,
-    "symptomConfirming": 16
+    "symptom_confirming": 16
   },
   {
     "date": 20200612,
@@ -1287,7 +1287,7 @@
     "severe": 83,
     "discharge": 16144,
     "death": 935,
-    "symptomConfirming": 14
+    "symptom_confirming": 14
   },
   {
     "date": 20200613,
@@ -1297,7 +1297,7 @@
     "severe": 77,
     "discharge": 16231,
     "death": 937,
-    "symptomConfirming": 14
+    "symptom_confirming": 14
   },
   {
     "date": 20200614,
@@ -1307,7 +1307,7 @@
     "severe": 74,
     "discharge": 16294,
     "death": 938,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   },
   {
     "date": 20200615,
@@ -1317,7 +1317,7 @@
     "severe": 72,
     "discharge": 16337,
     "death": 938,
-    "symptomConfirming": 9
+    "symptom_confirming": 9
   },
   {
     "date": 20200616,
@@ -1327,7 +1327,7 @@
     "severe": 81,
     "discharge": 16352,
     "death": 940,
-    "symptomConfirming": 13
+    "symptom_confirming": 13
   },
   {
     "date": 20200617,
@@ -1337,6 +1337,6 @@
     "severe": 71,
     "discharge": 16501,
     "death": 944,
-    "symptomConfirming": 10
+    "symptom_confirming": 10
   }
 ]

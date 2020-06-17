@@ -9,11 +9,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 1167,
-    "deaths": 92,
-    "pcr": 8676
+    "cases": 1176,
+    "deaths": 91,
+    "pcr": 17875,
+    "hospitalize": 126,
+    "severe": 10,
+    "discharge": 959,
+    "symptom_confirming": 0
   },
   {
     "id": 2,
@@ -25,11 +33,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202058
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 27,
     "deaths": 1,
-    "pcr": 749
+    "pcr": 922,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 26,
+    "symptom_confirming": 0
   },
   {
     "id": 3,
@@ -41,11 +57,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 0,
     "deaths": 0,
-    "pcr": 417
+    "pcr": 799,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 0,
+    "symptom_confirming": 0
   },
   {
     "id": 4,
@@ -57,11 +81,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 88,
     "deaths": 1,
-    "pcr": 2282
+    "pcr": 3333,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 87,
+    "symptom_confirming": 0
   },
   {
     "id": 5,
@@ -73,11 +105,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 15,
+    "cases": 16,
     "deaths": 0,
-    "pcr": 880
+    "pcr": 968,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 16,
+    "symptom_confirming": 0
   },
   {
     "id": 6,
@@ -89,11 +129,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 69,
     "deaths": 0,
-    "pcr": 2449
+    "pcr": 2482,
+    "hospitalize": 1,
+    "severe": 1,
+    "discharge": 68,
+    "symptom_confirming": 0
   },
   {
     "id": 7,
@@ -105,11 +153,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 81,
     "deaths": 0,
-    "pcr": 2343
+    "pcr": 5699,
+    "hospitalize": 2,
+    "severe": 0,
+    "discharge": 79,
+    "symptom_confirming": 0
   },
   {
     "id": 8,
@@ -121,11 +177,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202056
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 168,
     "deaths": 10,
-    "pcr": 3826
+    "pcr": 5053,
+    "hospitalize": 3,
+    "severe": 0,
+    "discharge": 155,
+    "symptom_confirming": 0
   },
   {
     "id": 9,
@@ -137,11 +201,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 66,
     "deaths": 0,
-    "pcr": 2497
+    "pcr": 5523,
+    "hospitalize": 1,
+    "severe": 0,
+    "discharge": 65,
+    "symptom_confirming": 0
   },
   {
     "id": 10,
@@ -153,11 +225,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 151,
     "deaths": 19,
-    "pcr": 3056
+    "pcr": 4420,
+    "hospitalize": 3,
+    "severe": 0,
+    "discharge": 129,
+    "symptom_confirming": 0
   },
   {
     "id": 11,
@@ -169,11 +249,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 1019,
+    "cases": 1022,
     "deaths": 52,
-    "pcr": 11661
+    "pcr": 28059,
+    "hospitalize": 20,
+    "severe": 4,
+    "discharge": 950,
+    "symptom_confirming": 0
   },
   {
     "id": 12,
@@ -185,11 +273,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 917,
+    "cases": 919,
     "deaths": 45,
-    "pcr": 8537
+    "pcr": 16716,
+    "hospitalize": 24,
+    "severe": 3,
+    "discharge": 850,
+    "symptom_confirming": 0
   },
   {
     "id": 13,
@@ -201,11 +297,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 5635,
-    "deaths": 317,
-    "pcr": 31231
+    "cases": 5619,
+    "deaths": 316,
+    "pcr": 16351,
+    "hospitalize": 367,
+    "severe": 22,
+    "discharge": 4936,
+    "symptom_confirming": 0
   },
   {
     "id": 14,
@@ -217,11 +321,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 1416,
-    "deaths": 93,
-    "pcr": 8614
+    "cases": 1413,
+    "deaths": 91,
+    "pcr": 11489,
+    "hospitalize": 73,
+    "severe": 13,
+    "discharge": 1249,
+    "symptom_confirming": 0
   },
   {
     "id": 15,
@@ -233,11 +345,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 82,
+    "cases": 83,
     "deaths": 0,
-    "pcr": 3396
+    "pcr": 4627,
+    "hospitalize": 1,
+    "severe": 0,
+    "discharge": 81,
+    "symptom_confirming": 1
   },
   {
     "id": 16,
@@ -249,11 +369,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 227,
     "deaths": 22,
-    "pcr": 2709
+    "pcr": 3722,
+    "hospitalize": 2,
+    "severe": 0,
+    "discharge": 203,
+    "symptom_confirming": 0
   },
   {
     "id": 17,
@@ -265,11 +393,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202058
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 299,
     "deaths": 27,
-    "pcr": 2207
+    "pcr": 2847,
+    "hospitalize": 29,
+    "severe": 2,
+    "discharge": 243,
+    "symptom_confirming": 0
   },
   {
     "id": 18,
@@ -281,11 +417,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 122,
     "deaths": 8,
-    "pcr": 2082
+    "pcr": 3062,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 114,
+    "symptom_confirming": 0
   },
   {
     "id": 19,
@@ -297,11 +441,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 71,
     "deaths": 1,
-    "pcr": 2806
+    "pcr": 4968,
+    "hospitalize": 2,
+    "severe": 0,
+    "discharge": 68,
+    "symptom_confirming": 0
   },
   {
     "id": 20,
@@ -313,11 +465,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 76,
     "deaths": 0,
-    "pcr": 2054
+    "pcr": 3026,
+    "hospitalize": 1,
+    "severe": 0,
+    "discharge": 75,
+    "symptom_confirming": 0
   },
   {
     "id": 21,
@@ -329,11 +489,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 155,
+    "cases": 154,
     "deaths": 7,
-    "pcr": 2890
+    "pcr": 4317,
+    "hospitalize": 4,
+    "severe": 2,
+    "discharge": 143,
+    "symptom_confirming": 0
   },
   {
     "id": 22,
@@ -345,11 +513,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 79,
+    "cases": 78,
     "deaths": 1,
-    "pcr": 3075
+    "pcr": 3698,
+    "hospitalize": 4,
+    "severe": 0,
+    "discharge": 73,
+    "symptom_confirming": 0
   },
   {
     "id": 23,
@@ -361,11 +537,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 517,
+    "cases": 516,
     "deaths": 34,
-    "pcr": 8133
+    "pcr": 11375,
+    "hospitalize": 9,
+    "severe": 0,
+    "discharge": 468,
+    "symptom_confirming": 5
   },
   {
     "id": 24,
@@ -377,11 +561,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 44,
+    "cases": 45,
     "deaths": 1,
-    "pcr": 2154
+    "pcr": 2668,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 44,
+    "symptom_confirming": 0
   },
   {
     "id": 25,
@@ -393,11 +585,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 100,
     "deaths": 1,
-    "pcr": 1444
+    "pcr": 2099,
+    "hospitalize": 1,
+    "severe": 1,
+    "discharge": 98,
+    "symptom_confirming": 0
   },
   {
     "id": 26,
@@ -409,11 +609,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 363,
+    "cases": 360,
     "deaths": 18,
-    "pcr": 5267
+    "pcr": 9200,
+    "hospitalize": 3,
+    "severe": 0,
+    "discharge": 339,
+    "symptom_confirming": 0
   },
   {
     "id": 27,
@@ -425,11 +633,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 1794,
+    "cases": 1787,
     "deaths": 86,
-    "pcr": 14831
+    "pcr": 35807,
+    "hospitalize": 26,
+    "severe": 8,
+    "discharge": 1675,
+    "symptom_confirming": 0
   },
   {
     "id": 28,
@@ -441,11 +657,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 699,
     "deaths": 43,
-    "pcr": 9091
+    "pcr": 11974,
+    "hospitalize": 3,
+    "severe": 0,
+    "discharge": 653,
+    "symptom_confirming": 0
   },
   {
     "id": 29,
@@ -457,11 +681,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202054
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 87,
+    "cases": 92,
     "deaths": 2,
-    "pcr": 1954
+    "pcr": 3240,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 90,
+    "symptom_confirming": 0
   },
   {
     "id": 30,
@@ -473,11 +705,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 63,
     "deaths": 3,
-    "pcr": 3364
+    "pcr": 3859,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 60,
+    "symptom_confirming": 0
   },
   {
     "id": 31,
@@ -489,11 +729,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 3,
     "deaths": 0,
-    "pcr": 1162
+    "pcr": 1429,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 3,
+    "symptom_confirming": 0
   },
   {
     "id": 32,
@@ -505,11 +753,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 24,
     "deaths": 0,
-    "pcr": 904
+    "pcr": 1202,
+    "hospitalize": 1,
+    "severe": 1,
+    "discharge": 23,
+    "symptom_confirming": 0
   },
   {
     "id": 33,
@@ -521,11 +777,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 24,
+    "cases": 25,
     "deaths": 0,
-    "pcr": 1284
+    "pcr": 1836,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 25,
+    "symptom_confirming": 0
   },
   {
     "id": 34,
@@ -537,11 +801,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 164,
+    "cases": 168,
     "deaths": 3,
-    "pcr": 5746
+    "pcr": 7484,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 165,
+    "symptom_confirming": 0
   },
   {
     "id": 35,
@@ -553,11 +825,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202058
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 36,
+    "cases": 37,
     "deaths": 0,
-    "pcr": 1498
+    "pcr": 1965,
+    "hospitalize": 1,
+    "severe": 1,
+    "discharge": 36,
+    "symptom_confirming": 0
   },
   {
     "id": 36,
@@ -569,11 +849,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 5,
     "deaths": 1,
-    "pcr": 597
+    "pcr": 827,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 4,
+    "symptom_confirming": 0
   },
   {
     "id": 37,
@@ -585,11 +873,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 28,
     "deaths": 0,
-    "pcr": 1841
+    "pcr": 2386,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 28,
+    "symptom_confirming": 0
   },
   {
     "id": 38,
@@ -601,11 +897,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 82,
     "deaths": 4,
-    "pcr": 1238
+    "pcr": 2532,
+    "hospitalize": 5,
+    "severe": 0,
+    "discharge": 73,
+    "symptom_confirming": 0
   },
   {
     "id": 39,
@@ -617,11 +921,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 74,
     "deaths": 3,
-    "pcr": 1579
+    "pcr": 1893,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 71,
+    "symptom_confirming": 0
   },
   {
     "id": 40,
@@ -633,11 +945,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 825,
-    "deaths": 29,
-    "pcr": 10408
+    "cases": 826,
+    "deaths": 28,
+    "pcr": 15045,
+    "hospitalize": 46,
+    "severe": 2,
+    "discharge": 752,
+    "symptom_confirming": 0
   },
   {
     "id": 41,
@@ -649,11 +969,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 45,
+    "cases": 47,
     "deaths": 0,
-    "pcr": 1219
+    "pcr": 1568,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 47,
+    "symptom_confirming": 0
   },
   {
     "id": 42,
@@ -665,11 +993,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 17,
     "deaths": 1,
-    "pcr": 2345
+    "pcr": 3044,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 16,
+    "symptom_confirming": 0
   },
   {
     "id": 43,
@@ -681,11 +1017,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
-    "cases": 47,
+    "cases": 48,
     "deaths": 3,
-    "pcr": 3492
+    "pcr": 4130,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 45,
+    "symptom_confirming": 0
   },
   {
     "id": 44,
@@ -697,11 +1041,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 60,
     "deaths": 1,
-    "pcr": 3466
+    "pcr": 4462,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 59,
+    "symptom_confirming": 0
   },
   {
     "id": 45,
@@ -713,11 +1065,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202057
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 17,
     "deaths": 0,
-    "pcr": 1213
+    "pcr": 1487,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 17,
+    "symptom_confirming": 0
   },
   {
     "id": 46,
@@ -729,11 +1089,19 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 11,
     "deaths": 0,
-    "pcr": 1477
+    "pcr": 2305,
+    "hospitalize": 1,
+    "severe": 0,
+    "discharge": 10,
+    "symptom_confirming": 0
   },
   {
     "id": 47,
@@ -745,10 +1113,18 @@
     "last_updated": {
       "cases_date": 20200617,
       "deaths_date": 20200617,
-      "pcr_date": 202059
+      "pcr_date": 20200617,
+      "hospitalize_date": 20200617,
+      "severe_date": 20200617,
+      "discharge_date": 20200617,
+      "symptom_confirming_date": 20200617
     },
     "cases": 142,
     "deaths": 7,
-    "pcr": 2456
+    "pcr": 2966,
+    "hospitalize": 0,
+    "severe": 0,
+    "discharge": 135,
+    "symptom_confirming": 0
   }
 ]
