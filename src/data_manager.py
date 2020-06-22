@@ -1,7 +1,7 @@
 import json
 from .const import (PREFECTURES_JSON_PATH, PREDICTION_TOTAL_JSON_PATH,
                     HISTORY_TOTAL_JSON_PATH, TODAY_TOTAL_JSON_PATH,
-                    STATISTICS_JSON_PATH)
+                    STATISTICS_JSON_PATH, POSITIVE_DETAIL_JSON_PATH)
 
 
 class DataManager:
@@ -16,6 +16,8 @@ class DataManager:
             self.prediction_total_json = f.read()
         with open(STATISTICS_JSON_PATH) as f:
             self.statistics_json = f.read()
+        with open(POSITIVE_DETAIL_JSON_PATH) as f:
+            self.positive_detail_json = f.read()
 
     def get_positive_detail_json(self, prefecture):
         json_dict = [x for x in json.loads(self.positive_detail_json) if x['prefecture'] == prefecture]
