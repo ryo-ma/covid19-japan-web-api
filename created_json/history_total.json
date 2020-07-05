@@ -1508,5 +1508,15 @@
     "discharge": 17613,
     "death": 990,
     "symptom_confirming": 11
+  },
+  {
+    "date": 20200705,
+    "pcr": 498782,
+    "hospitalize": 1511,
+    "positive": 20234,
+    "severe": 34,
+    "discharge": 17683,
+    "death": 990,
+    "symptom_confirming": 11
   }
 ]
