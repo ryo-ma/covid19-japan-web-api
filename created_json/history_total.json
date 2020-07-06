@@ -1512,11 +1512,21 @@
   {
     "date": 20200705,
     "pcr": 498782,
-    "hospitalize": 1511,
+    "hospitalize": 1513,
     "positive": 20234,
     "severe": 34,
     "discharge": 17683,
     "death": 990,
     "symptom_confirming": 11
+  },
+  {
+    "date": 20200706,
+    "pcr": 503516,
+    "hospitalize": 1690,
+    "positive": 20487,
+    "severe": 35,
+    "discharge": 17758,
+    "death": 990,
+    "symptom_confirming": 12
   }
 ]
