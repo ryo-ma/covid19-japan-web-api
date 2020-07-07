@@ -999,10 +999,10 @@
       "discharge_date": 20200706,
       "symptom_confirming_date": 20200706
     },
-    "cases": 17,
+    "cases": 18,
     "deaths": 1,
     "pcr": 3366,
-    "hospitalize": 0,
+    "hospitalize": 1,
     "severe": 0,
     "discharge": 16,
     "symptom_confirming": 0
@@ -1071,10 +1071,10 @@
       "discharge_date": 20200706,
       "symptom_confirming_date": 20200706
     },
-    "cases": 17,
+    "cases": 18,
     "deaths": 0,
     "pcr": 1589,
-    "hospitalize": 0,
+    "hospitalize": 1,
     "severe": 0,
     "discharge": 17,
     "symptom_confirming": 0

@@ -1502,8 +1502,8 @@
   {
     "date": 20200704,
     "pcr": 493905,
-    "hospitalize": 1343,
-    "positive": 19994,
+    "hospitalize": 1344,
+    "positive": 19995,
     "severe": 33,
     "discharge": 17613,
     "death": 990,
@@ -1512,8 +1512,8 @@
   {
     "date": 20200705,
     "pcr": 498782,
-    "hospitalize": 1513,
-    "positive": 20234,
+    "hospitalize": 1514,
+    "positive": 20235,
     "severe": 34,
     "discharge": 17683,
     "death": 990,
@@ -1522,8 +1522,8 @@
   {
     "date": 20200706,
     "pcr": 503516,
-    "hospitalize": 1690,
-    "positive": 20487,
+    "hospitalize": 1692,
+    "positive": 20489,
     "severe": 35,
     "discharge": 17758,
     "death": 990,
