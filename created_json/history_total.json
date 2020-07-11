@@ -1558,5 +1558,25 @@
     "discharge": 18119,
     "death": 994,
     "symptom_confirming": 13
+  },
+  {
+    "date": 20200710,
+    "pcr": 544029,
+    "hospitalize": 2078,
+    "positive": 21431,
+    "severe": 32,
+    "discharge": 18305,
+    "death": 995,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200711,
+    "pcr": 555282,
+    "hospitalize": 2298,
+    "positive": 21841,
+    "severe": 34,
+    "discharge": 18498,
+    "death": 995,
+    "symptom_confirming": 13
   }
 ]
