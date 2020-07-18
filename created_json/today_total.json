@@ -1,10 +1,10 @@
 {
-  "date": 20200717,
-  "pcr": 620667,
-  "hospitalize": 3383,
-  "positive": 24185,
-  "severe": 39,
-  "discharge": 19750,
+  "date": 20200718,
+  "pcr": 629767,
+  "hospitalize": 3772,
+  "positive": 24844,
+  "severe": 41,
+  "discharge": 20020,
   "death": 998,
   "symptom_confirming": 18
 }
