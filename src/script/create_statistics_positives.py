@@ -21,7 +21,7 @@ def create_json_file():
             .query('性別!="女性"')
         male_count = len(filtered_positve_df_by_male)
         female_count = len(filtered_positve_df_by_female)
-        unkonw_gender_count = len(filtered_positve_df_by_unknown_gender)
+        unknown_gender_count = len(filtered_positve_df_by_unknown_gender)
 
         prefecture = {
             'name_ja': name,
@@ -35,8 +35,8 @@ def create_json_file():
                 'count': female_count,
                 'generations_count': get_generations_count(filtered_positve_df_by_female),
             },
-            'unkown_gender': {
-                'count': unkonw_gender_count,
+            'unknown_gender': {
+                'count': unknown_gender_count,
                 'generations_count': get_generations_count(filtered_positve_df_by_unknown_gender),
             }
         }

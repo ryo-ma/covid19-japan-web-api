@@ -368,7 +368,7 @@
         "unknown": 2
       }
     },
-    "unkown_gender": {
+    "unknown_gender": {
       "count": 2,
       "generations_count": {
         "00s": 0,
