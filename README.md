@@ -349,7 +349,7 @@ This is a statistic of the **positives API** and does not include data that is n
         "unknown": 2
       }
     },
-    "unkown_gender": {
+    "unknown_gender": {
       "count": 2,
       "generations_count": {
         "00s": 0,
