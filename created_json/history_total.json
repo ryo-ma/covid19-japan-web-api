@@ -1872,41 +1872,51 @@
   {
     "date": 20200810,
     "pcr": 1019815,
-    "hospitalize": 13668,
+    "hospitalize": 13671,
     "positive": 48702,
     "severe": 161,
-    "discharge": 33708,
+    "discharge": 33705,
     "death": 1060,
     "symptom_confirming": 230
   },
   {
     "date": 20200811,
     "pcr": 1027853,
-    "hospitalize": 13683,
+    "hospitalize": 13697,
     "positive": 49640,
     "severe": 171,
-    "discharge": 34629,
+    "discharge": 34615,
     "death": 1065,
     "symptom_confirming": 227
   },
   {
     "date": 20200812,
     "pcr": 1061782,
-    "hospitalize": 14040,
+    "hospitalize": 14048,
     "positive": 50922,
     "severe": 177,
-    "discharge": 35542,
+    "discharge": 35534,
     "death": 1072,
     "symptom_confirming": 232
   },
   {
     "date": 20200813,
     "pcr": 1088940,
-    "hospitalize": 13709,
+    "hospitalize": 13724,
     "positive": 51859,
     "severe": 203,
-    "discharge": 36788,
+    "discharge": 36773,
     "death": 1076,
     "symptom_confirming": 250
+  },
+  {
+    "date": 20200814,
+    "pcr": 1111155,
+    "hospitalize": 13428,
+    "positive": 52929,
+    "severe": 211,
+    "discharge": 38130,
+    "death": 1086,
+    "symptom_confirming": 249
   }
 ]
