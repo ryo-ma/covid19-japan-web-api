@@ -1918,5 +1918,15 @@
     "discharge": 38130,
     "death": 1086,
     "symptom_confirming": 249
+  },
+  {
+    "date": 20200815,
+    "pcr": 1167647,
+    "hospitalize": 13296,
+    "positive": 54289,
+    "severe": 229,
+    "discharge": 39560,
+    "death": 1098,
+    "symptom_confirming": 268
   }
 ]
