@@ -1925,8 +1925,18 @@
     "hospitalize": 13296,
     "positive": 54289,
     "severe": 229,
-    "discharge": 39560,
+    "discharge": 39591,
     "death": 1098,
     "symptom_confirming": 268
+  },
+  {
+    "date": 20200816,
+    "pcr": 1180931,
+    "hospitalize": 13279,
+    "positive": 55426,
+    "severe": 232,
+    "discharge": 40734,
+    "death": 1101,
+    "symptom_confirming": 276
   }
 ]
