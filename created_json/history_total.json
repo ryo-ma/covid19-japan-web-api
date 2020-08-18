@@ -1948,5 +1948,15 @@
     "discharge": 41843,
     "death": 1112,
     "symptom_confirming": 271
+  },
+  {
+    "date": 20200818,
+    "pcr": 1217763,
+    "hospitalize": 13062,
+    "positive": 57397,
+    "severe": 243,
+    "discharge": 42933,
+    "death": 1128,
+    "symptom_confirming": 238
   }
 ]
