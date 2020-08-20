@@ -1958,5 +1958,25 @@
     "discharge": 42933,
     "death": 1128,
     "symptom_confirming": 238
+  },
+  {
+    "date": 20200819,
+    "pcr": 1239798,
+    "hospitalize": 12357,
+    "positive": 58262,
+    "severe": 239,
+    "discharge": 44479,
+    "death": 1141,
+    "symptom_confirming": 248
+  },
+  {
+    "date": 20200820,
+    "pcr": 1263040,
+    "hospitalize": 11925,
+    "positive": 59213,
+    "severe": 237,
+    "discharge": 45910,
+    "death": 1157,
+    "symptom_confirming": 185
   }
 ]
