@@ -2018,5 +2018,15 @@
     "discharge": 49967,
     "death": 1194,
     "symptom_confirming": 176
+  },
+  {
+    "date": 20200825,
+    "pcr": 1361246,
+    "hospitalize": 11330,
+    "positive": 63833,
+    "severe": 252,
+    "discharge": 51072,
+    "death": 1209,
+    "symptom_confirming": 186
   }
 ]
