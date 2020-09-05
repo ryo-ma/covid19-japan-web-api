@@ -2128,5 +2128,15 @@
     "discharge": 61059,
     "death": 1343,
     "symptom_confirming": 68
+  },
+  {
+    "date": 20200905,
+    "pcr": 1581062,
+    "hospitalize": 8048,
+    "positive": 71588,
+    "severe": 210,
+    "discharge": 62101,
+    "death": 1362,
+    "symptom_confirming": 70
   }
 ]
