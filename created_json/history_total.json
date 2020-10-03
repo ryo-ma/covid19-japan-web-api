@@ -2408,5 +2408,15 @@
     "discharge": 77855,
     "death": 1591,
     "symptom_confirming": 39
+  },
+  {
+    "date": 20201003,
+    "pcr": 2153702,
+    "hospitalize": 5365,
+    "positive": 85480,
+    "severe": 137,
+    "discharge": 78444,
+    "death": 1603,
+    "symptom_confirming": 32
   }
 ]
