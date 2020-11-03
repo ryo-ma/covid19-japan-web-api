@@ -2718,5 +2718,15 @@
     "discharge": 94019,
     "death": 1787,
     "symptom_confirming": 98
+  },
+  {
+    "date": 20201103,
+    "pcr": 2759064,
+    "hospitalize": 6576,
+    "positive": 102993,
+    "severe": 163,
+    "discharge": 94475,
+    "death": 1793,
+    "symptom_confirming": 101
   }
 ]
