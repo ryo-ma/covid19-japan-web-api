@@ -15,6 +15,11 @@ apiv1 = Blueprint('apiv1', __name__, url_prefix='/api/v1')
 
 @app.route('/')
 def index():
+    """
+    Return the index of the index.
+
+    Args:
+    """
     return jsonify({'message': 'Web API to get COVID-19(coronavirus) information of each prefecture in Japan.'})
 
 

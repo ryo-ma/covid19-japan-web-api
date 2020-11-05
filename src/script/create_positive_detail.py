@@ -5,6 +5,11 @@ from ..const import (PREFECTURES, POSITIVE_DETAIL_JSON_PATH,
 
 
 def create_json_file():
+    """
+    Create csv json file.
+
+    Args:
+    """
     header = ('code', 'announcement_date', 'src', 'prefecture', 'residence_prefecture',
               'age', 'gender', 'attribute', 'prefecture_number',
               'travel_or_contact', 'detail', 'id', 'diagnosis_date', 'onset', 'symptom',
@@ -24,6 +29,13 @@ def create_json_file():
 
 
 def output_positive_detail(json_path, positive_detail_df):
+    """
+    Outputs a json formatted as a string.
+
+    Args:
+        json_path: (str): write your description
+        positive_detail_df: (todo): write your description
+    """
     with open(json_path, 'w', encoding='utf-8') as f:
         json_data = ([] if positive_detail_df is None
                      else positive_detail_df.drop(positive_detail_df.index[0]).fillna('').to_dict(orient='records'))

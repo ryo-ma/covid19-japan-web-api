@@ -2,6 +2,12 @@ from flasgger import Swagger
 
 
 def set_config(app):
+    """
+    Sets the application configuration.
+
+    Args:
+        app: (todo): write your description
+    """
     template = {
         "swagger": "2.0",
         "info": {

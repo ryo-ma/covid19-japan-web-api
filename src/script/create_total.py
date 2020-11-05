@@ -12,6 +12,13 @@ PREDICTION_DAYS = 30
 
 
 def create_total_dict(df, date):
+    """
+    Create a dict. total_dict.
+
+    Args:
+        df: (todo): write your description
+        date: (todo): write your description
+    """
     if len(df.loc[date].shape) > 1:
         summary = df.loc[date].sum().fillna(0)
     else:
@@ -31,6 +38,11 @@ def create_total_dict(df, date):
 
 
 def create_json_file():
+    """
+    Creates a summary file.
+
+    Args:
+    """
     summary_df = pd.read_csv(SUMMARY_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
     today = summary_df.index.max()
     output_total(TODAY_TOTAL_JSON_PATH, create_total_dict(summary_df, today))
@@ -57,15 +69,36 @@ def create_json_file():
 
 
 def output_total(json_path, data_dict):
+    """
+    Outputs the_path to file.
+
+    Args:
+        json_path: (str): write your description
+        data_dict: (dict): write your description
+    """
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(data_dict, f, indent=2, ensure_ascii=False)
 
 
 def predict(array_data):
+    """
+    Predict the best fit.
+
+    Args:
+        array_data: (array): write your description
+    """
     array_x = range(1, DAY_RANGE + 1)
     array_y = array_data[len(array_data) - DAY_RANGE: len(array_data)]
     return curve_fit(nonlinear_func, array_x, array_y)
 
 
 def nonlinear_func(x, a, b):
+    """
+    Nonlinear function.
+
+    Args:
+        x: (todo): write your description
+        a: (todo): write your description
+        b: (todo): write your description
+    """
     return b * np.exp(a*x)
