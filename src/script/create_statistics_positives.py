@@ -7,6 +7,11 @@ GENERATIONS = ('00代', '10代', '20代', '30代', '40代', '50代', '60代', '7
 
 
 def create_json_file():
+    """
+    Create json file. json.
+
+    Args:
+    """
     positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, encoding='utf-8')
     analytics = []
     with open(PREFECTURES_JSON_PATH, 'r', encoding='utf-8') as f:
@@ -50,6 +55,12 @@ def create_json_file():
 
 
 def get_generations_count(df):
+    """
+    Get number of compound count.
+
+    Args:
+        df: (str): write your description
+    """
     generations_count = {}
     for generation_str in GENERATIONS:
         label = generation_str.replace('代', 's').replace('不明', 'unknown')

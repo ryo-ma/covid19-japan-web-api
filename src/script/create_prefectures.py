@@ -4,6 +4,13 @@ from ..const import (PREFECTURES_JSON_PATH, SUMMARY_DATA_PATH, PREFECTURES_DATA_
 
 
 def get_pcr_df_by_prefecture(prefecture, df):
+    """
+    Get pcr pre - pcr pre - pcr.
+
+    Args:
+        prefecture: (str): write your description
+        df: (todo): write your description
+    """
     for i in range(1, len(df.filter(like=prefecture, axis=0))):
         prefecture_pcr_df = df.filter(like=prefecture, axis=0)[-i:][:1]
         if not prefecture_pcr_df['検査数'].isna().bool():
@@ -11,6 +18,11 @@ def get_pcr_df_by_prefecture(prefecture, df):
 
 
 def create_json_file():
+    """
+    Create a summary file.
+
+    Args:
+    """
     prefectures = []
     prefectures_df = pd.read_csv(PREFECTURES_DATA_PATH, index_col=1, na_values='0', encoding='utf-8')
     prefectures_df['name-en'] = prefectures_df['name-en'].replace(' Prefecture', '', regex=True)
