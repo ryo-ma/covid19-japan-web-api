@@ -2931,11 +2931,11 @@
   },
   {
     "date": 20201124,
-    "pcr": 3287832,
-    "hospitalize": 18533,
-    "positive": 134632,
+    "pcr": 3289941,
+    "hospitalize": 18513,
+    "positive": 134641,
     "severe": 345,
-    "discharge": 113936,
+    "discharge": 113965,
     "death": 2002,
     "symptom_confirming": 125
   }
