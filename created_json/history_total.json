@@ -2675,9 +2675,9 @@
     "hospitalize": 5735,
     "positive": 99564,
     "severe": 161,
-    "discharge": 91961,
+    "discharge": 91958,
     "death": 1746,
-    "symptom_confirming": 86
+    "symptom_confirming": 89
   },
   {
     "date": 20201030,
@@ -2968,5 +2968,15 @@
     "discharge": 118757,
     "death": 2064,
     "symptom_confirming": 119
+  },
+  {
+    "date": 20201128,
+    "pcr": 3467290,
+    "hospitalize": 19646,
+    "positive": 142780,
+    "severe": 440,
+    "discharge": 120891,
+    "death": 2087,
+    "symptom_confirming": 120
   }
 ]
