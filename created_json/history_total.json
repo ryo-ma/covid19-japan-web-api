@@ -3241,12 +3241,22 @@
   },
   {
     "date": 20201225,
-    "pcr": 4614909,
-    "hospitalize": 28301,
-    "positive": 210682,
+    "pcr": 4617557,
+    "hospitalize": 28295,
+    "positive": 210692,
     "severe": 644,
-    "discharge": 178315,
+    "discharge": 178331,
     "death": 3118,
     "symptom_confirming": 912
+  },
+  {
+    "date": 20201226,
+    "pcr": 4680122,
+    "hospitalize": 29413,
+    "positive": 214259,
+    "severe": 654,
+    "discharge": 180705,
+    "death": 3168,
+    "symptom_confirming": 937
   }
 ]
