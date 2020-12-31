@@ -3298,5 +3298,15 @@
     "discharge": 189994,
     "death": 3362,
     "symptom_confirming": 1287
+  },
+  {
+    "date": 20201231,
+    "pcr": 4855555,
+    "hospitalize": 34166,
+    "positive": 231016,
+    "severe": 681,
+    "discharge": 192010,
+    "death": 3427,
+    "symptom_confirming": 1377
   }
 ]
