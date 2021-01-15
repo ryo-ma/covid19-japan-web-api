@@ -3448,5 +3448,15 @@
     "discharge": 234078,
     "death": 4246,
     "symptom_confirming": 1196
+  },
+  {
+    "date": 20210115,
+    "pcr": 5722512,
+    "hospitalize": 65250,
+    "positive": 309926,
+    "severe": 934,
+    "discharge": 238983,
+    "death": 4328,
+    "symptom_confirming": 1329
   }
 ]
