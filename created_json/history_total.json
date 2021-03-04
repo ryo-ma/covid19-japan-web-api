@@ -3928,5 +3928,15 @@
     "discharge": 413773,
     "death": 7997,
     "symptom_confirming": 473
+  },
+  {
+    "date": 20210304,
+    "pcr": 8438926,
+    "hospitalize": 12434,
+    "positive": 436260,
+    "severe": 398,
+    "discharge": 415237,
+    "death": 8065,
+    "symptom_confirming": 488
   }
 ]
