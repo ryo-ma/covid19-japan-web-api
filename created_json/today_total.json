@@ -1,10 +1,10 @@
 {
-  "date": 20210313,
-  "pcr": 8895863,
-  "hospitalize": 12110,
-  "positive": 446297,
-  "severe": 337,
-  "discharge": 425157,
-  "death": 8522,
-  "symptom_confirming": 472
+  "date": 20210314,
+  "pcr": 8929914,
+  "hospitalize": 12364,
+  "positive": 447585,
+  "severe": 328,
+  "discharge": 426137,
+  "death": 8573,
+  "symptom_confirming": 475
 }
