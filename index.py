@@ -75,8 +75,7 @@ def positives():
     if 'prefecture' in request.args:
         prefecture = request.args['prefecture']
         if prefecture in PREFECTURES:
-            response_json = data_manager.get_positive_detail_json(prefecture)
-            return response_json, 200, {'Content-Type': 'application/json; charset=utf-8'}
+            return [], 200, {'Content-Type': 'application/json; charset=utf-8'}
         else:
             return abort(404, {'prefecture': f'Does not find {prefecture}'})
     message = 'The prefecture parameter is required.\

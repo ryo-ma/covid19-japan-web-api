@@ -256,6 +256,8 @@
 <!-- ## Positives -->
 ## 感染者データ(Positives)
 
+** ⚠️ このAPIはリソースの問題で廃止しました**
+
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都](https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都)
 
 <!-- **Query parameter** -->
