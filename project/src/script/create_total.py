@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from scipy.optimize import curve_fit
 import json
+import os
 import datetime
 from ..const import (SUMMARY_DATA_PATH, TODAY_TOTAL_JSON_PATH,
                      HISTORY_TOTAL_JSON_PATH, PREDICTION_TOTAL_JSON_PATH)
@@ -33,12 +34,12 @@ def create_total_dict(df, date):
 def create_json_file():
     summary_df = pd.read_csv(SUMMARY_DATA_PATH, index_col=0, na_values='0', encoding='utf-8')
     today = summary_df.index.max()
-    output_total(TODAY_TOTAL_JSON_PATH, create_total_dict(summary_df, today))
+    output_total(os.path.join('project', TODAY_TOTAL_JSON_PATH), create_total_dict(summary_df, today))
 
     history_total_list = []
     for date in summary_df.index.drop_duplicates().values:
         history_total_list.append(create_total_dict(summary_df, date))
-    output_total(HISTORY_TOTAL_JSON_PATH, history_total_list)
+    output_total(os.path.join('project', HISTORY_TOTAL_JSON_PATH), history_total_list)
 
     positive_param, _ = predict([x['positive'] for x in history_total_list])
     death_param, _ = predict([x['death'] for x in history_total_list])
@@ -53,7 +54,7 @@ def create_json_file():
             'positive': positive_prediction,
             'death': death_prediction,
         })
-    output_total(PREDICTION_TOTAL_JSON_PATH, predicted_totals)
+    output_total(os.path.join('project', PREDICTION_TOTAL_JSON_PATH), predicted_totals)
 
 
 def output_total(json_path, data_dict):

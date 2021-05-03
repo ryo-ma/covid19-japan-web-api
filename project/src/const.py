@@ -2,13 +2,13 @@ import textwrap
 import os
 
 # Output json path
-PREFECTURES_JSON_PATH = './project/created_json/prefectures.json'
-TODAY_TOTAL_JSON_PATH = './project/created_json/today_total.json'
-HISTORY_TOTAL_JSON_PATH = './project/created_json/history_total.json'
-PREDICTION_TOTAL_JSON_PATH = './project/created_json/prediction_total.json'
-POSITIVE_DETAIL_JSON_PATH = './project/created_json/positive_detail.json'
-STATISTICS_JSON_PATH = './project/created_json/statistics_positive_detail.json'
-POSITIVE_DEITAL_PREFECTURE_JSON_PATH_FORMAT = './project/created_json/positive_detail_by_prefecture/{0}.json'
+PREFECTURES_JSON_PATH = './created_json/prefectures.json'
+TODAY_TOTAL_JSON_PATH = './created_json/today_total.json'
+HISTORY_TOTAL_JSON_PATH = './created_json/history_total.json'
+PREDICTION_TOTAL_JSON_PATH = './created_json/prediction_total.json'
+POSITIVE_DETAIL_JSON_PATH = './created_json/positive_detail.json'
+STATISTICS_JSON_PATH = './created_json/statistics_positive_detail.json'
+POSITIVE_DEITAL_PREFECTURE_JSON_PATH_FORMAT = './created_json/positive_detail_by_prefecture/{0}.json'
 
 # Source data path
 SOURCE_DATA_BASE_PATH = 'data/2019-ncov-japan/50_Data/'

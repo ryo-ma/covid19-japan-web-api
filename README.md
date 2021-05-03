@@ -241,8 +241,6 @@ This API includes Quarantine staff data, FLIGHT data and SHIPMENT data.
 
 ## Positives
 
-**⚠️ Sorry. This API has been deprecated due to resource issues.**
-
 **Endpoint**: [https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都](https://covid19-japan-web-api.now.sh/api/v1/positives?prefecture=東京都)
 
 **Query parameter**

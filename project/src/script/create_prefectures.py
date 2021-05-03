@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import os
 from ..const import (PREFECTURES_JSON_PATH, SUMMARY_DATA_PATH, PREFECTURES_DATA_PATH)
 
 
@@ -44,5 +45,5 @@ def create_json_file():
                             'symptom_confirming': int(summary['確認中']),
                             })
 
-    with open(PREFECTURES_JSON_PATH, 'w', encoding='utf-8') as f:
+    with open(os.path.join('project', PREFECTURES_JSON_PATH), 'w', encoding='utf-8') as f:
         json.dump(prefectures, f, indent=2, ensure_ascii=False)

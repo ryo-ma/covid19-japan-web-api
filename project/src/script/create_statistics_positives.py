@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import os
 from ..const import (POSITIVE_DETAIL_DATA_PATH, PREFECTURES_JSON_PATH, STATISTICS_JSON_PATH)
 
 
@@ -9,7 +10,7 @@ GENERATIONS = ('00代', '10代', '20代', '30代', '40代', '50代', '60代', '7
 def create_json_file():
     positive_detail_df = pd.read_csv(POSITIVE_DETAIL_DATA_PATH, encoding='utf-8')
     analytics = []
-    with open(PREFECTURES_JSON_PATH, 'r', encoding='utf-8') as f:
+    with open(os.path.join('project', PREFECTURES_JSON_PATH), 'r', encoding='utf-8') as f:
         prefectures = json.load(f)
     for prefecture in prefectures:
         name = prefecture['name_ja']
@@ -42,7 +43,7 @@ def create_json_file():
         }
         analytics.append(prefecture)
 
-    with open(STATISTICS_JSON_PATH, 'w', encoding='utf-8') as f:
+    with open(os.path.join('project', STATISTICS_JSON_PATH), 'w', encoding='utf-8') as f:
         json.dump(analytics,
                   f,
                   indent=2,
