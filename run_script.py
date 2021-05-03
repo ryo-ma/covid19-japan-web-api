@@ -1,6 +1,6 @@
-from src.script import create_prefectures
-from src.script import create_total
-from src.script import create_statistics_positives
+from project.src.script import create_prefectures
+from project.src.script import create_total
+from project.src.script import create_statistics_positives
 
 
 if __name__ == '__main__':
