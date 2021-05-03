@@ -20,8 +20,8 @@ class SourceDataFormatTest(unittest.TestCase):
         self.assert_by_header_line('prefectures.csv')
 
     def assert_by_header_line(self, filename):
-        EXPECTED_BASE_PATH = 'project/tests/expected-data-format/'
-        SOURCE_DATA_BASE_PATH = '/data/2019-ncov-japan/50_Data/'
+        EXPECTED_BASE_PATH = 'tests/expected-data-format/'
+        SOURCE_DATA_BASE_PATH = 'data/2019-ncov-japan/50_Data/'
         expected = self.get_header_line(os.path.join(EXPECTED_BASE_PATH, filename))
         actual = self.get_header_line(os.path.join(SOURCE_DATA_BASE_PATH, filename))
         self.assertEqual(expected, actual)
