@@ -1,10 +1,10 @@
 {
-  "date": 20210527,
-  "pcr": 14038826,
-  "hospitalize": 59279,
-  "positive": 730565,
-  "severe": 1371,
-  "discharge": 655579,
-  "death": 12614,
-  "symptom_confirming": 3057
+  "date": 20210528,
+  "pcr": 14157325,
+  "hospitalize": 58591,
+  "positive": 734599,
+  "severe": 1375,
+  "discharge": 660090,
+  "death": 12727,
+  "symptom_confirming": 3155
 }
