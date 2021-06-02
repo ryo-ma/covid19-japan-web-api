@@ -4828,5 +4828,15 @@
     "discharge": 680784,
     "death": 13061,
     "symptom_confirming": 1954
+  },
+  {
+    "date": 20210602,
+    "pcr": 14525865,
+    "hospitalize": 49471,
+    "positive": 749842,
+    "severe": 1284,
+    "discharge": 685212,
+    "death": 13153,
+    "symptom_confirming": 1970
   }
 ]
