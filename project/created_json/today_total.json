@@ -1,10 +1,10 @@
 {
-  "date": 20210616,
-  "pcr": 15561427,
-  "hospitalize": 25867,
-  "positive": 778355,
-  "severe": 803,
-  "discharge": 737161,
-  "death": 14200,
-  "symptom_confirming": 1091
+  "date": 20210617,
+  "pcr": 15629362,
+  "hospitalize": 24382,
+  "positive": 780050,
+  "severe": 763,
+  "discharge": 740257,
+  "death": 14282,
+  "symptom_confirming": 1093
 }
