@@ -5021,12 +5021,22 @@
   },
   {
     "date": 20210621,
-    "pcr": 15850702,
-    "hospitalize": 19864,
-    "positive": 785994,
+    "pcr": 15852994,
+    "hospitalize": 19866,
+    "positive": 785999,
     "severe": 721,
-    "discharge": 750561,
+    "discharge": 750564,
     "death": 14436,
     "symptom_confirming": 1097
+  },
+  {
+    "date": 20210622,
+    "pcr": 15905922,
+    "hospitalize": 18814,
+    "positive": 787010,
+    "severe": 697,
+    "discharge": 752701,
+    "death": 14467,
+    "symptom_confirming": 992
   }
 ]
