@@ -5221,12 +5221,22 @@
   },
   {
     "date": 20210711,
-    "pcr": 17032145,
-    "hospitalize": 18033,
-    "positive": 819396,
+    "pcr": 17036039,
+    "hospitalize": 18021,
+    "positive": 819402,
     "severe": 425,
-    "discharge": 785335,
+    "discharge": 785353,
     "death": 14961,
     "symptom_confirming": 1031
+  },
+  {
+    "date": 20210712,
+    "pcr": 17065706,
+    "hospitalize": 18457,
+    "positive": 821427,
+    "severe": 432,
+    "discharge": 786943,
+    "death": 14968,
+    "symptom_confirming": 1023
   }
 ]
