@@ -1,10 +1,10 @@
 {
-  "date": 20210810,
-  "pcr": 19200366,
-  "hospitalize": 126445,
-  "positive": 1044337,
-  "severe": 1230,
-  "discharge": 899508,
-  "death": 15310,
-  "symptom_confirming": 3038
+  "date": 20210811,
+  "pcr": 19329862,
+  "hospitalize": 126857,
+  "positive": 1055203,
+  "severe": 1332,
+  "discharge": 910162,
+  "death": 15324,
+  "symptom_confirming": 2824
 }
