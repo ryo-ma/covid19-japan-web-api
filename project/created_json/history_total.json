@@ -5698,5 +5698,25 @@
     "discharge": 1136230,
     "death": 15810,
     "symptom_confirming": 11946
+  },
+  {
+    "date": 20210828,
+    "pcr": 21443370,
+    "hospitalize": 229780,
+    "positive": 1412155,
+    "severe": 2060,
+    "discharge": 1154284,
+    "death": 15864,
+    "symptom_confirming": 12191
+  },
+  {
+    "date": 20210829,
+    "pcr": 21542807,
+    "hospitalize": 231530,
+    "positive": 1435082,
+    "severe": 2070,
+    "discharge": 1173495,
+    "death": 15909,
+    "symptom_confirming": 14112
   }
 ]
