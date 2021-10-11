@@ -6132,11 +6132,21 @@
   {
     "date": 20211010,
     "pcr": 25377801,
-    "hospitalize": 12026,
+    "hospitalize": 10991,
     "positive": 1711106,
-    "severe": 501,
-    "discharge": 1678294,
-    "death": 17915,
-    "symptom_confirming": 2057
+    "severe": 483,
+    "discharge": 1680086,
+    "death": 17940,
+    "symptom_confirming": 2053
+  },
+  {
+    "date": 20211011,
+    "pcr": 25403935,
+    "hospitalize": 10469,
+    "positive": 1711685,
+    "severe": 478,
+    "discharge": 1681168,
+    "death": 17954,
+    "symptom_confirming": 2058
   }
 ]
