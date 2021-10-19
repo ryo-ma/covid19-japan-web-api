@@ -6201,22 +6201,32 @@
   },
   {
     "date": 20211017,
-    "pcr": 25771738,
-    "hospitalize": 6723,
-    "positive": 1715013,
+    "pcr": 25774573,
+    "hospitalize": 6726,
+    "positive": 1715020,
     "severe": 317,
-    "discharge": 1688253,
+    "discharge": 1688257,
     "death": 18105,
     "symptom_confirming": 1896
   },
   {
     "date": 20211018,
-    "pcr": 25790236,
-    "hospitalize": 6431,
-    "positive": 1715421,
+    "pcr": 25795865,
+    "hospitalize": 6436,
+    "positive": 1715432,
     "severe": 312,
-    "discharge": 1688910,
+    "discharge": 1688916,
     "death": 18116,
     "symptom_confirming": 1928
+  },
+  {
+    "date": 20211019,
+    "pcr": 25851704,
+    "hospitalize": 6031,
+    "positive": 1715729,
+    "severe": 294,
+    "discharge": 1689651,
+    "death": 18134,
+    "symptom_confirming": 1877
   }
 ]
