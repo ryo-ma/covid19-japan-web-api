@@ -6981,12 +6981,22 @@
   },
   {
     "date": 20220103,
-    "pcr": 29398434,
-    "hospitalize": 4102,
-    "positive": 1735445,
+    "pcr": 29400692,
+    "hospitalize": 4156,
+    "positive": 1735520,
     "severe": 52,
-    "discharge": 1712662,
+    "discharge": 1712683,
     "death": 18408,
     "symptom_confirming": 237
+  },
+  {
+    "date": 20220104,
+    "pcr": 29409088,
+    "hospitalize": 4729,
+    "positive": 1736303,
+    "severe": 54,
+    "discharge": 1712855,
+    "death": 18409,
+    "symptom_confirming": 274
   }
 ]
