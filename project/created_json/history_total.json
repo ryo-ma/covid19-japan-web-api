@@ -7001,12 +7001,22 @@
   },
   {
     "date": 20220105,
-    "pcr": 29496505,
-    "hospitalize": 5565,
-    "positive": 1737443,
+    "pcr": 29498594,
+    "hospitalize": 5640,
+    "positive": 1737559,
     "severe": 60,
-    "discharge": 1713130,
+    "discharge": 1713172,
     "death": 18410,
     "symptom_confirming": 302
+  },
+  {
+    "date": 20220106,
+    "pcr": 29586969,
+    "hospitalize": 7763,
+    "positive": 1740065,
+    "severe": 64,
+    "discharge": 1713374,
+    "death": 18411,
+    "symptom_confirming": 481
   }
 ]
