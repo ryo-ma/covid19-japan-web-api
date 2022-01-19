@@ -1,10 +1,10 @@
 {
-  "date": 20220118,
-  "pcr": 30780547,
-  "hospitalize": 136809,
-  "positive": 1903902,
-  "severe": 261,
-  "discharge": 1743429,
-  "death": 18447,
-  "symptom_confirming": 5181
+  "date": 20220119,
+  "pcr": 30928225,
+  "hospitalize": 156794,
+  "positive": 1933764,
+  "severe": 281,
+  "discharge": 1750910,
+  "death": 18457,
+  "symptom_confirming": 7567
 }
