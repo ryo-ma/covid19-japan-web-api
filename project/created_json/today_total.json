@@ -1,10 +1,10 @@
 {
-  "date": 20220220,
-  "pcr": 37523247,
-  "hospitalize": 830873,
-  "positive": 4412604,
-  "severe": 1477,
-  "discharge": 3538145,
-  "death": 21649,
-  "symptom_confirming": 21901
+  "date": 20220221,
+  "pcr": 37614891,
+  "hospitalize": 829061,
+  "positive": 4485465,
+  "severe": 1495,
+  "discharge": 3611774,
+  "death": 21834,
+  "symptom_confirming": 22760
 }
