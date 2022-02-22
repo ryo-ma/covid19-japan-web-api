@@ -7478,5 +7478,15 @@
     "discharge": 3611774,
     "death": 21834,
     "symptom_confirming": 22760
+  },
+  {
+    "date": 20220222,
+    "pcr": 37797005,
+    "hospitalize": 805295,
+    "positive": 4541368,
+    "severe": 1504,
+    "discharge": 3697127,
+    "death": 22013,
+    "symptom_confirming": 16897
   }
 ]
