@@ -7901,12 +7901,22 @@
   },
   {
     "date": 20220405,
-    "pcr": 43911909,
-    "hospitalize": 442620,
-    "positive": 6736722,
+    "pcr": 43919395,
+    "hospitalize": 442611,
+    "positive": 6736831,
     "severe": 508,
-    "discharge": 6243467,
+    "discharge": 6243585,
     "death": 28340,
     "symptom_confirming": 22259
+  },
+  {
+    "date": 20220406,
+    "pcr": 44099816,
+    "hospitalize": 448416,
+    "positive": 6779056,
+    "severe": 508,
+    "discharge": 6284012,
+    "death": 28400,
+    "symptom_confirming": 18192
   }
 ]
