@@ -8008,5 +8008,15 @@
     "discharge": 6735378,
     "death": 28958,
     "symptom_confirming": 25580
+  },
+  {
+    "date": 20220416,
+    "pcr": 45541263,
+    "hospitalize": 498036,
+    "positive": 7288110,
+    "severe": 222,
+    "discharge": 6735500,
+    "death": 28958,
+    "symptom_confirming": 25580
   }
 ]
