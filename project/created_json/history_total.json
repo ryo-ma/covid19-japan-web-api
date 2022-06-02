@@ -8451,12 +8451,32 @@
   },
   {
     "date": 20220530,
-    "pcr": 52411702,
-    "hospitalize": 272986,
-    "positive": 8812586,
+    "pcr": 52402259,
+    "hospitalize": 272983,
+    "positive": 8812467,
     "severe": 90,
-    "discharge": 8489776,
+    "discharge": 8489660,
     "death": 30571,
     "symptom_confirming": 19217
+  },
+  {
+    "date": 20220531,
+    "pcr": 52528223,
+    "hospitalize": 254938,
+    "positive": 8831131,
+    "severe": 93,
+    "discharge": 8528532,
+    "death": 30595,
+    "symptom_confirming": 17030
+  },
+  {
+    "date": 20220601,
+    "pcr": 52661280,
+    "hospitalize": 240754,
+    "positive": 8851101,
+    "severe": 95,
+    "discharge": 8558961,
+    "death": 30631,
+    "symptom_confirming": 20719
   }
 ]
