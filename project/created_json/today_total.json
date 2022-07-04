@@ -1,10 +1,10 @@
 {
-  "date": 20220703,
-  "pcr": 56828878,
-  "hospitalize": 164722,
-  "positive": 9376684,
-  "severe": 61,
-  "discharge": 9164006,
-  "death": 31321,
-  "symptom_confirming": 16599
+  "date": 20220704,
+  "pcr": 56863809,
+  "hospitalize": 172146,
+  "positive": 9398838,
+  "severe": 62,
+  "discharge": 9177415,
+  "death": 31329,
+  "symptom_confirming": 17912
 }
